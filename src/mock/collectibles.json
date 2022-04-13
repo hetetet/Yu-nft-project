@@ -1,0 +1,363 @@
+{
+  "data": {
+    "trendingCollections": {
+      "edges": [
+        {
+          "node": {
+            "slug": "nftrees",
+            "logo": "https://lh3.googleusercontent.com/kKYNGoWd-qwSwP3vGX8OWFjONJkcaorIorzMfKTixENb2P13qKXlAFH0e3jzs4IAFseTgIM8x-lSTnXFmu8oFTmbZzcImEN4SInrEQ=s120",
+            "banner": "https://lh3.googleusercontent.com/m9eLIniL7CiQwyb7_ZidVIGXpEdM2g8sShj8IkEkIKZHtv2GxHuSVEiEc-juXJxO33-E54j73w5ZLknNa7LcNjOx1InUb1SQR5ucxg=s300",
+            "description": "- Treeverse NFTrees: https://opensea.io/collection/nftrees\r\n- Treeverse Founders' Land : https://opensea.io/collection/treeverse\r\n- Timeless Characters: https://opensea.io/collection/timelessnfts\r\n\r\n##Welcome to Treeverse\r\nTreeverse is an open-world, fantasy MMORPG with a MOBA-style combat system. Slay beasts, forge mighty weapons, lure the biggest fish, form guilds, defeat dungeons and explore the deep lore. The living world of Treeverse awaits those bold enough to conquer it.\r\n\r\n#What are NFTrees\r\nNFTrees are a collection of 420 randomly composed trees that come with gameplay utility. Each Tree can be placed in the game world, grow its own fruits, which you can sell to other players. [More Information](https://bit.ly/3t18nAH)\r\n\r\n- Follow us on Twitter : [Twitter](https://twitter.com/TheTreeverse)\r\n- Monthly Updates can be found at : [Substack](https://substack.com/profile/65278179-endless-clouds)\r\n- Join our Discord and meet our amazing Community: [Discord](https://discord.gg/treeverse)",
+            "name": "NFTrees",
+            "shortDescription": null,
+            "isVerified": true,
+            "owner": {
+              "address": "0x229c487eaf50369e1ada49893a1ecddd4d513114",
+              "config": "VERIFIED",
+              "isCompromised": false,
+              "user": {
+                "publicUsername": "Treeverse_Wallet",
+                "id": "VXNlclR5cGU6MTEwNjUzNA=="
+              },
+              "displayName": "Treeverse_Wallet",
+              "imageUrl": "https://storage.googleapis.com/opensea-static/opensea-profile/14.png",
+              "id": "QWNjb3VudFR5cGU6NTkwNjE1ODA="
+            },
+            "stats": {
+              "totalSupply": 421.0,
+              "id": "Q29sbGVjdGlvblN0YXRzVHlwZToyMjU0Nw=="
+            },
+            "defaultChain": { "identifier": "ETHEREUM" },
+            "relayId": "Q29sbGVjdGlvblR5cGU6MjI1NDc=",
+            "id": "Q29sbGVjdGlvblR5cGU6MjI1NDc=",
+            "__typename": "CollectionType"
+          },
+          "cursor": "YXJyYXljb25uZWN0aW9uOjA="
+        },
+        {
+          "node": {
+            "slug": "apedocs",
+            "logo": "https://lh3.googleusercontent.com/gEhdqQPFiS_iyYmVYYtIvzvIjcBysOydKs4b46w4tAcPZHXnyA5ZeXksUT4-qBhEWIFHX9KNO71Ey_n6vQ28OeTvSmjjlzTZQAhn=s120",
+            "banner": "https://storage.opensea.io/files/64cc4eb51e002e7c16bf17829494f963.png",
+            "description": "ApeDocs is the first ever NFT collection for healthcare workers, made by a team of doctors. We are building the best online community of healthcare workers (and enthusiasts) the world has ever seen. Our generative art collection represents the entire spectrum of healthcare (doctors, nurses, dentists, nutritionists, physical therapists etc.), and was hand drawn by our sole artist (Shirin Syed, MD). The founders of ApeDocs (Shirin & Usama) are both medical doctors working in New York, whilst also being content creators on Instagram (@halalgirlnewyork and @realskindoctor, combined following of 200,000). ApeDocs NFTs not only provide the best digital artwork for healthcare workers to relate with in the NFT space, they are also utility NFTs unlocking partner perks (medical apparel, education, device and training) with a combined value at launch of >$700, and growing each day. \n\nWe are not a typical NFT project, and we're not looking for traders/flippers. Come join a project with substance.",
+            "name": "ApeDocs",
+            "shortDescription": null,
+            "isVerified": false,
+            "owner": {
+              "address": "0x396caabe32e3c8acbc108dbc725bbdcb062807a5",
+              "config": "VERIFIED",
+              "isCompromised": false,
+              "user": {
+                "publicUsername": "ApeDocs",
+                "id": "VXNlclR5cGU6Mjc0OTE0NDY="
+              },
+              "displayName": "ApeDocs",
+              "imageUrl": "https://lh3.googleusercontent.com/d5dOuCkUvbggI4_Y79KqBomCzc_PBwCPog-lQed-I-vJLbM3_l2lOFcZHsRaFf991jkWL-YkP7zF4DDYkzqsLvV6-HclWqnmXBAvyZ4=s100",
+              "id": "QWNjb3VudFR5cGU6MjcwMjIwMTMz"
+            },
+            "stats": {
+              "totalSupply": 10000.0,
+              "id": "Q29sbGVjdGlvblN0YXRzVHlwZTo4Mjc0MzE0"
+            },
+            "defaultChain": { "identifier": "ETHEREUM" },
+            "relayId": "Q29sbGVjdGlvblR5cGU6ODI3NDMxNA==",
+            "id": "Q29sbGVjdGlvblR5cGU6ODI3NDMxNA==",
+            "__typename": "CollectionType"
+          },
+          "cursor": "YXJyYXljb25uZWN0aW9uOjE="
+        },
+        {
+          "node": {
+            "slug": "monftersclub",
+            "logo": "https://lh3.googleusercontent.com/LUMJK3aqMXN6taHe04arCY5ZACTFRRmbPRg7e3FBumTzvjift0TeoWa4K5LEoEgvPuKCrgRvpwU6czfACbojwX9S_Y25oUXmyH0ceA=s120",
+            "banner": "https://lh3.googleusercontent.com/Ek3c83rPHpEwtlDCKYsq44xDQTfY_xa2r0-Xg-ywZJT8XnTQHtp0cnuWYooRLr6FlJ1esAhORdh3fPz-M7PzbKaDndUNIoO12tqdCw=s300",
+            "description": "Monfters, a group of monsters with a unique philosophy in the world of NFT. Their purpose is to find the real shining treasures in the world of NFT and bring them to more people.Monfters Club NFTs are the genesis NFTs of MonfterVerse. Limited edition of 8,000 editions, each with a different combination of cosmetic elements.",
+            "name": "Monfters Club",
+            "shortDescription": null,
+            "isVerified": false,
+            "owner": null,
+            "stats": {
+              "totalSupply": 8000.0,
+              "id": "Q29sbGVjdGlvblN0YXRzVHlwZTozNzI0ODg3"
+            },
+            "defaultChain": { "identifier": "ETHEREUM" },
+            "relayId": "Q29sbGVjdGlvblR5cGU6MzcyNDg4Nw==",
+            "id": "Q29sbGVjdGlvblR5cGU6MzcyNDg4Nw==",
+            "__typename": "CollectionType"
+          },
+          "cursor": "YXJyYXljb25uZWN0aW9uOjI="
+        },
+        {
+          "node": {
+            "slug": "cryptoadz-by-gremplin",
+            "logo": "https://lh3.googleusercontent.com/iofetZEyiEIGcNyJKpbOafb_efJyeo7QOYnTog8qcQJhqoBU-Vu9l3lXidZhXOAdu6dj4fzWW6BZDU5vLseC-K03rMMu-_j2LvwcbHo=s120",
+            "banner": "https://lh3.googleusercontent.com/HobqLd9onF24ZGcyYoCjFIKwMUY6IfPT0Rtw6Xdn2lUx4Mfl00KpBSE7OhAvPoDf-_5o7AJWr4j_Qkw0gvuCUGK1JpQT10Rz4B3ourA=s300",
+            "description": "CrypToadz are a collection 6969 small amphibious creatures trying to escape the tyrannical rule of the Evil King Gremplin. Created by Gremplin, with a small bit of help from his friends.\n\nThis project is in the public domain. Feel free to use the toadz in any way you want.",
+            "name": "CrypToadz by GREMPLIN",
+            "shortDescription": null,
+            "isVerified": true,
+            "owner": {
+              "address": "0x1b2ef9d5db72ea1103fc24eedd2226477409383a",
+              "config": null,
+              "isCompromised": false,
+              "user": {
+                "publicUsername": null,
+                "id": "VXNlclR5cGU6MTA5MDIzNQ=="
+              },
+              "displayName": null,
+              "imageUrl": "https://storage.googleapis.com/opensea-static/opensea-profile/14.png",
+              "id": "QWNjb3VudFR5cGU6NTg0MTMyMjc="
+            },
+            "stats": {
+              "totalSupply": 7014.0,
+              "id": "Q29sbGVjdGlvblN0YXRzVHlwZToxNDYyMTYx"
+            },
+            "defaultChain": { "identifier": "ETHEREUM" },
+            "relayId": "Q29sbGVjdGlvblR5cGU6MTQ2MjE2MQ==",
+            "id": "Q29sbGVjdGlvblR5cGU6MTQ2MjE2MQ==",
+            "__typename": "CollectionType"
+          },
+          "cursor": "YXJyYXljb25uZWN0aW9uOjM="
+        },
+        {
+          "node": {
+            "slug": "cryptopunks",
+            "logo": "https://lh3.googleusercontent.com/BdxvLseXcfl57BiuQcQYdJ64v-aI8din7WPk0Pgo3qQFhAUH-B6i-dCqqc_mCkRIzULmwzwecnohLhrcH8A9mpWIZqA7ygc52Sr81hE=s120",
+            "banner": "https://storage.opensea.io/0xb47e3cd837ddf8e4c57f05d70ab865de6e193bbb-featured-1556589448.png",
+            "description": "CryptoPunks launched as a fixed set of 10,000 items in mid-2017 and became one of the inspirations for the ERC-721 standard. They have been featured in places like The New York Times, Christie\u2019s of London, Art|Basel Miami, and The PBS NewsHour.",
+            "name": "CryptoPunks",
+            "shortDescription": null,
+            "isVerified": true,
+            "owner": null,
+            "stats": {
+              "totalSupply": 9999.0,
+              "id": "Q29sbGVjdGlvblN0YXRzVHlwZToyNTYz"
+            },
+            "defaultChain": { "identifier": "ETHEREUM" },
+            "relayId": "Q29sbGVjdGlvblR5cGU6MjU2Mw==",
+            "id": "Q29sbGVjdGlvblR5cGU6MjU2Mw==",
+            "__typename": "CollectionType"
+          },
+          "cursor": "YXJyYXljb25uZWN0aW9uOjQ="
+        },
+        {
+          "node": {
+            "slug": "meebits",
+            "logo": "https://lh3.googleusercontent.com/d784iHHbqQFVH1XYD6HoT4u3y_Fsu_9FZUltWjnOzoYv7qqB5dLUqpGyHBd8Gq3h4mykK5Enj8pxqOUorgD2PfIWcVj9ugvu8l0=s120",
+            "banner": "https://lh3.googleusercontent.com/qwnNTSRrf9CVq4LGawMcg7i2KZhD9I5LHA4uSNnB43-UAniBBgpNMSIz013HCKtrB9KFjrJUIRwpGbTzzNA4srJV39t3LnW3vaugmB8=s2500",
+            "description": "The Meebits are 20,000 unique 3D voxel characters, created by a custom generative algorithm, then registered on the Ethereum blockchain.",
+            "name": "Meebits",
+            "shortDescription": null,
+            "isVerified": true,
+            "owner": null,
+            "stats": {
+              "totalSupply": 20000.0,
+              "id": "Q29sbGVjdGlvblN0YXRzVHlwZTo1MzY1MzU="
+            },
+            "defaultChain": { "identifier": "ETHEREUM" },
+            "relayId": "Q29sbGVjdGlvblR5cGU6NTM2NTM1",
+            "id": "Q29sbGVjdGlvblR5cGU6NTM2NTM1",
+            "__typename": "CollectionType"
+          },
+          "cursor": "YXJyYXljb25uZWN0aW9uOjU="
+        },
+        {
+          "node": {
+            "slug": "drawshop",
+            "logo": "https://lh3.googleusercontent.com/ZTk3z-AbXhHiUYi2krQgohfRkgsHeNz-F5_sk4U16_dgC3yxOdYpIx7xtrbY7hUKLolgz0tH5v0ezcQOAkHBKo5hfef1ZMJHR2CtjQk=s120",
+            "banner": "https://lh3.googleusercontent.com/s-prK9CLkKh9yAiRnWq9f60yEGjOGFjszTrzGTJg6ea-Ju_XPdZicvWJ4s3sUgZbb9zIhPPWZVu-25t8AGqvtz1jjrL62_GGa1kUmw=s300",
+            "description": "DAO Game with NFT, P2E and DeFi.\nUsing NFT and Pixel Arts, you can decorate your shop and formulate your own strategy. Through PvP you can compete with other player's strategy and NFT and in the process, collect JOY Tokens! You can look at other player's Drawshop in the World Map and enjoy all kinds of events. You will be able to fully enjoy the quintessence of a 2D metaverse!",
+            "name": "Drawshop Kingdom Reverse",
+            "shortDescription": null,
+            "isVerified": false,
+            "owner": {
+              "address": "0x060f57485885fb6767536bf2a1ee2589dee8d2d6",
+              "config": null,
+              "isCompromised": false,
+              "user": {
+                "publicUsername": "DKReverse",
+                "id": "VXNlclR5cGU6MjE4ODA0MDg="
+              },
+              "displayName": "DKReverse",
+              "imageUrl": "https://lh3.googleusercontent.com/ZTk3z-AbXhHiUYi2krQgohfRkgsHeNz-F5_sk4U16_dgC3yxOdYpIx7xtrbY7hUKLolgz0tH5v0ezcQOAkHBKo5hfef1ZMJHR2CtjQk=s100",
+              "id": "QWNjb3VudFR5cGU6MjEwMDQ4ODU2"
+            },
+            "stats": {
+              "totalSupply": 14212.0,
+              "id": "Q29sbGVjdGlvblN0YXRzVHlwZTo2MjgzMzAw"
+            },
+            "defaultChain": { "identifier": "KLAYTN" },
+            "relayId": "Q29sbGVjdGlvblR5cGU6NjI4MzMwMA==",
+            "id": "Q29sbGVjdGlvblR5cGU6NjI4MzMwMA==",
+            "__typename": "CollectionType"
+          },
+          "cursor": "YXJyYXljb25uZWN0aW9uOjY="
+        },
+        {
+          "node": {
+            "slug": "yeti-town",
+            "logo": "https://lh3.googleusercontent.com/KVq2btXsh1WS3ZJXKwyyWbBeRQvP8Teg4ZfpUGh2GKGUqHLs1sgZ8BItLu1Can8RFDVyI7I3NcplcQp9PKTiH9glewY8jv4NFKV-O5o=s120",
+            "banner": "https://lh3.googleusercontent.com/OkwfSzxyMHcQqBW_BM9IoESud-sxXlxeXigo9Wqql3Vj0UbD-bcZW940mVtUO0YT-atgvIkNHlQREKwFYf8HO1rJVw15oSkkxNBbOg=s300",
+            "description": "True Owner Count: 1,912, Total of 2,147 Yetis staked [as of 11th March 2022]\n\nA collection of 4,444 Genesis Yetis will roam Yeti Town. Your NFT acts as a membership that provides you with exclusive access to the toymaker's collector's chest, communities, merchandise and future developments into the metaverse. \n\nPhase 2 will commence shortly with our unique P2E mechanics that will allow you to earn $FRXST, level up and unlock new utilities. \n\nStay !frosty\u2026",
+            "name": "Yeti Town NFT",
+            "shortDescription": null,
+            "isVerified": false,
+            "owner": {
+              "address": "0xc613a6997ec7f6aa5c4bf1f297fecbf4cd3ba37e",
+              "config": null,
+              "isCompromised": false,
+              "user": {
+                "publicUsername": "YetiTown",
+                "id": "VXNlclR5cGU6MjA4OTQ4NDY="
+              },
+              "displayName": "YetiTown",
+              "imageUrl": "https://lh3.googleusercontent.com/RX6vHqY1XK5iR_k9MMG8fUPcsEvg0W_3Wy2EDyWP4PxdYXr5dTDMA2KARhwG_URqxiwy6mfiTPsnG93YdjvocEIGTJcmaXE5Mm_O=s100",
+              "id": "QWNjb3VudFR5cGU6MjA1OTAzODMx"
+            },
+            "stats": {
+              "totalSupply": 4444.0,
+              "id": "Q29sbGVjdGlvblN0YXRzVHlwZTo1ODYzNTU0"
+            },
+            "defaultChain": { "identifier": "ETHEREUM" },
+            "relayId": "Q29sbGVjdGlvblR5cGU6NTg2MzU1NA==",
+            "id": "Q29sbGVjdGlvblR5cGU6NTg2MzU1NA==",
+            "__typename": "CollectionType"
+          },
+          "cursor": "YXJyYXljb25uZWN0aW9uOjc="
+        },
+        {
+          "node": {
+            "slug": "degenz",
+            "logo": "https://lh3.googleusercontent.com/vH7gGLr1U-MQ2wS_Xtxhd5UcA_y-vs4RNFIvh6_2I2zVIf9pahLQB8Om5_q80FbbOAWioTFyP5Pof7EpdY4zfrCuNEzGDWVE9bTy=s120",
+            "banner": "https://lh3.googleusercontent.com/V28eTBHpvKBZi4W3nLCCd49LHzpobZSA7i-9Y4sHE1oRVvclF-OlSTUdzVufLMhrDfjHSwdJKfEcZd8FEcVsMhYfatc9V2cc2B0Zjg=s300",
+            "description": "**OPENSEA SUPPLY IS WRONG** - there are only 3,943 Degenz remaining, the rest have been burnt to the null address.\n\nDegenz is a collection of 3,943 unique characters, inspired by crypto meme culture and stored on the Ethereum blockchain. We are a community of degenerates punting around crypto and NFTs.\n\nOwning a Degenz or Re-Genz NFT grants you access to the exclusive alpha channels in our Discord: https://discord.gg/PEZeDhEn. ",
+            "name": "Degenz",
+            "shortDescription": null,
+            "isVerified": true,
+            "owner": {
+              "address": "0xdedede1ddede6a7d62de73cc33ef9f93f7429ee3",
+              "config": null,
+              "isCompromised": false,
+              "user": {
+                "publicUsername": "Degenz_Deployer",
+                "id": "VXNlclR5cGU6OTg2NzM3"
+              },
+              "displayName": "Degenz_Deployer",
+              "imageUrl": "https://lh3.googleusercontent.com/phchr5mfCGZdEMZqiKc1DAVPXAVTHIcEbtCv1e2-eKLINFoX1BlTYwqT8lPm-XF3cQ8McaBx51q_c3ncjsc42nUvDInxqhwUoXkn=s100",
+              "id": "QWNjb3VudFR5cGU6NTQ2MjQzMjE="
+            },
+            "stats": {
+              "totalSupply": 11111.0,
+              "id": "Q29sbGVjdGlvblN0YXRzVHlwZTo3NjY2NTA="
+            },
+            "defaultChain": { "identifier": "ETHEREUM" },
+            "relayId": "Q29sbGVjdGlvblR5cGU6NzY2NjUw",
+            "id": "Q29sbGVjdGlvblR5cGU6NzY2NjUw",
+            "__typename": "CollectionType"
+          },
+          "cursor": "YXJyYXljb25uZWN0aW9uOjg="
+        },
+        {
+          "node": {
+            "slug": "think-what-you-think",
+            "logo": "https://lh3.googleusercontent.com/jgF1OdfhBTYeSiA81K0wNiLQY9THDzfnd2ZRW9-553WdSEOcVnXmruOaAauPwVXBpytiksSXqmVybigBEnoJ3WfFKeDHKuLPPG47=s120",
+            "banner": "https://lh3.googleusercontent.com/BIj0acmTV4fOkVc19zekcM3SMuI33jxtPTijsEmc3gBwylhJfXHa0WGvRJRZ7J9hAZBwa80HnGZ4M2NtlJpImvL3SGTojcTmnz6b=s300",
+            "description": "",
+            "name": "think what you think",
+            "shortDescription": null,
+            "isVerified": false,
+            "owner": {
+              "address": "0x85fe87e86024b24dbc64dbae43882ba56f302726",
+              "config": null,
+              "isCompromised": false,
+              "user": {
+                "publicUsername": "THING-",
+                "id": "VXNlclR5cGU6MjYwNjgzOTQ="
+              },
+              "displayName": "THING-",
+              "imageUrl": "https://lh3.googleusercontent.com/-KmRdDzrVmpBdEr5wuBlhHk_sP0lRBJsqKOYwytEBpTJnalRgMbyXZRtomgH9iU_9ub4sXnExSbVAbEhkBR_i1VAvJ7PSH2BThyudA=s100",
+              "id": "QWNjb3VudFR5cGU6MjYxNTQyNTE3"
+            },
+            "stats": {
+              "totalSupply": 25.0,
+              "id": "Q29sbGVjdGlvblN0YXRzVHlwZTo3ODYyNTM2"
+            },
+            "defaultChain": { "identifier": "ETHEREUM" },
+            "relayId": "Q29sbGVjdGlvblR5cGU6Nzg2MjUzNg==",
+            "id": "Q29sbGVjdGlvblR5cGU6Nzg2MjUzNg==",
+            "__typename": "CollectionType"
+          },
+          "cursor": "YXJyYXljb25uZWN0aW9uOjk="
+        },
+        {
+          "node": {
+            "slug": "galaxy-fight-club",
+            "logo": "https://lh3.googleusercontent.com/AG-bMrIZAa8Gby3GSuacvR7KWfD3AIvFD1H7r9-3z_iIm1GI9n6NBt573G_xeQq-RggWtmJkU27wLX9sE_ZJViL-wFpd88y8ewjT6g=s120",
+            "banner": "https://lh3.googleusercontent.com/xrK9_aIKC-nM70bsjDyc6VEr5XN9QWcTj8TYrpN0HUBkGA_UHDISbX2BNmYbeHCzNII1YT_ENhmxSC5LHpEbv1TwyM8zHT3NNXqd1w=s300",
+            "description": "The first cross-IP PvP fighting game where holders of different NFT collections can log-in and battle each other.\r\n\r\nLink to GFC Genesis Keys: [GFC Genesis Keys](https://opensea.io/collection/gfcgenesiskey)\r\n\r\nLink to GFC Genesis Weapons: [GFC Genesis Weapons](https://opensea.io/collection/gfc-genesis-weapon)\r\n\r\nLink to GFC Genesis Mystery Items: [GFC Genesis Mystery Items](https://opensea.io/collection/gfc-genesis-mystery-item)\r\n\r\nLink to GFC <> BYOPills: [GFC <> BYOPills](https://opensea.io/collection/gfc-x-byopills)\r\n\r\nLink to GFC Holiday Items: [GFC Holiday Items](https://opensea.io/collection/gfc-holiday-items)\r\n\r\nLink to GFC Companions: [GFC Companions](https://opensea.io/collection/gfc-companion)",
+            "name": "Galaxy Fight Club",
+            "shortDescription": null,
+            "isVerified": true,
+            "owner": {
+              "address": "0x18a9dc08d083791a750f918ba56236f683953cb1",
+              "config": "VERIFIED",
+              "isCompromised": false,
+              "user": {
+                "publicUsername": "GFCContracts",
+                "id": "VXNlclR5cGU6MTExNzkwNQ=="
+              },
+              "displayName": "GFCContracts",
+              "imageUrl": "https://lh3.googleusercontent.com/JOa9smy9JZOirYABdh02I6qFJD_uPQqSK6r125Ahr19c43TK_xj_LR6sPr4pRSc_yyfwVMI9dsBUH6DTDOcnyUgQED33Xjxdi_XMAw=s100",
+              "id": "QWNjb3VudFR5cGU6NTkzMTc4MjM="
+            },
+            "stats": {
+              "totalSupply": 10129.0,
+              "id": "Q29sbGVjdGlvblN0YXRzVHlwZTo4NTY2ODY="
+            },
+            "defaultChain": { "identifier": "ETHEREUM" },
+            "relayId": "Q29sbGVjdGlvblR5cGU6ODU2Njg2",
+            "id": "Q29sbGVjdGlvblR5cGU6ODU2Njg2",
+            "__typename": "CollectionType"
+          },
+          "cursor": "YXJyYXljb25uZWN0aW9uOjEw"
+        },
+        {
+          "node": {
+            "slug": "zodiac-capsules",
+            "logo": "https://lh3.googleusercontent.com/opzxyvOv0EduxtGDts-c7ewem-3-yC9SCxvbL-k9LGdjCVHLmsF9WIY3XVcXIQ4tDfH4nYR2SFMpyh3Ua19rZYFiOIwVcxPDcs7aAA=s120",
+            "banner": "https://lh3.googleusercontent.com/opzxyvOv0EduxtGDts-c7ewem-3-yC9SCxvbL-k9LGdjCVHLmsF9WIY3XVcXIQ4tDfH4nYR2SFMpyh3Ua19rZYFiOIwVcxPDcs7aAA=s300",
+            "description": "The Zodiac Capsule collection is a supplementary collection launched in November 2021 as a free mint to Capsule House holders. A Zodiac can either be minted from a Capsule whose Zodiac has been unclaimed or bought on the secondary market. In order to unlock the utility of the hatched Capsule profile picture, you must hold a capsule from the original Capsule House collection. There are no current plans for Zodiac Capsule profile pictures.",
+            "name": "Zodiac Capsules",
+            "shortDescription": null,
+            "isVerified": false,
+            "owner": {
+              "address": "0x5a83cac3685d84a8057f87167a30b9781c4c887a",
+              "config": null,
+              "isCompromised": false,
+              "user": {
+                "publicUsername": "CapsuleHouse",
+                "id": "VXNlclR5cGU6MzI0NjkyOQ=="
+              },
+              "displayName": "CapsuleHouse",
+              "imageUrl": "https://lh3.googleusercontent.com/jzt7Uq5x6lN4PsVC9R_AU2RUujBEw1Pfe6ygJbKc4YRR9r6c8x8dFmh-hYarCcmVQfvHJMjNUKR2tN4g96Tmv-3YyxyQspva78GWZg=s100",
+              "id": "QWNjb3VudFR5cGU6NTIwNTUzOTc="
+            },
+            "stats": {
+              "totalSupply": 9330.0,
+              "id": "Q29sbGVjdGlvblN0YXRzVHlwZToyNjg4NjQ5"
+            },
+            "defaultChain": { "identifier": "ETHEREUM" },
+            "relayId": "Q29sbGVjdGlvblR5cGU6MjY4ODY0OQ==",
+            "id": "Q29sbGVjdGlvblR5cGU6MjY4ODY0OQ==",
+            "__typename": "CollectionType"
+          },
+          "cursor": "YXJyYXljb25uZWN0aW9uOjEx"
+        }
+      ],
+      "pageInfo": {
+        "endCursor": "YXJyYXljb25uZWN0aW9uOjEx",
+        "hasNextPage": true
+      }
+    }
+  }
+}

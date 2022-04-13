@@ -1,0 +1,393 @@
+{
+  "data": {
+    "trendingCollections": {
+      "edges": [
+        {
+          "node": {
+            "slug": "lux-cards",
+            "logo": "https://lh3.googleusercontent.com/2x3adpC1cN3z2yF_ZbnNH3kjs1ZXQPyjWcmBLHXQrwLJhUUa7Fr4OR2asNuhOx23tHifj1oWH8h10K3EAlvLSx10bp8LXIiZFu_PHHw=s120",
+            "banner": "https://lh3.googleusercontent.com/bFl4G0EMggbTGaQTl2rSjrthnEJYFoVe3xXmdaYqbPCaiUxuLdhc8iKtAqs3_XH1rTkqJG6bp2lJL4qT1iZgkswk8-j9hAH5BQtiaUw=s300",
+            "description": "The People's NFT\n\u2014\n\ud83d\udc49Learn more: https://luxexpression.com/\n\ud83d\udc4bJoin the Community: http://discord.gg/LuxExpression ",
+            "name": "Lux Cards",
+            "shortDescription": null,
+            "isVerified": true,
+            "owner": {
+              "address": "0x566d8e1c46ee6711b7770e0d7c9559fa503c3516",
+              "config": null,
+              "isCompromised": false,
+              "user": {
+                "publicUsername": "LuxExpression",
+                "id": "VXNlclR5cGU6NjE2MDQ="
+              },
+              "displayName": "LuxExpression",
+              "imageUrl": "https://lh3.googleusercontent.com/OnCveYmMPSZ5mYnx8VlcJ0QM-gL1FD0AFc9uQn2s1xiwkiweMgeYdgtMFigZ6ZE0S-mG_Eg_HiZxkfzTFngoLYgI1fwABt6M9VUifaA=s100",
+              "id": "QWNjb3VudFR5cGU6MTEyNDM3NDk="
+            },
+            "stats": {
+              "totalSupply": 56.0,
+              "id": "Q29sbGVjdGlvblN0YXRzVHlwZToxMjIxMQ=="
+            },
+            "defaultChain": { "identifier": "ETHEREUM" },
+            "relayId": "Q29sbGVjdGlvblR5cGU6MTIyMTE=",
+            "id": "Q29sbGVjdGlvblR5cGU6MTIyMTE=",
+            "__typename": "CollectionType"
+          },
+          "cursor": "YXJyYXljb25uZWN0aW9uOjA="
+        },
+        {
+          "node": {
+            "slug": "beezerbears",
+            "logo": "https://lh3.googleusercontent.com/r4omr5BQ2aq45c0nDBg-FbyQlaK_q87PqlvMufLXE5sty7_oVj6bYHQxM2KTJYMesPV4obzH2SyGU4A9SMTnKYvUecBw_a3BUkmcMA=s120",
+            "banner": "https://lh3.googleusercontent.com/r4omr5BQ2aq45c0nDBg-FbyQlaK_q87PqlvMufLXE5sty7_oVj6bYHQxM2KTJYMesPV4obzH2SyGU4A9SMTnKYvUecBw_a3BUkmcMA=s300",
+            "description": "BeezerBears V OUT NOW / https://opensea.io/collection/beezerbears-v",
+            "name": "BeezerBears",
+            "shortDescription": null,
+            "isVerified": false,
+            "owner": {
+              "address": "0x32dc96d9c14bb125d80e542eb44a4c9252a16cee",
+              "config": null,
+              "isCompromised": false,
+              "user": {
+                "publicUsername": "NFTKingCreator",
+                "id": "VXNlclR5cGU6MTQ5MTAz"
+              },
+              "displayName": "NFTKingCreator",
+              "imageUrl": "https://lh3.googleusercontent.com/OxE5_PKKtJO3uqfmYojH4a8gBeAoZ5ECXOIpihW_eixLotScC0myO9I3V7vq0CeChPP2t6O8MQZCOPDs9vCevDcWI_yMLeDRygMc=s100",
+              "id": "QWNjb3VudFR5cGU6MjAwMzE1MDM="
+            },
+            "stats": {
+              "totalSupply": 20257.0,
+              "id": "Q29sbGVjdGlvblN0YXRzVHlwZTo1MTg0MQ=="
+            },
+            "defaultChain": { "identifier": "ETHEREUM" },
+            "relayId": "Q29sbGVjdGlvblR5cGU6NTE4NDE=",
+            "id": "Q29sbGVjdGlvblR5cGU6NTE4NDE=",
+            "__typename": "CollectionType"
+          },
+          "cursor": "YXJyYXljb25uZWN0aW9uOjE="
+        },
+        {
+          "node": {
+            "slug": "moonbase-the-game-v2",
+            "logo": "https://lh3.googleusercontent.com/JrC2bqHyX0asz1JdQJyyFKT-LixBTVOtaPjyW8kspFPf3XIsoQ_vwiKPScw8ru8SmJeoyQfBkxwMCkE4FFOzP5g=s120",
+            "banner": "https://lh3.googleusercontent.com/JrC2bqHyX0asz1JdQJyyFKT-LixBTVOtaPjyW8kspFPf3XIsoQ_vwiKPScw8ru8SmJeoyQfBkxwMCkE4FFOzP5g=s120",
+            "description": "Moonbase is a new DeFi primitive built by GHOULS and designed to encourage alignment, growth, and collaboration between fair-launch projects.",
+            "name": "MoonBase",
+            "shortDescription": null,
+            "isVerified": true,
+            "owner": {
+              "address": "0x514aade50d0a679afd172720a7b6fbaccccb64ee",
+              "config": null,
+              "isCompromised": false,
+              "user": null,
+              "displayName": null,
+              "imageUrl": "https://storage.googleapis.com/opensea-static/opensea-profile/11.png",
+              "id": "QWNjb3VudFR5cGU6MTI5OTM5MDQ="
+            },
+            "stats": {
+              "totalSupply": 5494.0,
+              "id": "Q29sbGVjdGlvblN0YXRzVHlwZToxMjYyOA=="
+            },
+            "defaultChain": { "identifier": "ETHEREUM" },
+            "relayId": "Q29sbGVjdGlvblR5cGU6MTI2Mjg=",
+            "id": "Q29sbGVjdGlvblR5cGU6MTI2Mjg=",
+            "__typename": "CollectionType"
+          },
+          "cursor": "YXJyYXljb25uZWN0aW9uOjI="
+        },
+        {
+          "node": {
+            "slug": "treasure-for-loot",
+            "logo": "https://lh3.googleusercontent.com/HVeYD0FDUiSpJgEoGwCH8u---YXV1n51jRq8j4UHQ87rFfJsXPSavipmwwwYnKBKzepV5b_Y8hiqiIglitv6TplaWajFIDSgiJaZiQk=s120",
+            "banner": "https://lh3.googleusercontent.com/LZ6z3brB6HyF2PofK5lzQNzedjXYWRNG_9RzltFVwGArrHtT1VcI-oEpPd_x-URH957ThdoMl-m9PPOligB-xOTPwDuEBf8W-fC6Mw=s2500",
+            "description": "Treasure is building decentralized, open source, composable currencies for the NFT ecosystem.",
+            "name": "Treasure Project",
+            "shortDescription": null,
+            "isVerified": true,
+            "owner": {
+              "address": "0x2940108780b870ae8f1509be95fdf2b6fb066e41",
+              "config": null,
+              "isCompromised": false,
+              "user": {
+                "publicUsername": "Treasurer",
+                "id": "VXNlclR5cGU6MjA4OTA5Ng=="
+              },
+              "displayName": "Treasurer",
+              "imageUrl": "https://storage.googleapis.com/opensea-static/opensea-profile/4.png",
+              "id": "QWNjb3VudFR5cGU6NzMzNDE1NDA="
+            },
+            "stats": {
+              "totalSupply": 8999.0,
+              "id": "Q29sbGVjdGlvblN0YXRzVHlwZToxMjk3MTQ1"
+            },
+            "defaultChain": { "identifier": "ETHEREUM" },
+            "relayId": "Q29sbGVjdGlvblR5cGU6MTI5NzE0NQ==",
+            "id": "Q29sbGVjdGlvblR5cGU6MTI5NzE0NQ==",
+            "__typename": "CollectionType"
+          },
+          "cursor": "YXJyYXljb25uZWN0aW9uOjM="
+        },
+        {
+          "node": {
+            "slug": "cryptobeasties",
+            "logo": "https://lh3.googleusercontent.com/_tSwhVdMF_yta9VwriSiXrjgyfBfMYciXU1XS-WnGNZnWhfMXsKAHZgKnaJnbYfqHe5zZekPkWIRaQVEMQTGKIpg=s60",
+            "banner": "https://lh3.googleusercontent.com/_tSwhVdMF_yta9VwriSiXrjgyfBfMYciXU1XS-WnGNZnWhfMXsKAHZgKnaJnbYfqHe5zZekPkWIRaQVEMQTGKIpg=s60",
+            "description": "A fun anime-themed Trading Card Game on the blockchain. A 2D Card Game with 3D/VR on the roadmap. Upgrade your characters\u2019 skills and powers to create one-of-a-kind collectibles. Collect, play, level up, and sell!",
+            "name": "CryptoBeasties",
+            "shortDescription": null,
+            "isVerified": false,
+            "owner": {
+              "address": "0x4731558b0c957ded3c45c54e23e9cb5810b6a12a",
+              "config": null,
+              "isCompromised": false,
+              "user": {
+                "publicUsername": "0x4731558b0c957ded3c45c54e23e9cb5810b6a12a",
+                "id": "VXNlclR5cGU6MzU3Mg=="
+              },
+              "displayName": "0x4731558b0c957ded3c45c54e23e9cb5810b6a12a",
+              "imageUrl": "https://storage.googleapis.com/opensea-static/opensea-profile/21.png",
+              "id": "QWNjb3VudFR5cGU6MTc1NDk1"
+            },
+            "stats": {
+              "totalSupply": 14541.0,
+              "id": "Q29sbGVjdGlvblN0YXRzVHlwZToyODk3"
+            },
+            "defaultChain": { "identifier": "ETHEREUM" },
+            "relayId": "Q29sbGVjdGlvblR5cGU6Mjg5Nw==",
+            "id": "Q29sbGVjdGlvblR5cGU6Mjg5Nw==",
+            "__typename": "CollectionType"
+          },
+          "cursor": "YXJyYXljb25uZWN0aW9uOjQ="
+        },
+        {
+          "node": {
+            "slug": "dehorizonfun",
+            "logo": "https://lh3.googleusercontent.com/AyY_-Xu4VtCrABDZXLQOUD-ZByDpg1u_QCYrPka0_j9CJrOoxnS8dQXbrzgXrMc7e2wEqZTHsU7wWyPTvDt5Jbfu_wY2dlwn0hlMqQ=s120",
+            "banner": "https://lh3.googleusercontent.com/XTV6LBiwLYVltxnQSUZvB5xE9e7OzL4ZkINfeNQzWc1Gw3JZzUTPaZ91AnKorEobis-E6dyvmefieTWOpveIsktS26O6DbFDBCtmyg=s300",
+            "description": "DeHorizon---Cutting a new decentralized horizon",
+            "name": "DeHorizon",
+            "shortDescription": null,
+            "isVerified": false,
+            "owner": {
+              "address": "0xf9a8be85760ca01e9ebfdd722af0b883c4611aed",
+              "config": null,
+              "isCompromised": false,
+              "user": {
+                "publicUsername": "DeHorizon",
+                "id": "VXNlclR5cGU6MjY1MTYxMA=="
+              },
+              "displayName": "DeHorizon",
+              "imageUrl": "https://lh3.googleusercontent.com/wK1bf5cczmmLuOGcIr3zDhNrAmofaCs1-x2TI6UBI4t0I9Q_8UR8IaNcFFsTvISIHNNPS5EKJlCmi0EkOcIPUZmC86a9xmFJoxYQ=s100",
+              "id": "QWNjb3VudFR5cGU6Nzk0ODE3Mjc="
+            },
+            "stats": {
+              "totalSupply": 12002.0,
+              "id": "Q29sbGVjdGlvblN0YXRzVHlwZToxOTMwMzUz"
+            },
+            "defaultChain": { "identifier": "ETHEREUM" },
+            "relayId": "Q29sbGVjdGlvblR5cGU6MTkzMDM1Mw==",
+            "id": "Q29sbGVjdGlvblR5cGU6MTkzMDM1Mw==",
+            "__typename": "CollectionType"
+          },
+          "cursor": "YXJyYXljb25uZWN0aW9uOjU="
+        },
+        {
+          "node": {
+            "slug": "moglets",
+            "logo": "https://lh3.googleusercontent.com/bPgEmG5ELaZ8Yv-obacpt__n1XXqYCwi3qVuJgVzQW1PF_AoRtrr6FyQbaZXDS8ZSO9QNXzrgmZBd6bSM9R8KlWj86n_DjRpFc1r2bs=s120",
+            "banner": "https://lh3.googleusercontent.com/mbsw24iKx64NQ26lwXHqvhwRT4e6RpEUMcGmIpC-R49qdXIRkip-rv0E8uICf3E7jHxeNNpfG3c8l8mIpwjt2xRzL4gHJ3-KmYc3Bg=s300",
+            "description": "You will absolutely LOVE these crypto monsters.\r\n\r\nThese adorakable creatures are NFTs that live on the Ethereum blockchain as collectible cards, ready to be adopted. All of the 10,000 unique cards are uniquely crafted with random stats and art. Can you score the most powerful Moglet?\r\n\r\nGet one at [Moglets.com](https://moglets.com) today!\r\nJoin our [Discord Community](https://discord.gg/4nUDwxNpbc)!",
+            "name": "Moglets",
+            "shortDescription": null,
+            "isVerified": false,
+            "owner": {
+              "address": "0x2f889a7a78e6bbc66e67107864b01338ea1e102d",
+              "config": null,
+              "isCompromised": false,
+              "user": {
+                "publicUsername": "Moglets",
+                "id": "VXNlclR5cGU6NTczMzkw"
+              },
+              "displayName": "Moglets",
+              "imageUrl": "https://lh3.googleusercontent.com/bPgEmG5ELaZ8Yv-obacpt__n1XXqYCwi3qVuJgVzQW1PF_AoRtrr6FyQbaZXDS8ZSO9QNXzrgmZBd6bSM9R8KlWj86n_DjRpFc1r2bs=s100",
+              "id": "QWNjb3VudFR5cGU6Mjk0MzYyOTg="
+            },
+            "stats": {
+              "totalSupply": 1398.0,
+              "id": "Q29sbGVjdGlvblN0YXRzVHlwZTo1MzcwNzI="
+            },
+            "defaultChain": { "identifier": "ETHEREUM" },
+            "relayId": "Q29sbGVjdGlvblR5cGU6NTM3MDcy",
+            "id": "Q29sbGVjdGlvblR5cGU6NTM3MDcy",
+            "__typename": "CollectionType"
+          },
+          "cursor": "YXJyYXljb25uZWN0aW9uOjY="
+        },
+        {
+          "node": {
+            "slug": "waifugenesis",
+            "logo": "https://lh3.googleusercontent.com/15Lwa3F6MMc4eEiZ6irD2Pp1PCxwLt4PlqgIYoRqFq44lvrAK--NhaI-5EQUUjwm19LzrAhxMLDLRwsU93QdYhzAuA=s120",
+            "banner": "https://lh3.googleusercontent.com/4KOW5SeZtSNwAXAwsQJQGpTk166iXehHBV1XFDi8QbqTXX-iI59v2EkuaMVOdC79IM9Thlk_DoFQx-7nt4DVPFmNxLacmsPv2kM5Dg=s300",
+            "description": "The collection features a number of works by anime illustrators and 3d artists from around the globe. WAIFU NFTs can be earned through the WAIFU farming platform at nft.waifutoken.io, while some limited and one of a kind WAIFUs are auctioned. Every few weeks there are new additions to the collection with an emphasis on fair distribution and community rewards.\n\nThere are five different categories of WAIFU NFTs with a corresponding number of stars: 1) common, 2) rare, 3) super rare, 4) legendary, and 5) heirloom. Cards with no stars are deemed the \"special\" category, and a spinning globe signifies a \"Powah\" WAIFU which is charged with a yield-farming basket of either aToken or WAIF-ETH LPs that helps the collectible grow with the market. \n\nVisit https://www.waifutoken.io to learn more! ",
+            "name": "The Waifu Genesis Card Collection",
+            "shortDescription": null,
+            "isVerified": false,
+            "owner": {
+              "address": "0x7d2498a05f2c6d6d53db8dfb5826e279012996eb",
+              "config": null,
+              "isCompromised": false,
+              "user": {
+                "publicUsername": "WAIFU",
+                "id": "VXNlclR5cGU6NTUxNTk="
+              },
+              "displayName": "WAIFU",
+              "imageUrl": "https://lh3.googleusercontent.com/RHTQLzYpfi5allC93yrE3tzbfAH6EiP85kSmcDU5YESFgMliO7CQdDSGuGnguXzTcJ7a6jp0BtJO4H-xzRXZcGWN0zbg6BZhNowt",
+              "id": "QWNjb3VudFR5cGU6MTAwODQxNzc="
+            },
+            "stats": {
+              "totalSupply": 64.0,
+              "id": "Q29sbGVjdGlvblN0YXRzVHlwZToxNDEyMQ=="
+            },
+            "defaultChain": { "identifier": "ETHEREUM" },
+            "relayId": "Q29sbGVjdGlvblR5cGU6MTQxMjE=",
+            "id": "Q29sbGVjdGlvblR5cGU6MTQxMjE=",
+            "__typename": "CollectionType"
+          },
+          "cursor": "YXJyYXljb25uZWN0aW9uOjc="
+        },
+        {
+          "node": {
+            "slug": "gridirongoofs",
+            "logo": "https://lh3.googleusercontent.com/ZlQpaS-6ommCqXqgW339A-kuaXCRyfXv6i4lB9LkPUrlllDKCMD8J2nUFL9WkC4zl90I0o0ETUpVXK3f8kAUQc75J13zlJ_mKls9x8o=s120",
+            "banner": "https://lh3.googleusercontent.com/AtIJhK3EEDr4zXZ424dyRWMRE3a-Tcz4A1isB3DsfnBU9shE8MleOnRuyTzR1ZI5FRYER_rL-IRDUna9l0sP19XCgOR4ryQ0x8uJJg=s300",
+            "description": "NOT affiliated with the NFL, the NFLPA, Topps, Fleer, Donruss, Panini, Panera Bread, Pizookies, Prince William\n\n(Obviously parody.)\n\nFootball is back!\n\nCollectible digital cards featuring your favorite goofballs of the Gridiron! \n\nFour tiers of rarity, each with its own custom Aura!\n- Rare (Disco Gold)\n- Platinum (Ice Blue)\n- Iconic (Blaze Red)\n- Mythic (Galaxy Purple)\n\nSeason One, Episode One (\"**OG**\") is now COMPLETE!  Enjoy the first 10 Goofs!  \n\nSeason One, Episode Two (\"**Youngbloods**\") had its first drop on April 16, 2021!  These are the hottest young rookies of the year, and also **Tawm Terrific**, who is definitely in his forties.\n\nSeason Two, Episode One (\"**Beefy Boyz**\") are dropping **NOW**!  These guys are thick.  Real beefers.  Buy with confidence.\n\nSeason Two, Episode Two is complete!  It consists of **Mr. Big Chest.**  That's the whole set.  Buy him and you've got 'em all.",
+            "name": "Gridiron Goofs",
+            "shortDescription": null,
+            "isVerified": false,
+            "owner": {
+              "address": "0xffbb2e1922d3ead0e701714a4c11d4ecbe323600",
+              "config": null,
+              "isCompromised": false,
+              "user": {
+                "publicUsername": "Goof_Boss",
+                "id": "VXNlclR5cGU6MTYzNTg0"
+              },
+              "displayName": "Goof_Boss",
+              "imageUrl": "https://lh3.googleusercontent.com/kyei7mK61pgA3KGdQq_YsQYFPjnURyjwPlKjWKqedQKz_xSYeYhhdvhxFwel4CiC9d2SGvpPQB5qQd966lwMH0Cfk0bnq0jPV34xLA=s100",
+              "id": "QWNjb3VudFR5cGU6MjA5OTAwMjA="
+            },
+            "stats": {
+              "totalSupply": 67.0,
+              "id": "Q29sbGVjdGlvblN0YXRzVHlwZTo0OTE3OA=="
+            },
+            "defaultChain": { "identifier": "ETHEREUM" },
+            "relayId": "Q29sbGVjdGlvblR5cGU6NDkxNzg=",
+            "id": "Q29sbGVjdGlvblR5cGU6NDkxNzg=",
+            "__typename": "CollectionType"
+          },
+          "cursor": "YXJyYXljb25uZWN0aW9uOjg="
+        },
+        {
+          "node": {
+            "slug": "allstarfreaks",
+            "logo": "https://lh3.googleusercontent.com/APMc64S1XmQu__MBoy5QCj6b5A2QtHQ2UlMD0qLF6Nr1OQmxouaxxlfuG4XcVFoQpYVcm9oAsPYq9LDzsNUiuhDniOZNm8qoXTQ2VDE=s120",
+            "banner": "https://lh3.googleusercontent.com/2TkhZEP9pVjjRB2lUgeIZIyVO8wVTC9dU_awZ25F_9iJU740Mt6wA-pP-BBDud6jA9A8-XEFN1a98h6UYld7Fn5bXn-s0Re2cKluGA=s300",
+            "description": "**All Star Freaks is a digital collectible card series of Freak All Star athletes and personalities.  Working with athletes to deliver NFT-led experiences for charity. All 1/1's.**  \n\nDominique Wilkins x All Star Freaks NFT Charity Auction:\nhttps://medium.com/@AllStarFreaks/dominique-wilkins-x-all-star-freaks-nft-charity-auction-d97efca41ace\n\nRicky Williams x All Star Freaks Card:\nhttps://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/81678603736433480\n\n500 numbered base cards + special insert cards.\n\n- Series 1 (Base cards #1-100) + Inserts\n- Series 2 (Base cards #100-200) + Inserts\n- Series 3 (Base cards #200-300) + Inserts\n- Series 4 (Base cards #300-400) + Inserts\n- Series 5 (Base cards #400-500) + Inserts\n\n[Linktree](https://linktr.ee/AllStarFreaks)\nJoin the official Freaks [Discord](https://discord.gg/g5fWbJGPaK)\n\nAllStarFreaks are 100% parody fan art pieces intended as humor/homage and have no affiliation with the NBA or players.  \n\nEarn $FREAK",
+            "name": "AllStarFreaks",
+            "shortDescription": null,
+            "isVerified": true,
+            "owner": {
+              "address": "0xb4947391965fa0629eb4c07cac80f507978d7d50",
+              "config": null,
+              "isCompromised": false,
+              "user": {
+                "publicUsername": "FreaksNFT",
+                "id": "VXNlclR5cGU6Mzg1Mjk2"
+              },
+              "displayName": "FreaksNFT",
+              "imageUrl": "https://lh3.googleusercontent.com/APMc64S1XmQu__MBoy5QCj6b5A2QtHQ2UlMD0qLF6Nr1OQmxouaxxlfuG4XcVFoQpYVcm9oAsPYq9LDzsNUiuhDniOZNm8qoXTQ2VDE=s100",
+              "id": "QWNjb3VudFR5cGU6MjQ0MDM2ODg="
+            },
+            "stats": {
+              "totalSupply": 714.0,
+              "id": "Q29sbGVjdGlvblN0YXRzVHlwZToyMjcwMjg="
+            },
+            "defaultChain": { "identifier": "ETHEREUM" },
+            "relayId": "Q29sbGVjdGlvblR5cGU6MjI3MDI4",
+            "id": "Q29sbGVjdGlvblR5cGU6MjI3MDI4",
+            "__typename": "CollectionType"
+          },
+          "cursor": "YXJyYXljb25uZWN0aW9uOjk="
+        },
+        {
+          "node": {
+            "slug": "yokai-kingdom",
+            "logo": "https://lh3.googleusercontent.com/3Zg8-wpwfhMlgadyIwG8RALaPr862lx8WNq3csUyYFkvv7_PD86ULnLly2N9q4nVbmMFjLfcmW_rLKydQYJbBmbxjij4oZXJ8RtrOXk=s120",
+            "banner": "https://lh3.googleusercontent.com/gdOnWqv1YWVDdPAyjTCbC0KG3SNbe7xZ01ukek_Dvh3QYNwq5VxX-Owu9ebKCfA5rb5zfd5QBtMfly8pu4MoX5ypVm8UWsWJ0Pq0y-M=s2500",
+            "description": "ACTUAL HOLDER COUNT AS OF 3/1/2022: 4959. 47% STAKED IN YOH FARMING\n\n8,888 hand-drawn trading cards + NFT powered 'play to earn' game, inspired by ancient Japanese mythology. \n\nBy international artist Geo Law (clients inc' Walt Disney, Google, Facebook, NYTimes, Sumo Digital game studio, etc). \n\nEach genesis launch hero card is based on Oni (\u9b3c), a fearsome y\u014dkai spirit, and will be the key to unlock the Yokai Kingdom metaverse, including the play-to-earn game Oni\u2019s Quest.\n\nhttps://linktr.ee/YokaiKingdom",
+            "name": "Yokai Kingdom Genesis",
+            "shortDescription": null,
+            "isVerified": false,
+            "owner": {
+              "address": "0x6bb534a9994043bfe458dbe33248dcd36ae2e5e2",
+              "config": null,
+              "isCompromised": false,
+              "user": {
+                "publicUsername": "YokaiKingdomTeam",
+                "id": "VXNlclR5cGU6MTk0ODY2MjQ="
+              },
+              "displayName": "YokaiKingdomTeam",
+              "imageUrl": "https://storage.googleapis.com/opensea-static/opensea-profile/24.png",
+              "id": "QWNjb3VudFR5cGU6MTk4NjgwNzUx"
+            },
+            "stats": {
+              "totalSupply": 8888.0,
+              "id": "Q29sbGVjdGlvblN0YXRzVHlwZTo0OTQ4NDAy"
+            },
+            "defaultChain": { "identifier": "ETHEREUM" },
+            "relayId": "Q29sbGVjdGlvblR5cGU6NDk0ODQwMg==",
+            "id": "Q29sbGVjdGlvblR5cGU6NDk0ODQwMg==",
+            "__typename": "CollectionType"
+          },
+          "cursor": "YXJyYXljb25uZWN0aW9uOjEw"
+        },
+        {
+          "node": {
+            "slug": "etherjam",
+            "logo": "https://lh3.googleusercontent.com/sdjWd58yvJ4iUwfJCQEEHbsaar2ba1BCuC_-qcqEOzAUWxPzstRfGLIcLmtROzaEHp1uYLC84UIRf6l5g5CjthTiFQZSqWe04Epxzhc=s120",
+            "banner": "https://lh3.googleusercontent.com/J_zrwL28e7IYrz88sfB-_ws3_K7FFuHHLJZsr4-5_s927cgGec7RH-Cm5kxQLfMnQWdkTUa45yFc2ObSrCaey4Z6RxcemLhnP3MnaA=s300",
+            "description": "Collect and trade limited run NFT basketball cards. Each card is illustrated based on a player's nickname. All letters A-Z are designed and ready to be released. Collect them all while you can!\n\nNot affiliated with the NBA.",
+            "name": "Ether Jam",
+            "shortDescription": null,
+            "isVerified": false,
+            "owner": {
+              "address": "0xa406a96536a2bed9f4a3e0ca78b92d4acdf0e5ac",
+              "config": null,
+              "isCompromised": false,
+              "user": {
+                "publicUsername": "EtherJam",
+                "id": "VXNlclR5cGU6MTg5NDgw"
+              },
+              "displayName": "EtherJam",
+              "imageUrl": "https://lh3.googleusercontent.com/c7Hei4RI1XSlbhgXVmlrw8yOdu8UgQIxBQne4AlkUZ7cZtFdUYAlfrBm-BIUigtpDB7zDJm2AFpFKn_Bk12B6nuk-G11AoXKYWAg=s100",
+              "id": "QWNjb3VudFR5cGU6MjE5MjI3NDk="
+            },
+            "stats": {
+              "totalSupply": 26.0,
+              "id": "Q29sbGVjdGlvblN0YXRzVHlwZTo1MzY2Nw=="
+            },
+            "defaultChain": { "identifier": "ETHEREUM" },
+            "relayId": "Q29sbGVjdGlvblR5cGU6NTM2Njc=",
+            "id": "Q29sbGVjdGlvblR5cGU6NTM2Njc=",
+            "__typename": "CollectionType"
+          },
+          "cursor": "YXJyYXljb25uZWN0aW9uOjEx"
+        }
+      ],
+      "pageInfo": {
+        "endCursor": "YXJyYXljb25uZWN0aW9uOjEx",
+        "hasNextPage": true
+      }
+    }
+  }
+}

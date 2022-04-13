@@ -1,0 +1,23 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "lib": ["dom", "dom.iterable", "esnext"],
+    "allowJs": true,
+    "skipLibCheck": true,
+    "strict": true,
+    "forceConsistentCasingInFileNames": true,
+    "noEmit": true,
+    "esModuleInterop": true,
+    "module": "esnext",
+    "moduleResolution": "node",
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "jsx": "preserve",
+    "typeRoots": [
+      "./types"
+    ],
+    "incremental": true
+  },
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", "src/pages/index.js", "src/pages/_app.js", "src/components/explore-collections/DetailInfo/bodyCard.js", "src/components/explore-collections/test/CardControl.js", "src/components/explore-collections/test/CardControl.js", "src/components/Footer/footer.js", "src/components/Footer/footer.js", "src/components/bottoms/DayBottom.js", "src/components/Explore/DetailInfo/bodyCard.js", "src/components/allNFTPage/BodyPart/BodyPart.js", "src/components/allNFTPage/Filer/Filter.js", "src/components/allNFTPage/AllNftMainPage.js"],
+  "exclude": ["node_modules"]
+}

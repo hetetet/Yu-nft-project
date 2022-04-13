@@ -1,0 +1,385 @@
+{
+  "data": {
+    "trendingCollections": {
+      "edges": [
+        {
+          "node": {
+            "slug": "the-monstrocities",
+            "logo": "https://lh3.googleusercontent.com/_iFQGIXGZTttQaQb3Q7DB-rWQ5nSFqCHLXEcBbbDHZERCJsUbzG3qYflQkhl-BR83z-rNg5hoQ-JGWBUvuTUohF93bQOxJkx_pwb=s120",
+            "banner": "https://lh3.googleusercontent.com/7wysYUh2K-z7FqNOZVVl9NoaARJtQMo-WPilYEpI9ll6Jhg0bLT8mkwzR3IRAeQeXp_5lkGpPvJ8MoBdK38A-s5-yu-De66cJ0A5=s300",
+            "description": "**MONSTROCITIES VOXELS ARE COMING: SUNDAY, MARCH 13TH**<br><br>\n*Follow our twitter and join our discord for more information*<br><br>\n\nThe MonstroCities is the first true social avatar metaverse game. **MonstroCities is an official SandBox partner and own a 6x6 estate in The Sandbox.**\n\nMonstroCities is a collection of 8,000 unique NFTs consisting of four elemental monster civilizations living on the Ethereum blockchain. \n\nhttps://monstrocities.io/\n\nEvery monster is programmatically generated from a pool of roughly 400 accessories (100 per civizilization) to ensure they are all completely unique. \n\nEach monster will be a character in the MonstroCities metaverse game within Sandbox.",
+            "name": "The MonstroCities",
+            "shortDescription": null,
+            "isVerified": false,
+            "owner": {
+              "address": "0x692d7e00ea2f78527a4aba96694e9eb63aeda1eb",
+              "config": null,
+              "isCompromised": false,
+              "user": {
+                "publicUsername": "MonstroCities",
+                "id": "VXNlclR5cGU6OTk4MjUy"
+              },
+              "displayName": "MonstroCities",
+              "imageUrl": "https://lh3.googleusercontent.com/KlIwruR_wKumVrawUXYBGOWxgasNRwHiVVAfx1-O0tlg7f5WVhVZtNhoSWlVDmSD9osdLSUWYpz_OOk7NMH4lR_g7Y67cIrahNc9=s100",
+              "id": "QWNjb3VudFR5cGU6NTU0OTUwMzM="
+            },
+            "stats": {
+              "totalSupply": 2697.0,
+              "id": "Q29sbGVjdGlvblN0YXRzVHlwZTo3NzY0NTQ="
+            },
+            "defaultChain": { "identifier": "ETHEREUM" },
+            "relayId": "Q29sbGVjdGlvblR5cGU6Nzc2NDU0",
+            "id": "Q29sbGVjdGlvblR5cGU6Nzc2NDU0",
+            "__typename": "CollectionType"
+          },
+          "cursor": "YXJyYXljb25uZWN0aW9uOjA="
+        },
+        {
+          "node": {
+            "slug": "genetic-chain-midnight-runner-pass",
+            "logo": "https://lh3.googleusercontent.com/npGL6cU5y5eOZRDaiXX-5izir2cC5iiA3lUmC5FguXzsXDVJZLP8Vdmd6lDY9eUD_oAMqa95H0ehfAmx-5dxjWKWLiH2OV_1i2n4BPU=s120",
+            "banner": "https://lh3.googleusercontent.com/npGL6cU5y5eOZRDaiXX-5izir2cC5iiA3lUmC5FguXzsXDVJZLP8Vdmd6lDY9eUD_oAMqa95H0ehfAmx-5dxjWKWLiH2OV_1i2n4BPU=s300",
+            "description": "A **[Genetic Chain](https://geneticchain.io)** Project.\n\n**Project #7**: [Midnight Runner Pass](https://geneticchain.io/project/7) by Matt Griffin\n\nThe Midnight Runner Pass provides holders with membership to the Genetic Chain Platform.  Passes will unlock access to pre-sales, free mints, future GC programs, as well as access to live events at the GC gallery.",
+            "name": "Genetic Chain - Midnight Runner Pass",
+            "shortDescription": null,
+            "isVerified": false,
+            "owner": {
+              "address": "0xa50750ae4b64b0a64174ca345870f1a8a5c9a2ee",
+              "config": "VERIFIED",
+              "isCompromised": false,
+              "user": {
+                "publicUsername": "GeneticChain",
+                "id": "VXNlclR5cGU6MjY3NTExOA=="
+              },
+              "displayName": "GeneticChain",
+              "imageUrl": "https://lh3.googleusercontent.com/NOeDP6-MPm2oBxTjyZWm2CoXNpAIxJYVNM2wCx37RSbe2iJL73EuOVPQWi30Pb_p8_wGBRRqjcPzQC9_FcNnCFckvfs4Yir3q5pRcQ=s100",
+              "id": "QWNjb3VudFR5cGU6Nzk3MTgxMDE="
+            },
+            "stats": {
+              "totalSupply": 568.0,
+              "id": "Q29sbGVjdGlvblN0YXRzVHlwZTozOTYwNjM5"
+            },
+            "defaultChain": { "identifier": "ETHEREUM" },
+            "relayId": "Q29sbGVjdGlvblR5cGU6Mzk2MDYzOQ==",
+            "id": "Q29sbGVjdGlvblR5cGU6Mzk2MDYzOQ==",
+            "__typename": "CollectionType"
+          },
+          "cursor": "YXJyYXljb25uZWN0aW9uOjE="
+        },
+        {
+          "node": {
+            "slug": "meta-mint",
+            "logo": "https://lh3.googleusercontent.com/hpMlMTy5CDbwt3eZLNM-XVzRacyb3EzB377o5qDJUrXBbgTNPgSc-uuiM09yo41m5IHyQgUYLmLsGVnHD0dvlENeGt1t0Su9WCfvXP8=s120",
+            "banner": "https://lh3.googleusercontent.com/hpMlMTy5CDbwt3eZLNM-XVzRacyb3EzB377o5qDJUrXBbgTNPgSc-uuiM09yo41m5IHyQgUYLmLsGVnHD0dvlENeGt1t0Su9WCfvXP8=s300",
+            "description": "Only 290 Passes will be listed, nothing more.\n10 on reserve for partnerships.\n\nMeta Mint is an exclusive discord community that has a focus on ensuring all holders eat together. A space where not only you can feel at home, but also start working on making your retirement fund as fast as possible.\n\nOur Discord Community provides insights on upcoming drops that may be considered \"Meta\" and also will keep you engaged in a tightly coupled space allowing you to build your own reputation and make friends in parallel.\n\nOur community is well established and is seeking to expand our space to additional members consisting of all levels of experience who are looking for a home in the Metaverse. \n\nPass Created By: SholoNFT",
+            "name": "Meta Mint",
+            "shortDescription": null,
+            "isVerified": false,
+            "owner": {
+              "address": "0xa5fd8aa778a554a88ecf80d5545a59d1892ff3df",
+              "config": null,
+              "isCompromised": false,
+              "user": {
+                "publicUsername": "LBone",
+                "id": "VXNlclR5cGU6NzkyMjM3"
+              },
+              "displayName": "LBone",
+              "imageUrl": "https://lh3.googleusercontent.com/nVDT9VMvC66v1rnh3H1RLHdH8edssXGBtiDooLuWtIBLRbeuuOb_E-c3FJmCLxWtjoS3OMu0V5rCoWYJzn2vVKbMo8V_mxUfBR06=s100",
+              "id": "QWNjb3VudFR5cGU6MzgyMDcwOTM="
+            },
+            "stats": {
+              "totalSupply": 1.0,
+              "id": "Q29sbGVjdGlvblN0YXRzVHlwZToyMjM0OTQ2"
+            },
+            "defaultChain": { "identifier": "ETHEREUM" },
+            "relayId": "Q29sbGVjdGlvblR5cGU6MjIzNDk0Ng==",
+            "id": "Q29sbGVjdGlvblR5cGU6MjIzNDk0Ng==",
+            "__typename": "CollectionType"
+          },
+          "cursor": "YXJyYXljb25uZWN0aW9uOjI="
+        },
+        {
+          "node": {
+            "slug": "fantasy-islands-sandbox",
+            "logo": "https://lh3.googleusercontent.com/uny3zsr-9j83mBprBjJEruB9S1ViJbgMkzUZzPiLoSqnTk1XwPIO4a2P7XQASZPVTCSG3fUqpySZeBG0pKL_idM1_iv0h6GXpghxRRo=s120",
+            "banner": "https://lh3.googleusercontent.com/XbSRzPrVGvhDaWY_N6XI-WC5DgfMnil5rziXHiBWTHhfpVA0ARl3Ghnk--f0nU5bvIS5Pd2MvfFdp-5nmDYkeSJA2vpFCOGPbgGj5oM=s2500",
+            "description": "A luxury real estate development project of 100 NFT private islands (comprised of NFT land in The Sandbox + architecturally unique 3D NFT villas) on the Ethereum blockchain.",
+            "name": "Fantasy Islands - Sandbox",
+            "shortDescription": null,
+            "isVerified": true,
+            "owner": {
+              "address": "0x25457477df64c602506a7ef863d52c0ea2b533af",
+              "config": "VERIFIED",
+              "isCompromised": false,
+              "user": {
+                "publicUsername": "Everyrealm",
+                "id": "VXNlclR5cGU6MTQxOTg0Mg=="
+              },
+              "displayName": "Everyrealm",
+              "imageUrl": "https://lh3.googleusercontent.com/H-HSe7BHXh2jJb9_lVtpjseBF_sYcNZOcEA0TeMOnO2qYvAw7drv7y3GQQ9BmCxCq6-Nii6lDHAlxnC6VrJUee7T16qqxc9r7GeMJQ=s100",
+              "id": "QWNjb3VudFR5cGU6NjQwNjg5NDI="
+            },
+            "stats": {
+              "totalSupply": 7.0,
+              "id": "Q29sbGVjdGlvblN0YXRzVHlwZTo5OTk5MzE="
+            },
+            "defaultChain": { "identifier": "ETHEREUM" },
+            "relayId": "Q29sbGVjdGlvblR5cGU6OTk5OTMx",
+            "id": "Q29sbGVjdGlvblR5cGU6OTk5OTMx",
+            "__typename": "CollectionType"
+          },
+          "cursor": "YXJyYXljb25uZWN0aW9uOjM="
+        },
+        {
+          "node": {
+            "slug": "iggyboy-1athstudio",
+            "logo": "https://lh3.googleusercontent.com/hSvdBOAchygTnUBrZy7q3LfEk1tkgxt8PBLJpMhrlUykzGwQwJlslSRk6VA87Q1giF-pMnGRpY0n_P_qcc9vstRX408lCm1c51FG0g=s120",
+            "banner": "https://lh3.googleusercontent.com/B3doqM5oIfDKzvqmhReCkwdSrrRWe0Wzj-MvD5U8oxj2gSnIyy5tTgctq2aSe528ahuHcEf3T6wSRwZfhrDs8fOseKWU8q-pU2kcScY=s300",
+            "description": "IggyBoy by 1ATH.Studio is more than just an NFT collection. By holding an IggyBoy NFT you gain privileges in the upcoming metaverse, mass adoption utilities, and advantages of future airdrops.",
+            "name": "IggyBoy by 1ATH.Studio Official",
+            "shortDescription": null,
+            "isVerified": false,
+            "owner": null,
+            "stats": {
+              "totalSupply": 3161.0,
+              "id": "Q29sbGVjdGlvblN0YXRzVHlwZTo3NjI2OTIy"
+            },
+            "defaultChain": { "identifier": "ETHEREUM" },
+            "relayId": "Q29sbGVjdGlvblR5cGU6NzYyNjkyMg==",
+            "id": "Q29sbGVjdGlvblR5cGU6NzYyNjkyMg==",
+            "__typename": "CollectionType"
+          },
+          "cursor": "YXJyYXljb25uZWN0aW9uOjQ="
+        },
+        {
+          "node": {
+            "slug": "mekas-of-krupt-genesis",
+            "logo": "https://lh3.googleusercontent.com/Se0fh5DywBAHORT9sR2_xG_c2RoJKQUUpCAZ7vg_HcwolW2yRdcBcxgkfUSUQkyb6TUuJxxFc2v0hfBFPuF8CZAHNtBMJ2vyVrpx=s120",
+            "banner": "https://lh3.googleusercontent.com/DkE35ER7bReVNQ-LZXmtmRPHWLYQcl84ivg43tx2-IIl2cnU4XzwWK_m30T9zDmQwdm2hvqp2AduWVJWQPqEPhRP9_EBM-JVGWEMyD8=s300",
+            "description": "The New Resistance is a play2earn crypto video game, NFT collection and cryptocurrency.\n\nAlready attracting massive attention from crypto investors, GameFi enthusiasts, NFT collectors and gamers alike, TNR is gearing up to be a leading ecosystem in the booming crypto gaming & NFT space.\n\nMekas of Krupt are 888 limited edition NFTs (aka Genesis collection). Each Meka can be used in The New Resistance video game and metaverse.",
+            "name": "Mekas of Krupt - Genesis",
+            "shortDescription": null,
+            "isVerified": false,
+            "owner": {
+              "address": "0x6d719312bb7816ac622506794601444c572cb248",
+              "config": null,
+              "isCompromised": false,
+              "user": {
+                "publicUsername": "The-New-Resistance",
+                "id": "VXNlclR5cGU6MjA2Mzg5OTQ="
+              },
+              "displayName": "The-New-Resistance",
+              "imageUrl": "https://lh3.googleusercontent.com/gZenknBAQRG1OjWMG0xdiR2NM145dsjRKN0safVACUBPtWeivpI1yTUdT2TvR1YYUkzu1kwly4Valx3BNt9EO_RCLaZ7tylFQYbVNA=s100",
+              "id": "QWNjb3VudFR5cGU6MjA1MDczOTE4"
+            },
+            "stats": {
+              "totalSupply": 888.0,
+              "id": "Q29sbGVjdGlvblN0YXRzVHlwZTo1NjMyOTkw"
+            },
+            "defaultChain": { "identifier": "ETHEREUM" },
+            "relayId": "Q29sbGVjdGlvblR5cGU6NTYzMjk5MA==",
+            "id": "Q29sbGVjdGlvblR5cGU6NTYzMjk5MA==",
+            "__typename": "CollectionType"
+          },
+          "cursor": "YXJyYXljb25uZWN0aW9uOjU="
+        },
+        {
+          "node": {
+            "slug": "beastopia-pixelbeasts",
+            "logo": "https://lh3.googleusercontent.com/b-XBhumJ6EDSno_ESYFwlbHKjgo7Fu7nVkCbQiKiPMtvYDsmBSxwQ94utZd2B08XWjiypKweVqOpDFejdsVUP3mZJe_i_N05Qg6p=s120",
+            "banner": "https://lh3.googleusercontent.com/bZkC2aTtV1fV-I9byTcpBIoXGkAAsEpDG9TgUSJyFR5VJw9wg6nDo9aGDfjNoRLOk48AR-WNuZF9Ndg628BZJsPkpw-qRX-CgbCuKQ=s300",
+            "description": "PixelBeasts are 10,000 unique NFT collectibles, 24x24 pixels each by artist and VC, Yohei Nakajima. Ownership provides access to Beastopia - an ever evolving social experiences including events, games, and more - alongside a community of VCs, founders, devs, and NFT enthusiasts venturing deeper down this rabbit hole together, hand-in-hand, unafraid and optimistic.",
+            "name": "PixelBeasts (Beastopia)",
+            "shortDescription": null,
+            "isVerified": true,
+            "owner": {
+              "address": "0x8cd7b7962b9753db32a6e0fb47741a2fbbdea6d3",
+              "config": null,
+              "isCompromised": false,
+              "user": {
+                "publicUsername": "Beastopia",
+                "id": "VXNlclR5cGU6MzY3NTM2MA=="
+              },
+              "displayName": "Beastopia",
+              "imageUrl": "https://lh3.googleusercontent.com/x0Cigf_uR8z_z29lv9SCjRUXGeABKGOdbCCTJ3RIYPnLM3wJRWF8ed7-7Ds6DOLSfjcaVo7u_5bbNs_9IXeo2m61DdgDHN3QxCuc=s100",
+              "id": "QWNjb3VudFR5cGU6ODkzODkzNjc="
+            },
+            "stats": {
+              "totalSupply": 9999.0,
+              "id": "Q29sbGVjdGlvblN0YXRzVHlwZToyMDM3MzE0"
+            },
+            "defaultChain": { "identifier": "ETHEREUM" },
+            "relayId": "Q29sbGVjdGlvblR5cGU6MjAzNzMxNA==",
+            "id": "Q29sbGVjdGlvblR5cGU6MjAzNzMxNA==",
+            "__typename": "CollectionType"
+          },
+          "cursor": "YXJyYXljb25uZWN0aW9uOjY="
+        },
+        {
+          "node": {
+            "slug": "bluechimpofficial",
+            "logo": "https://lh3.googleusercontent.com/2qDtVsIkrhVdFzqaWuSF4Yqfp_ldPPk4QLCky_SbZrXR2_Rbk67NSgABSgZyz2VxNWw6B7pS0UKqWMLQLueBlPfv_CRBpjLLq5PUTg=s120",
+            "banner": "https://lh3.googleusercontent.com/uVBE_HyMZbWk3i3_HMfv5Ctf_Jq7dALUDp0NijPpk7H98Dq3xyPzc0mryxX8tVcdYQQlGy96VB4T6NpVyehEaJoS_dFxFxXJYdS0_A=s2500",
+            "description": "Simply holding A Blue Chimp grants you access to mint 12 upcoming NFT projects for free . The 7 we have confirmed to date are: Kronic Katz, Challenge Coin, Minting Miracles, Warrior Alliance NFT, PixelSaurus NFT, Bad Baby Dinos,  Doodories, Debonair Apes and Lil Rugz! Blue Chimps have a rigorous process when onboarding projects into our eco system the #supercommunity, after extensive vetting we add new projects to our community providing a safe friendly experience in building a well rounded NFT collection. We also offer great incentives to collect em all and diamond hand \ud83d\udc8e Blue Chimps are the most savage chimps in the jungle on a mission to empower and help emerging creators thrive!",
+            "name": "Official Blue Chimp",
+            "shortDescription": null,
+            "isVerified": false,
+            "owner": {
+              "address": "0x24537ca1de94a1ce12e7137c7a38153747d89882",
+              "config": "VERIFIED",
+              "isCompromised": false,
+              "user": {
+                "publicUsername": "Bluechimps",
+                "id": "VXNlclR5cGU6MTAwMjk4MzE="
+              },
+              "displayName": "Bluechimps",
+              "imageUrl": "https://lh3.googleusercontent.com/q5y4CAR5jk2uDem1xFbMXzbVuSfjNcve1xQrT2VFpph6hHCDeeKIKly4-6qmgnqJzoZfEJbDwq8Y0GB17mLMtUZM4e8qi4oGVOuW4Q=s100",
+              "id": "QWNjb3VudFR5cGU6MTM3MDE1MDg0"
+            },
+            "stats": {
+              "totalSupply": 350.0,
+              "id": "Q29sbGVjdGlvblN0YXRzVHlwZToyOTMyMjkx"
+            },
+            "defaultChain": { "identifier": "ETHEREUM" },
+            "relayId": "Q29sbGVjdGlvblR5cGU6MjkzMjI5MQ==",
+            "id": "Q29sbGVjdGlvblR5cGU6MjkzMjI5MQ==",
+            "__typename": "CollectionType"
+          },
+          "cursor": "YXJyYXljb25uZWN0aW9uOjc="
+        },
+        {
+          "node": {
+            "slug": "wizards-dragons-game-sacrificial-altar",
+            "logo": "https://lh3.googleusercontent.com/wHhbmgGpQft4WNmrpwcwC_jmzPJToYSDtg9ePK4SgJRGtXbFjYTsIDjpHj9gKnQ1SnJ_-H2E-4QYn9vG_gZ9oycc_sBt4WWSLPcYOg=s120",
+            "banner": "https://lh3.googleusercontent.com/20az4x9Qx7LOkM55VWZNZ4aGWn3d613pLjereJp5nN1DTEsVnuEnYgM_Gb2NeEATGp-Inve-9L8oSH365F7jv1EW_HdiU98t3u7moA=s300",
+            "description": "Mysterious items spawned from the Sacrificial Altar of the Wizards & Dragons Tower. Rumoured to be crucial to leading the pace of PvP battles and the prosperity of the Tower, only Act I tower guards shall know the truth in the following Acts II and III. 100% on-chain.\r\n\r\n[Wizards & Dragons Collection](https://opensea.io/collection/wizards-dragons-game-v2) | [Whitepaper](https://medium.com/@wndgame/wizards-dragons-guard-the-tower-in-a-100-on-chain-strategy-game-a29597f5bfc9) | [Website (Play Game)](https://wnd.game)",
+            "name": "Wizards & Dragons Game - Sacrificial Altar",
+            "shortDescription": null,
+            "isVerified": false,
+            "owner": {
+              "address": "0xc7defa20ec54917669f29e15d1acb7c121b4780c",
+              "config": "VERIFIED",
+              "isCompromised": false,
+              "user": {
+                "publicUsername": "WizardsAndDragonsGame",
+                "id": "VXNlclR5cGU6MTIzNDc5Nzg="
+              },
+              "displayName": "WizardsAndDragonsGame",
+              "imageUrl": "https://lh3.googleusercontent.com/AZfsQafdPx_PEErqAVW0VzxhR8gcIwM_9A0r7gEdfnrInFd5XNXgJU2IhnSdwhJKoVWkLlBHGPVaZyq7BfT_k0LUWfxv6DPYP0WM0g=s100",
+              "id": "QWNjb3VudFR5cGU6MTQ4NjQ1MTEx"
+            },
+            "stats": {
+              "totalSupply": 7.0,
+              "id": "Q29sbGVjdGlvblN0YXRzVHlwZTozMzA2NjM5"
+            },
+            "defaultChain": { "identifier": "ETHEREUM" },
+            "relayId": "Q29sbGVjdGlvblR5cGU6MzMwNjYzOQ==",
+            "id": "Q29sbGVjdGlvblR5cGU6MzMwNjYzOQ==",
+            "__typename": "CollectionType"
+          },
+          "cursor": "YXJyYXljb25uZWN0aW9uOjg="
+        },
+        {
+          "node": {
+            "slug": "digidragonzofficial",
+            "logo": "https://lh3.googleusercontent.com/SkSKJnKiLnR7Eh53aeadkvYiDFgV-34AE6G-5CCMyXBu8CEVRPOeb_QTWw4Wq6t96fyTIQuVqbHRmJxmtmCTKX7DkQ9CkrD0tFO9QA=s120",
+            "banner": "https://lh3.googleusercontent.com/20e2WpPb1DhTTPUGRUlKFfvFHng2O74wRy6tIbW_ar4gkmqC693xxQDGvepOZQJ12SBc1F5sn8019_7KmA_IjGf3O0ExITRfUT0s=s300",
+            "description": "An NFT project devoted to an incredible community of 1500 Genesis One fire breathers. #DigiFam\n\n1 Genesis Digi Dragon = 1 Digi Dragon VX (Snapshot Taken)\n\nBeing a Fire Breather pays off soon each Genesis one Dragon will begin yielding $FIRE to unlock Hatchlings, Mutant Dragonz, & more!\n\nJoin our [Discord](https://discord.gg/digidragonz)\n\nSee you in the Lair. ",
+            "name": "Digi Dragonz",
+            "shortDescription": null,
+            "isVerified": false,
+            "owner": {
+              "address": "0xcd6d7e5a31cb3cf43734398e6506d5422072a172",
+              "config": null,
+              "isCompromised": false,
+              "user": {
+                "publicUsername": "DigiDrah",
+                "id": "VXNlclR5cGU6MTE3MzU3Njc="
+              },
+              "displayName": "DigiDrah",
+              "imageUrl": "https://lh3.googleusercontent.com/WCmHBjeLLxvvSOVqvfZeut6AcEsJ4Mz7T7BA-lDcmFSllcOHeC6qbSefUdwFORSpkhV6OUZh0NOCRk-LxLAfWWkJ2SiNUojto30h1w=s100",
+              "id": "QWNjb3VudFR5cGU6MTQ4Nzc2MTc5"
+            },
+            "stats": {
+              "totalSupply": 1500.0,
+              "id": "Q29sbGVjdGlvblN0YXRzVHlwZTozMTQyOTE3"
+            },
+            "defaultChain": { "identifier": "ETHEREUM" },
+            "relayId": "Q29sbGVjdGlvblR5cGU6MzE0MjkxNw==",
+            "id": "Q29sbGVjdGlvblR5cGU6MzE0MjkxNw==",
+            "__typename": "CollectionType"
+          },
+          "cursor": "YXJyYXljb25uZWN0aW9uOjk="
+        },
+        {
+          "node": {
+            "slug": "the-meta-key",
+            "logo": "https://lh3.googleusercontent.com/qGyzQm5D9xqGg10eX6oDTjQQAXLtZN4m0X4mc2RSqIkKzV2BYTT873OqdSMpqeeBLqhGemxa0WmPXgBgN7OtDVbfypLQM68h_-L8bSw=s120",
+            "banner": "https://lh3.googleusercontent.com/qGyzQm5D9xqGg10eX6oDTjQQAXLtZN4m0X4mc2RSqIkKzV2BYTT873OqdSMpqeeBLqhGemxa0WmPXgBgN7OtDVbfypLQM68h_-L8bSw=s300",
+            "description": "We are the Metakey \u2014 a platform-agnostic and massively interoperable web3 utility creator. Our core product is a single token that can integrate with multiple platforms and games to transform into avatars; weapons; vehicles; exp bonuses; grant access to virtual land and exclusive educational content; VIP experiences at virtual events; and much more.",
+            "name": "The Meta Key",
+            "shortDescription": null,
+            "isVerified": true,
+            "owner": {
+              "address": "0x00ae58bfbf16260832309e1e71d84fc1b78bd6f5",
+              "config": null,
+              "isCompromised": false,
+              "user": {
+                "publicUsername": "TheMetakey",
+                "id": "VXNlclR5cGU6OTg4NDc3"
+              },
+              "displayName": "TheMetakey",
+              "imageUrl": "https://lh3.googleusercontent.com/qGyzQm5D9xqGg10eX6oDTjQQAXLtZN4m0X4mc2RSqIkKzV2BYTT873OqdSMpqeeBLqhGemxa0WmPXgBgN7OtDVbfypLQM68h_-L8bSw=s100",
+              "id": "QWNjb3VudFR5cGU6MjU4OTc4MTE="
+            },
+            "stats": {
+              "totalSupply": 4.0,
+              "id": "Q29sbGVjdGlvblN0YXRzVHlwZTozODM1MjU="
+            },
+            "defaultChain": { "identifier": "ETHEREUM" },
+            "relayId": "Q29sbGVjdGlvblR5cGU6MzgzNTI1",
+            "id": "Q29sbGVjdGlvblR5cGU6MzgzNTI1",
+            "__typename": "CollectionType"
+          },
+          "cursor": "YXJyYXljb25uZWN0aW9uOjEw"
+        },
+        {
+          "node": {
+            "slug": "xenoinfinity",
+            "logo": "https://lh3.googleusercontent.com/JySODCBHQME7VhjOixZ4XzdJ6eIY8BKDW1_Rgenj_6VPMlvByawlM1rqAQ3sidBol4syKWB16Fggq4i_fbBYjCdt3OErE8tFgEEFWQ=s120",
+            "banner": "https://lh3.googleusercontent.com/5CTcCRtn54pd75HeJnU4Fw5y0dAHlubcXmpL4K6FE82_9_Bh13TE1eJh831inruzPBUOWCNhEKnbRbKrobBBlAelcjE1j8HhAfI=s300",
+            "description": "Mint & Experience Live at https://www.xenoinfinity.com\n\nEnter the 3D open metaverse with any of your NFTs via Xeno Infinity, hang out with your NFT community, build your own open metaverse for your NFT community with your NFT identity, the possibilities are endless, made possible with the interopability of the Ethereum blockchain and Xeno Infinity tech. The first open metaverse experience to support all your NFTs, bring your CryptoPunks/APE/KONGZ/CoolCats and more into a 3D metaverse that belongs to you and your community and be a founding member of the open metaverse future.\n\nEach of them has the ability to load your NFT into its dynamic screen, opening the door to endless possibilities, Xeno Infinity is created by the MultiverseVM Team and can be used in the Multiverse VM Metaverse, with a limited 10k supply.",
+            "name": "XenoInfinity",
+            "shortDescription": null,
+            "isVerified": false,
+            "owner": {
+              "address": "0xc53579ed51ee7bc67eb8056e596edb192a59a246",
+              "config": null,
+              "isCompromised": false,
+              "user": {
+                "publicUsername": null,
+                "id": "VXNlclR5cGU6MjA1OTEyMzk="
+              },
+              "displayName": null,
+              "imageUrl": "https://lh3.googleusercontent.com/fHNlS3LtiDoDIu3pnORqrOw-6AMCZlYWSKLZwLdMk5KFP7SE4A6KTkb6Nb2NASHuDjB-PRFltGZowqEvzPkUAkYvFoZCwNkmbz-RoGU=s100",
+              "id": "QWNjb3VudFR5cGU6MTk5MTI1NTU3"
+            },
+            "stats": {
+              "totalSupply": 2556.0,
+              "id": "Q29sbGVjdGlvblN0YXRzVHlwZTo0OTk3NDQ3"
+            },
+            "defaultChain": { "identifier": "ETHEREUM" },
+            "relayId": "Q29sbGVjdGlvblR5cGU6NDk5NzQ0Nw==",
+            "id": "Q29sbGVjdGlvblR5cGU6NDk5NzQ0Nw==",
+            "__typename": "CollectionType"
+          },
+          "cursor": "YXJyYXljb25uZWN0aW9uOjEx"
+        }
+      ],
+      "pageInfo": {
+        "endCursor": "YXJyYXljb25uZWN0aW9uOjEx",
+        "hasNextPage": true
+      }
+    }
+  }
+}

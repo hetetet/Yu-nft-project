@@ -1,0 +1,166 @@
+{
+  "data": {
+    "trendingCollections": {
+      "edges": [
+        {
+          "node": {
+            "slug": "unstoppable-domains",
+            "logo": "https://lh3.googleusercontent.com/Ak1PwcaxSjJmX2ZR4XN1GOYw1ZqQPlJo48FJaD_RHJykq9p_-lrmLDDv2x5cjgDncxJphoSkWL4hEPA_693aXHJB=s60",
+            "banner": "https://lh3.googleusercontent.com/6DMus9w0qZpIG6F_i4hzzpUaQ1LQfXI6tQJAfA28I8sLGQ2yku_CYFVYFDpvT6Dyjmx5mjKEDb163qfo3SnuXy3hkgZzsTquB-ovxA=s300",
+            "description": "Simplify your crypto currency payments with human readable names and build censorship resistant websites. Purchase your blockchain domains today!",
+            "name": "Unstoppable Domains",
+            "shortDescription": null,
+            "isVerified": true,
+            "owner": {
+              "address": "0x433e8b0b56c25cb43099dff2ee6a626325654014",
+              "config": "VERIFIED",
+              "isCompromised": false,
+              "user": {
+                "publicUsername": "Unstoppable_Domains",
+                "id": "VXNlclR5cGU6MTQ4MDE3NTk="
+              },
+              "displayName": "Unstoppable_Domains",
+              "imageUrl": "https://lh3.googleusercontent.com/X84OIOZWSBFNgdNzzlPPdyac859yb2OTdajiYGl9Taa2gc8Lfmga5ohpdhrMi5eIb8Y0Pov0eF6hRnvgUGl9WQQ2iTxAnoNkDAQ-=s100",
+              "id": "QWNjb3VudFR5cGU6MTUwMDYwNTE5"
+            },
+            "stats": {
+              "totalSupply": 319065.0,
+              "id": "Q29sbGVjdGlvblN0YXRzVHlwZTo1NjU3"
+            },
+            "defaultChain": { "identifier": "ETHEREUM" },
+            "relayId": "Q29sbGVjdGlvblR5cGU6NTY1Nw==",
+            "id": "Q29sbGVjdGlvblR5cGU6NTY1Nw==",
+            "__typename": "CollectionType"
+          },
+          "cursor": "YXJyYXljb25uZWN0aW9uOjA="
+        },
+        {
+          "node": {
+            "slug": "dcl-names",
+            "logo": "https://lh3.googleusercontent.com/5KIxEGmnAiL5psnMCSLPlfSxDxfRSk4sTQRSyhPdgnu70nGb2YsuVxTmO2iKEkOZOfq476Bl1hAu6aJIKjs1myY=s60",
+            "banner": "https://lh3.googleusercontent.com/t2Nf6hhfDRGskrMJxBGtWkKOfYElohP488p09jcC4JdoBbGFSRrPiGQs3YtBBle91OyHQOLQ_lP3Ecy1sbuo24uplCukLC-Q8TkQWg=s300",
+            "description": "Decentraland is an Ethereum blockchain-powered virtual world, developed and owned by its users, who can create, experience, and monetize content and applications. Decentraland Names are tradable ERC721s, integrated fully with the Ethereum Name System. These unique human-readable names allow users to trade tokens between memorable addresses, e.g. \u2018jane.dcl.eth\u2019. In this OpenSea store, you can buy and sell Decentraland Names in MANA, DCL's native currency.",
+            "name": "Decentraland Names",
+            "shortDescription": null,
+            "isVerified": true,
+            "owner": {
+              "address": "0xe74ab71711981a31d3c38edfe702989f30be29b6",
+              "config": null,
+              "isCompromised": false,
+              "user": { "publicUsername": null, "id": "VXNlclR5cGU6NDM3Mjk=" },
+              "displayName": null,
+              "imageUrl": "https://storage.googleapis.com/opensea-static/opensea-profile/21.png",
+              "id": "QWNjb3VudFR5cGU6MjM0MTg0Mw=="
+            },
+            "stats": {
+              "totalSupply": 32812.0,
+              "id": "Q29sbGVjdGlvblN0YXRzVHlwZTo2NjE5"
+            },
+            "defaultChain": { "identifier": "ETHEREUM" },
+            "relayId": "Q29sbGVjdGlvblR5cGU6NjYxOQ==",
+            "id": "Q29sbGVjdGlvblR5cGU6NjYxOQ==",
+            "__typename": "CollectionType"
+          },
+          "cursor": "YXJyYXljb25uZWN0aW9uOjE="
+        },
+        {
+          "node": {
+            "slug": "ens",
+            "logo": "https://lh3.googleusercontent.com/0cOqWoYA7xL9CkUjGlxsjreSYBdrUBE0c6EO1COG4XE8UeP-Z30ckqUNiL872zHQHQU5MUNMNhfDpyXIP17hRSC5HQ=s60",
+            "banner": "https://lh3.googleusercontent.com/BBj09xD7R4bBtg1lgnAAS9_TfoYXKwMtudlk-0fVljlURaK7BWcARCpkM-1LGNGTAcsGO6V1TgrtmQFvCo8uVYW_QEfASK-9j6Nr=s300",
+            "description": "Ethereum Name Service (ENS) domains are secure domain names for the decentralized world. ENS domains provide a way for users to map human readable names to blockchain and non-blockchain resources, like Ethereum addresses, IPFS hashes, or website URLs. ENS domains can be bought and sold on secondary markets.",
+            "name": "ENS: Ethereum Name Service",
+            "shortDescription": null,
+            "isVerified": true,
+            "owner": {
+              "address": "0x911143d946ba5d467bfc476491fdb235fef4d667",
+              "config": null,
+              "isCompromised": false,
+              "user": null,
+              "displayName": null,
+              "imageUrl": "https://storage.googleapis.com/opensea-static/opensea-profile/30.png",
+              "id": "QWNjb3VudFR5cGU6Mjc5ODcy"
+            },
+            "stats": {
+              "totalSupply": 638895.0,
+              "id": "Q29sbGVjdGlvblN0YXRzVHlwZTozMDcy"
+            },
+            "defaultChain": { "identifier": "ETHEREUM" },
+            "relayId": "Q29sbGVjdGlvblR5cGU6MzA3Mg==",
+            "id": "Q29sbGVjdGlvblR5cGU6MzA3Mg==",
+            "__typename": "CollectionType"
+          },
+          "cursor": "YXJyYXljb25uZWN0aW9uOjI="
+        },
+        {
+          "node": {
+            "slug": "cryptovoxels-names",
+            "logo": "https://storage.opensea.io/0x79986af15539de2db9a5086382daeda917a9cf0c-featured-1556588863.png",
+            "banner": "https://storage.opensea.io/0x79986af15539de2db9a5086382daeda917a9cf0c-featured-1556589441.png",
+            "description": "Alert: these are not Cryptovoxels parcels. User names and avatars in Cryptovoxels are an ERC721 token. You can mint yourself any valid name just for the price of gas.  Cryptovoxels names are displayed above your head when you're in world, and displayed instead of your wallet address everywhere on Cryptovoxels that parcel owners are listed.",
+            "name": "Cryptovoxels Names",
+            "shortDescription": null,
+            "isVerified": false,
+            "owner": {
+              "address": "0x2d891ed45c4c3eab978513df4b92a35cf131d2e2",
+              "config": "AFFILIATE",
+              "isCompromised": false,
+              "user": {
+                "publicUsername": "bnolan",
+                "id": "VXNlclR5cGU6MTEwNg=="
+              },
+              "displayName": "bnolan",
+              "imageUrl": "https://storage.googleapis.com/opensea-static/opensea-profile/7.png",
+              "id": "QWNjb3VudFR5cGU6OTQzNDM="
+            },
+            "stats": {
+              "totalSupply": 9490.0,
+              "id": "Q29sbGVjdGlvblN0YXRzVHlwZTozOTE1"
+            },
+            "defaultChain": { "identifier": "ETHEREUM" },
+            "relayId": "Q29sbGVjdGlvblR5cGU6MzkxNQ==",
+            "id": "Q29sbGVjdGlvblR5cGU6MzkxNQ==",
+            "__typename": "CollectionType"
+          },
+          "cursor": "YXJyYXljb25uZWN0aW9uOjM="
+        },
+        {
+          "node": {
+            "slug": "unstoppable-domains-animals",
+            "logo": "https://lh3.googleusercontent.com/Ak1PwcaxSjJmX2ZR4XN1GOYw1ZqQPlJo48FJaD_RHJykq9p_-lrmLDDv2x5cjgDncxJphoSkWL4hEPA_693aXHJB=s60",
+            "banner": "https://lh3.googleusercontent.com/N_GEo3_GD1qsJB8vBCmpQCGkHCmg9Fh4hYuL80U44eJfuTwwTbyn0aAw4eEa6cyqJDsGhw8PYOliUQIb8Qs8DcCKIp7etDiGW56CncE=s300",
+            "description": "Simplify your crypto currency payments with human readable names and build censorship resistant websites. Purchase your blockchain domains today!",
+            "name": "Unstoppable Domains Animals",
+            "shortDescription": null,
+            "isVerified": true,
+            "owner": {
+              "address": "0x433e8b0b56c25cb43099dff2ee6a626325654014",
+              "config": "VERIFIED",
+              "isCompromised": false,
+              "user": {
+                "publicUsername": "Unstoppable_Domains",
+                "id": "VXNlclR5cGU6MTQ4MDE3NTk="
+              },
+              "displayName": "Unstoppable_Domains",
+              "imageUrl": "https://lh3.googleusercontent.com/X84OIOZWSBFNgdNzzlPPdyac859yb2OTdajiYGl9Taa2gc8Lfmga5ohpdhrMi5eIb8Y0Pov0eF6hRnvgUGl9WQQ2iTxAnoNkDAQ-=s100",
+              "id": "QWNjb3VudFR5cGU6MTUwMDYwNTE5"
+            },
+            "stats": {
+              "totalSupply": 18141.0,
+              "id": "Q29sbGVjdGlvblN0YXRzVHlwZTo4MjM2"
+            },
+            "defaultChain": { "identifier": "ETHEREUM" },
+            "relayId": "Q29sbGVjdGlvblR5cGU6ODIzNg==",
+            "id": "Q29sbGVjdGlvblR5cGU6ODIzNg==",
+            "__typename": "CollectionType"
+          },
+          "cursor": "YXJyYXljb25uZWN0aW9uOjQ="
+        }
+      ],
+      "pageInfo": {
+        "endCursor": "YXJyYXljb25uZWN0aW9uOjQ=",
+        "hasNextPage": false
+      }
+    }
+  }
+}

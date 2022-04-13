@@ -1,0 +1,379 @@
+{
+  "data": {
+    "trendingCollections": {
+      "edges": [
+        {
+          "node": {
+            "slug": "spottiewifi",
+            "logo": "https://lh3.googleusercontent.com/02d5Yyq2ySSMxb5wkWir7BqfLjr5DWPUOEKOrwsFQTWMcyLSEu63SH1UVNiO5Gb4gnbharDRjTmmGyHzavBc_15mwxz9GcqN65swdg=s120",
+            "banner": "https://lh3.googleusercontent.com/CQIFZkS0QS7x7gxjdg4exff0UQKQy20cSxMkZe3riORJFxR4rBzkUZqsqm9GJMgfrk_tTSfSxv7Dcd_BpYu71DFsuFicZuUdC0jSmQ=s300",
+            "description": "Spottie WiFi is the best (only) CryptoPunk rapper alive. In August 2021, he disrupted the music industry by selling 2000 \"I'm Spottie\" NFT albums in 60 seconds. The \"I'm Spottie\" collection is regarded as one of the most successful and innovative music NFT projects in history. The collection includes 33 songs, each with unique artwork and varying rarity traits - and \"I'm Spottie\" token holders receive a limited copyright license so they can actually monetize the music. \n\nLearn more at www.ImSpottie.com.",
+            "name": "\"I'm Spottie\"",
+            "shortDescription": null,
+            "isVerified": false,
+            "owner": {
+              "address": "0x882b76de0bb6b5b34a9f5a0fa49da34c16966c8c",
+              "config": null,
+              "isCompromised": false,
+              "user": {
+                "publicUsername": "SpottieWiFi-Vault",
+                "id": "VXNlclR5cGU6MTYwMjA3MDE="
+              },
+              "displayName": "SpottieWiFi-Vault",
+              "imageUrl": "https://lh3.googleusercontent.com/z5VmfrIeSCC8WBBuwgvODMkzIWQHr-49hcr9mS71W2pAysf98OgFmD7IYAlYaDNAicrDxSWGZIset82asBadCExop4KJKGC9QYnQ=s100",
+              "id": "QWNjb3VudFR5cGU6MTczNzgyMDYx"
+            },
+            "stats": {
+              "totalSupply": 2003.0,
+              "id": "Q29sbGVjdGlvblN0YXRzVHlwZTo4NjU5OTE="
+            },
+            "defaultChain": { "identifier": "ETHEREUM" },
+            "relayId": "Q29sbGVjdGlvblR5cGU6ODY1OTkx",
+            "id": "Q29sbGVjdGlvblR5cGU6ODY1OTkx",
+            "__typename": "CollectionType"
+          },
+          "cursor": "YXJyYXljb25uZWN0aW9uOjA="
+        },
+        {
+          "node": {
+            "slug": "the-weeknd-x-strangeloop-studio",
+            "logo": "https://lh3.googleusercontent.com/DJoKXV79AAeQQu5G2O6uhm2wNdo9JgqioLdKsYN4h-7o3nOridPH2c1CYFySgIblWJuQO0YgSEZKhLI_0c7KunYLmABmdeJ5hL00=s120",
+            "banner": "https://lh3.googleusercontent.com/0wR0mYJQpc_r_JAsqpNsIQxbQRNzV6Xko2MrDRM-2HievTFnqeNed_FO9jyWFOt5Vts9B_3zeCCARn2B7sH91_9Z8DHJ8lMTuzWsaw=s300",
+            "description": "Acephalous is a collection of 8 works from Abel \u201cThe Weeknd\u201d Tesfaye and LA-based design team Strangeloop Studios. The Weeknd and Strangeloop Studios have collaborated on concert visuals and audio-visual works since 2015, establishing an aesthetic thread that has remained consistent throughout the stylistic permutations of each album cycle and tour design.",
+            "name": "The Weeknd x Strangeloop Studios",
+            "shortDescription": null,
+            "isVerified": true,
+            "owner": null,
+            "stats": {
+              "totalSupply": 3766.0,
+              "id": "Q29sbGVjdGlvblN0YXRzVHlwZTozNjkyMzY="
+            },
+            "defaultChain": { "identifier": "ETHEREUM" },
+            "relayId": "Q29sbGVjdGlvblR5cGU6MzY5MjM2",
+            "id": "Q29sbGVjdGlvblR5cGU6MzY5MjM2",
+            "__typename": "CollectionType"
+          },
+          "cursor": "YXJyYXljb25uZWN0aW9uOjE="
+        },
+        {
+          "node": {
+            "slug": "0xmusic",
+            "logo": "https://lh3.googleusercontent.com/p_w_Qb5nikEIP7H471_rqdVxmUo9noTlRJDRyhjauSiCUVSzNKEHnUAQOl_u-RH6i-5zd6HoAd-9JMngfYDc38B8Qgvcc3tMG1JqWQ=s120",
+            "banner": "https://lh3.googleusercontent.com/y9BQZo34DkJGPE8qEIPg-qLKsLh5JcpJcufMTyS2-pQ8s-_S7JShZB94DUTcj4yYIDtdj4g-vo27qi4pox1ZQK9usFHHzW38_rKwyA=s2500",
+            "description": "0xmusic is a collection of generative audiovisual DJs - which are called 0xDJs. Each 0xDJ can create an infinite number of music pieces in real time. All code is stored on the Ethereum blockchain.\r\n\r\nWhen the Play button is touched, a brand new song is created, and the image comes alive. The song will continue playing until you either hit Play again or the DJ moves to the next track. At this time, all memory of the prior piece is destroyed, and the new song is created. This march of creation and destruction will continue as long as 0xmusic exists on the blockchain. In this sense, each piece is both eternal and ephemeral, living in a state of superposition until it is \u2018observed\u2019.\r\n\r\nAll NFTs are CC0.",
+            "name": "0xmusic",
+            "shortDescription": null,
+            "isVerified": false,
+            "owner": {
+              "address": "0xe6a4ada98bc8f9e12cb4ea50b158be3764c4d72d",
+              "config": null,
+              "isCompromised": false,
+              "user": {
+                "publicUsername": "0x_music",
+                "id": "VXNlclR5cGU6MjIzMzkyNTg="
+              },
+              "displayName": "0x_music",
+              "imageUrl": "https://storage.googleapis.com/opensea-static/opensea-profile/22.png",
+              "id": "QWNjb3VudFR5cGU6MjExMDIwNDk1"
+            },
+            "stats": {
+              "totalSupply": 777.0,
+              "id": "Q29sbGVjdGlvblN0YXRzVHlwZTo2NDgzMDY0"
+            },
+            "defaultChain": { "identifier": "ETHEREUM" },
+            "relayId": "Q29sbGVjdGlvblR5cGU6NjQ4MzA2NA==",
+            "id": "Q29sbGVjdGlvblR5cGU6NjQ4MzA2NA==",
+            "__typename": "CollectionType"
+          },
+          "cursor": "YXJyYXljb25uZWN0aW9uOjI="
+        },
+        {
+          "node": {
+            "slug": "musixseeds",
+            "logo": "https://lh3.googleusercontent.com/oykNsdWmaExsEj2GPI6wxMV8gWwU_FQxij56k29HcBMiX_kcUo_n7uQnZsvftGwrhpilGcKt-Pc7Z8Mj4VVR6qFTyfkWzzzRWMGB_A=s120",
+            "banner": "https://lh3.googleusercontent.com/i8P4-Ou4x2hv07RLVLbjfZrPumrXBI6c1PALGabRfTwxuRk_w1tDZNrUZ69_pR-WmWtrZhroo0L_I-vngracp06dvxRK10mTeUIKjQ=s2500",
+            "description": "MUSIX SEEDS are used to redeem MUSIX. If you are an artist or simply a music lover, we encourage you to check out our industry-changing roadmap. \n\n1 Musix Seed = 1 Musix \"Revealed\" https://opensea.io/collection/musix\n",
+            "name": "Power Musix Seeds",
+            "shortDescription": null,
+            "isVerified": false,
+            "owner": {
+              "address": "0x8fdf3017e2cf404adc11357fdedc47ebb5310593",
+              "config": null,
+              "isCompromised": false,
+              "user": {
+                "publicUsername": "Power_io",
+                "id": "VXNlclR5cGU6MTk3OTYxMjk="
+              },
+              "displayName": "Power_io",
+              "imageUrl": "https://lh3.googleusercontent.com/PJRxSysL6LaQTc_Bn778rA86_EiwtgoKrH-n3-ULIPjN4UFUmm-LlzBzrUIe4KkF0FCbeJgGG0Mt7AgmDbkK6G3penac_rBrkGM3=s100",
+              "id": "QWNjb3VudFR5cGU6MjAwMjkyMTUw"
+            },
+            "stats": {
+              "totalSupply": 502.0,
+              "id": "Q29sbGVjdGlvblN0YXRzVHlwZTo2OTQ2NDc5"
+            },
+            "defaultChain": { "identifier": "ETHEREUM" },
+            "relayId": "Q29sbGVjdGlvblR5cGU6Njk0NjQ3OQ==",
+            "id": "Q29sbGVjdGlvblR5cGU6Njk0NjQ3OQ==",
+            "__typename": "CollectionType"
+          },
+          "cursor": "YXJyYXljb25uZWN0aW9uOjM="
+        },
+        {
+          "node": {
+            "slug": "doomsdayx-gen-01-haleek-maul-producer-nft",
+            "logo": "https://lh3.googleusercontent.com/Dla2n7cSNMpmDx0mt0DgudH8obB5SJ_jkmzqpvpSg5YQk9p_EOh6ldQhNk7-6-SNQ5nPBXuWSbl88eoMER_Hk75kzDCfAm_eCz4r_Q=s120",
+            "banner": "https://lh3.googleusercontent.com/tN17QazKAV_dcWW6SINjJgVemmIw3l4kh7Kn2AuICMjlfbatPmximmm0E-JjPI4X5A6lLq1qSC6sXVKlWBid3E_naLxV4otopML90yc=s300",
+            "description": "",
+            "name": "DOOMSDAYX Gen 01 Haleek Maul Producer NFT",
+            "shortDescription": null,
+            "isVerified": false,
+            "owner": {
+              "address": "0x87858dc56634796488f2e4f2d7135cc6132777e7",
+              "config": null,
+              "isCompromised": false,
+              "user": null,
+              "displayName": null,
+              "imageUrl": "https://storage.googleapis.com/opensea-static/opensea-profile/2.png",
+              "id": "QWNjb3VudFR5cGU6MjA1OTUxMzgw"
+            },
+            "stats": {
+              "totalSupply": 1000.0,
+              "id": "Q29sbGVjdGlvblN0YXRzVHlwZTo1NzMwMTcy"
+            },
+            "defaultChain": { "identifier": "ETHEREUM" },
+            "relayId": "Q29sbGVjdGlvblR5cGU6NTczMDE3Mg==",
+            "id": "Q29sbGVjdGlvblR5cGU6NTczMDE3Mg==",
+            "__typename": "CollectionType"
+          },
+          "cursor": "YXJyYXljb25uZWN0aW9uOjQ="
+        },
+        {
+          "node": {
+            "slug": "soulection",
+            "logo": "https://lh3.googleusercontent.com/ruVcRDlbPTATTQzzvfjhCTxa7KxSE6ZRDYwBnMWRUVhxRBddvmuvSQMNWTmppc0bd7Xy8gCOTF_CSep_QzwYxuUCxojU4z0XFHsNhMI=s120",
+            "banner": "https://lh3.googleusercontent.com/EuwedojHhbfPBacbiyN4RynavVIwnfhWK2RaD2yb6Rd9JAM4LnjXYQpeM9vz_iwkYR0-eA64fEhXUXG01iUjtafMO0iorHhFtfX7-w=s300",
+            "description": "Created by Soulection on Sound. Leave a comment on the song at https://sound.xyz/soulection",
+            "name": "Soulection+ Radio: UNTITLED 001",
+            "shortDescription": null,
+            "isVerified": false,
+            "owner": {
+              "address": "0xabaec7c7b385dd1bb0e4a95d0ff8dac3703432bd",
+              "config": null,
+              "isCompromised": false,
+              "user": {
+                "publicUsername": "soulection",
+                "id": "VXNlclR5cGU6MjUwMjA5MzY="
+              },
+              "displayName": "soulection",
+              "imageUrl": "https://lh3.googleusercontent.com/ruVcRDlbPTATTQzzvfjhCTxa7KxSE6ZRDYwBnMWRUVhxRBddvmuvSQMNWTmppc0bd7Xy8gCOTF_CSep_QzwYxuUCxojU4z0XFHsNhMI=s100",
+              "id": "QWNjb3VudFR5cGU6MTI5MDUzOTQz"
+            },
+            "stats": {
+              "totalSupply": 333.0,
+              "id": "Q29sbGVjdGlvblN0YXRzVHlwZTo3ODg2Mzc4"
+            },
+            "defaultChain": { "identifier": "ETHEREUM" },
+            "relayId": "Q29sbGVjdGlvblR5cGU6Nzg4NjM3OA==",
+            "id": "Q29sbGVjdGlvblR5cGU6Nzg4NjM3OA==",
+            "__typename": "CollectionType"
+          },
+          "cursor": "YXJyYXljb25uZWN0aW9uOjU="
+        },
+        {
+          "node": {
+            "slug": "wvrps-by-warpsound",
+            "logo": "https://lh3.googleusercontent.com/TLyqit6C4onBqWvjnxwApA0pcVTEKQymvkT5L-609EON9C09Y66-GAqY-N_o_g5OCUTQhR1hPPppnFYktblJEmwsQQjuKZoZ66iYpw=s120",
+            "banner": "https://lh3.googleusercontent.com/TwklyYI0BWydAqGQwNww-Kl-NKdOj6geISiYUBaDlwTnigcV6SwK1sC54VMTrHTq8DAY8kCV0gRcVAtrZp1Irn6Qy1E3Azja1sxo=s300",
+            "description": "WVRPS are 9,999 NFTs comprised of a hybrid of generative PFP art + AI-composed music minted on the Ethereum blockchain. \r\n\r\nThey are the opening note of WarpSound\u2019s larger vision for social music experience, helping ignite the future of generative music creativity + synthetic artistry.",
+            "name": "WVRPS by WarpSound (Official)",
+            "shortDescription": null,
+            "isVerified": true,
+            "owner": {
+              "address": "0xf201894ae8b9fa32cda417389a87095ea134e8c5",
+              "config": "VERIFIED",
+              "isCompromised": false,
+              "user": {
+                "publicUsername": "WVRPS_Deployment",
+                "id": "VXNlclR5cGU6MjAwNjkxMTM="
+              },
+              "displayName": "WVRPS_Deployment",
+              "imageUrl": "https://lh3.googleusercontent.com/5B6oSwCBcq50Iy73BvdwsjCERToPh7IVv1hDfZpmC9BRBTJsRYbzlpYXYvLD1SJlZXn20uV_xGWK_q-KieKkQI5qkcb9fw9FxJkUbw=s100",
+              "id": "QWNjb3VudFR5cGU6MjAxNTg1MjEz"
+            },
+            "stats": {
+              "totalSupply": 9999.0,
+              "id": "Q29sbGVjdGlvblN0YXRzVHlwZTo1MjcwNDQy"
+            },
+            "defaultChain": { "identifier": "ETHEREUM" },
+            "relayId": "Q29sbGVjdGlvblR5cGU6NTI3MDQ0Mg==",
+            "id": "Q29sbGVjdGlvblR5cGU6NTI3MDQ0Mg==",
+            "__typename": "CollectionType"
+          },
+          "cursor": "YXJyYXljb25uZWN0aW9uOjY="
+        },
+        {
+          "node": {
+            "slug": "omgkirby-genesis",
+            "logo": "https://lh3.googleusercontent.com/hlenqhWgD9qAowKSlJZf1_n4BIFknUzpJYtTal8gyZ1hxYCce2wVrRZXISZusPn9DXKbtT7_gKja_Hd99RYeRXYeWzExsSS-aL-P6og=s120",
+            "banner": "https://lh3.googleusercontent.com/QaJZCxh5P70J_Uw0yHOwoOOeBZTwrtiztG_Y4B3JOuOEvM2LRUrFtiGQ8gQLWG75ab7X9xpuobEj3vdz3Z94XjBTJz8fjHBfQBs8zA=s300",
+            "description": "The omgkirby genesis collection includes the release of 3,000 unique pieces of generative lofi music and the formation of the omgkirby DAO. Each song and its accompanying visual is created via a beautiful cooperation between human and machine; The individual NFTs are a novel combination of algorithmically-assisted music and hand-drawn art. NFT holders will have complete ownership of the song in its entirety, including Master Recording and Publishing rights. Additionally, holders will be members of the omgkirby DAO and control the omgkirby treasury.",
+            "name": "omgkirby Genesis",
+            "shortDescription": null,
+            "isVerified": false,
+            "owner": {
+              "address": "0x1abddc3293ec0b0909605a1bc8939cf7e98a4e7a",
+              "config": null,
+              "isCompromised": false,
+              "user": {
+                "publicUsername": "omgkirby",
+                "id": "VXNlclR5cGU6MTg3MjQ0Nzc="
+              },
+              "displayName": "omgkirby",
+              "imageUrl": "https://lh3.googleusercontent.com/LOHCZi_6kXl-SLlOTBTftT1T8UypgQh98l8rU3iQgYKoPZ7Fv3ceC5UN5rgd_HLq0_4w6gW-z8jZ2d8HfKtqHJD3_Dg8r8sbuR_XQw=s100",
+              "id": "QWNjb3VudFR5cGU6MTkzODQ3OTQw"
+            },
+            "stats": {
+              "totalSupply": 3000.0,
+              "id": "Q29sbGVjdGlvblN0YXRzVHlwZTo2MzE4Mzk4"
+            },
+            "defaultChain": { "identifier": "ETHEREUM" },
+            "relayId": "Q29sbGVjdGlvblR5cGU6NjMxODM5OA==",
+            "id": "Q29sbGVjdGlvblR5cGU6NjMxODM5OA==",
+            "__typename": "CollectionType"
+          },
+          "cursor": "YXJyYXljb25uZWN0aW9uOjc="
+        },
+        {
+          "node": {
+            "slug": "snoopdoggbodr",
+            "logo": "https://lh3.googleusercontent.com/GPAsaG3RQBWcRxaY3csb7f-ybDmYS_6EfjvxW7qDjp7t07B--hbNlwEy-VTR1SKx34jWfSLTwqKzKbVsrBQvPxE9PQiyyOTnK0Bsuw=s120",
+            "banner": "https://lh3.googleusercontent.com/od0K-YXKkATaMcCRI-WVf7W1y6EbIW9TICUM0yLYnTrLcCtglXuY_3dQeGdiO_6R-ObrDCVKk52-pozbfosMiNvoJKDaPUPaVAIdjQ=s300",
+            "description": "NFTs of Snoop Dogg's B.O.D.R., brought to you exclusively by Gala Music.",
+            "name": "Snoop Dogg - B.O.D.R",
+            "shortDescription": null,
+            "isVerified": false,
+            "owner": {
+              "address": "0xbf929281d912a4556d1bc463209e62705f0f6438",
+              "config": "VERIFIED",
+              "isCompromised": false,
+              "user": {
+                "publicUsername": "cooltown",
+                "id": "VXNlclR5cGU6NDM5MDQ="
+              },
+              "displayName": "cooltown",
+              "imageUrl": "https://lh3.googleusercontent.com/G3ZD-mjHM1tiV8HZ0EkLKez4Cu4_ZxNAJaCTuT1tEDle3-DnkRHa-RaxyvQhNr0jUvTRv30IuSJN17eHxYHaehgj-KDhowXL9UC-lEQ",
+              "id": "QWNjb3VudFR5cGU6NzQ5NTMyMg=="
+            },
+            "stats": {
+              "totalSupply": 1.0,
+              "id": "Q29sbGVjdGlvblN0YXRzVHlwZTo3MTA4Nzky"
+            },
+            "defaultChain": { "identifier": "ETHEREUM" },
+            "relayId": "Q29sbGVjdGlvblR5cGU6NzEwODc5Mg==",
+            "id": "Q29sbGVjdGlvblR5cGU6NzEwODc5Mg==",
+            "__typename": "CollectionType"
+          },
+          "cursor": "YXJyYXljb25uZWN0aW9uOjg="
+        },
+        {
+          "node": {
+            "slug": "rave-pigs",
+            "logo": "https://lh3.googleusercontent.com/sP9d3Pbg51IApgYdu_I0GV9ZOtjAzEGgLl3DKhR_-vfUbusTR5W71nq2bI-ZmlPQs3cBafENRX8DuBrArmyXngHFLqyufMuR8mDUqLc=s120",
+            "banner": "https://lh3.googleusercontent.com/fey91xEpo3lojnx1htGigu-czjRLS-AROUiq6SL-Wxyhl9dWHof6hM4Bf_3oS4XvBGnbMmPZaVVMY-HU-juQqvQV3KbBQIK44idOEg=s300",
+            "description": "Rave Pigs is a collection of 6,666 individually unique, generative audio-visual characters from the dark and dirty Berlin underground letting you mint and own techno tracks from the one and only Boys Noize!",
+            "name": "Rave Pigs",
+            "shortDescription": null,
+            "isVerified": false,
+            "owner": {
+              "address": "0xccbc4cc6b400c221bba187e0c9ef60a6f1ee655e",
+              "config": null,
+              "isCompromised": false,
+              "user": {
+                "publicUsername": "Rave-Pigs-Deployer",
+                "id": "VXNlclR5cGU6MjA4MDU4NTk="
+              },
+              "displayName": "Rave-Pigs-Deployer",
+              "imageUrl": "https://storage.googleapis.com/opensea-static/opensea-profile/1.png",
+              "id": "QWNjb3VudFR5cGU6MTUxOTYyMjUw"
+            },
+            "stats": {
+              "totalSupply": 6663.0,
+              "id": "Q29sbGVjdGlvblN0YXRzVHlwZTo1NzI4MTQ5"
+            },
+            "defaultChain": { "identifier": "ETHEREUM" },
+            "relayId": "Q29sbGVjdGlvblR5cGU6NTcyODE0OQ==",
+            "id": "Q29sbGVjdGlvblR5cGU6NTcyODE0OQ==",
+            "__typename": "CollectionType"
+          },
+          "cursor": "YXJyYXljb25uZWN0aW9uOjk="
+        },
+        {
+          "node": {
+            "slug": "mintsongs",
+            "logo": "https://lh3.googleusercontent.com/7nnahKprMC9mvJkw35sWRXXqdu2ziy1IYny5kjFB5w55qNMK4PenQdrz3ebxn-MHefPq7piYPj-BzNxQw-0mQ5wag5IfRaoxBrmn=s120",
+            "banner": "https://lh3.googleusercontent.com/r2CALW7RfspUrkmYyf9PtxYT80gZV1QbWYKLSrsVPRnSvj66yF_0bJOkWTJ8uq710Hz2axaiiEMKxnrr5RyR6bxMjK3SLFDE9vep6w=s300",
+            "description": "",
+            "name": "Mint Songs",
+            "shortDescription": null,
+            "isVerified": false,
+            "owner": {
+              "address": "0x5ca1702c25447d0b6b82e401e4ecec3b6736711f",
+              "config": null,
+              "isCompromised": false,
+              "user": { "publicUsername": null, "id": "VXNlclR5cGU6OTc4NDI2" },
+              "displayName": null,
+              "imageUrl": "https://storage.googleapis.com/opensea-static/opensea-profile/23.png",
+              "id": "QWNjb3VudFR5cGU6NTQxODgxOTY="
+            },
+            "stats": {
+              "totalSupply": 48691.0,
+              "id": "Q29sbGVjdGlvblN0YXRzVHlwZTo3NjE5OTc="
+            },
+            "defaultChain": { "identifier": "MATIC" },
+            "relayId": "Q29sbGVjdGlvblR5cGU6NzYxOTk3",
+            "id": "Q29sbGVjdGlvblR5cGU6NzYxOTk3",
+            "__typename": "CollectionType"
+          },
+          "cursor": "YXJyYXljb25uZWN0aW9uOjEw"
+        },
+        {
+          "node": {
+            "slug": "kristophgalland",
+            "logo": "https://lh3.googleusercontent.com/uZBLrxtXIoQyWj6CV_eJ7sOS2JqBwWeRmM9PuFd_ZGGjNLo0DCCI9tphaz1-mI30nULYqZNLnXVtDDBCJSJworKx=s120",
+            "banner": "https://lh3.googleusercontent.com/uZBLrxtXIoQyWj6CV_eJ7sOS2JqBwWeRmM9PuFd_ZGGjNLo0DCCI9tphaz1-mI30nULYqZNLnXVtDDBCJSJworKx=s120",
+            "description": "AudioNFTs by Kristoph Galland\n",
+            "name": "Kristoph Galland",
+            "shortDescription": null,
+            "isVerified": false,
+            "owner": {
+              "address": "0xb3397a6feedff2b9fce9ca1086cb1bdd617c16bf",
+              "config": "AFFILIATE",
+              "isCompromised": false,
+              "user": {
+                "publicUsername": "Kristoph",
+                "id": "VXNlclR5cGU6MzE4OA=="
+              },
+              "displayName": "Kristoph",
+              "imageUrl": "https://storage.opensea.io/files/9cb455b2a2a638579e4d8504ae3b6729.jpg",
+              "id": "QWNjb3VudFR5cGU6MTcwOTAy"
+            },
+            "stats": {
+              "totalSupply": 17.0,
+              "id": "Q29sbGVjdGlvblN0YXRzVHlwZToxNDc1Nw=="
+            },
+            "defaultChain": { "identifier": "ETHEREUM" },
+            "relayId": "Q29sbGVjdGlvblR5cGU6MTQ3NTc=",
+            "id": "Q29sbGVjdGlvblR5cGU6MTQ3NTc=",
+            "__typename": "CollectionType"
+          },
+          "cursor": "YXJyYXljb25uZWN0aW9uOjEx"
+        }
+      ],
+      "pageInfo": {
+        "endCursor": "YXJyYXljb25uZWN0aW9uOjEx",
+        "hasNextPage": true
+      }
+    }
+  }
+}

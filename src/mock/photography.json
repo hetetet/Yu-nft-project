@@ -1,0 +1,396 @@
+{
+  "data": {
+    "trendingCollections": {
+      "edges": [
+        {
+          "node": {
+            "slug": "flowerblocks",
+            "logo": "https://lh3.googleusercontent.com/DLvu08qaMOd-C6Dd_3QEfIaq-sOycDm9WWd5Qe-6VYD1yvUzX6BhTaTk7MtLMWGiousglJgUV9Scb9tdZyKtI-ma3Qp5w_nRjJXX=s120",
+            "banner": "https://lh3.googleusercontent.com/lRdGFoY5kkvl6C7pXFqKdBvrECMXoJMureqS00aZ4YMd_QTKiP_hM0pa7lGki8WiCgBUDV0qIxY8LRTaI8OeD7DDee49KfVncCks=s300",
+            "description": "\nMy series takes a look at preserving the beauty of the flowers and allows them to be viewed in a unique manner, with each flower hand-picked by me.  I work with flowers as I love the idea of how their life cycle goes hand in hand with the work. They have a purpose with a beginning and end. Just as the work once finished will melt away, without the capturing of the pieces with photography, the work may have never be seen.\n\nFor other pieces check out :\nfoundation.app/@joehorner",
+            "name": "Flower Block Series",
+            "shortDescription": null,
+            "isVerified": false,
+            "owner": {
+              "address": "0xb2b40044be8d564911176c7c31fee1d083d6d7a7",
+              "config": null,
+              "isCompromised": false,
+              "user": {
+                "publicUsername": "flowerblocks",
+                "id": "VXNlclR5cGU6NzQ4OTQx"
+              },
+              "displayName": "flowerblocks",
+              "imageUrl": "https://lh3.googleusercontent.com/5h_Mpaf0f7C-b0QR3QBv56qPjqGMU3KS0VHPdDWPUhEQ1i9RRjpDbqn6V_mK3u-q4dLzsZyIcalLLN-LQmx6jZBnRjj5yxf3hCRhnw=s100",
+              "id": "QWNjb3VudFR5cGU6MjcxODEzNjA="
+            },
+            "stats": {
+              "totalSupply": 60.0,
+              "id": "Q29sbGVjdGlvblN0YXRzVHlwZToxMDY2Nzk4"
+            },
+            "defaultChain": { "identifier": "ETHEREUM" },
+            "relayId": "Q29sbGVjdGlvblR5cGU6MTA2Njc5OA==",
+            "id": "Q29sbGVjdGlvblR5cGU6MTA2Njc5OA==",
+            "__typename": "CollectionType"
+          },
+          "cursor": "YXJyYXljb25uZWN0aW9uOjA="
+        },
+        {
+          "node": {
+            "slug": "paulinesart",
+            "logo": "https://lh3.googleusercontent.com/kqo9RfkDFvLIvap7MdtUGZXG9VcxIscFhSjh5-3RxMt7WFiL8wzGSlKLU7OHfznq7FwiuKjfQL1T_ax2NDKjNJOjgoed-r4pnAJwiQ=s120",
+            "banner": "https://lh3.googleusercontent.com/kqo9RfkDFvLIvap7MdtUGZXG9VcxIscFhSjh5-3RxMt7WFiL8wzGSlKLU7OHfznq7FwiuKjfQL1T_ax2NDKjNJOjgoed-r4pnAJwiQ=s300",
+            "description": "Through my art I want to share the image of a woman free in her body and in her mind who wishes to counter the dictates of society on art and beauty through nudity and sensuality.\n\nThis is my first ever NFT collection of 21 photographs, here you can find some of my favorite ones some are published on my Instagram \nand others are exclusively sold here.\n\nWelcome to my NFTs world!\n\nPauline Faieff \ud83e\udd8b\n",
+            "name": "Pauline's  art",
+            "shortDescription": null,
+            "isVerified": false,
+            "owner": {
+              "address": "0xc6eaa69c6f5541388122154297834b94c68dbdd1",
+              "config": "VERIFIED",
+              "isCompromised": false,
+              "user": {
+                "publicUsername": "faepaulinee",
+                "id": "VXNlclR5cGU6MTYxMzE3Nzg="
+              },
+              "displayName": "faepaulinee",
+              "imageUrl": "https://lh3.googleusercontent.com/lk8fLL6AFmX4twGc23FbgjO7G3hyPGe8ZjipK3hJH4391e-yqFnCqlZMfTK44POBRAVqrKWc2NjzPYHxPtfe5Racn6Vo_ijxUXyYxA4=s100",
+              "id": "QWNjb3VudFR5cGU6MTc0NTYzODM5"
+            },
+            "stats": {
+              "totalSupply": 21.0,
+              "id": "Q29sbGVjdGlvblN0YXRzVHlwZTozNzAzNTU0"
+            },
+            "defaultChain": { "identifier": "ETHEREUM" },
+            "relayId": "Q29sbGVjdGlvblR5cGU6MzcwMzU1NA==",
+            "id": "Q29sbGVjdGlvblR5cGU6MzcwMzU1NA==",
+            "__typename": "CollectionType"
+          },
+          "cursor": "YXJyYXljb25uZWN0aW9uOjE="
+        },
+        {
+          "node": {
+            "slug": "the-metascapes",
+            "logo": "https://lh3.googleusercontent.com/0tM6wrF0VmfVUOpVmpeAnPJC4nOdZqIhRoHENwE7pxsu_0i4DJ66pWRd_jRAUJf2_yJJx3U10wXfh24-Z3cebAp1NgH1iHpiMP04Qw=s120",
+            "banner": "https://lh3.googleusercontent.com/wwzLfDg6Fi1mKANIyhkxWVgu8SBbWRd3A2UB6q4NHd3YoBzU6C5UuDIvaOqG_5QBGyQ8lSjibO-EsKg9JP0uU6FTqpoOKwZrNv98=s300",
+            "description": "2555 hand-picked AI landscape images of a unique collaboration between Cath Simard, Ryan Newburn, Iurie Belegurschi and Artificial Intelligence, bridging the natural and the supernatural. \r\n\r\nhttps://metascapes.sloika.xyz/",
+            "name": "The Metascapes",
+            "shortDescription": null,
+            "isVerified": false,
+            "owner": {
+              "address": "0xfde51f0791ea5a343013a5277ba33ae9c5aa7726",
+              "config": null,
+              "isCompromised": false,
+              "user": {
+                "publicUsername": "TheStrawHatBackpacker",
+                "id": "VXNlclR5cGU6OTcwOTA5"
+              },
+              "displayName": "TheStrawHatBackpacker",
+              "imageUrl": "https://lh3.googleusercontent.com/Gang1uA1l0kn3ACg_16sWV_rluS4myY_SfaEc0cj17RC-R__j4pZxrbdTb8PHOleefc49droJU89fiwbHTTfyhGGRYL9-QpiOtIfTw=s100",
+              "id": "QWNjb3VudFR5cGU6NDYzODk4OTY="
+            },
+            "stats": {
+              "totalSupply": 2555.0,
+              "id": "Q29sbGVjdGlvblN0YXRzVHlwZTo2NTIzNTY2"
+            },
+            "defaultChain": { "identifier": "ETHEREUM" },
+            "relayId": "Q29sbGVjdGlvblR5cGU6NjUyMzU2Ng==",
+            "id": "Q29sbGVjdGlvblR5cGU6NjUyMzU2Ng==",
+            "__typename": "CollectionType"
+          },
+          "cursor": "YXJyYXljb25uZWN0aW9uOjI="
+        },
+        {
+          "node": {
+            "slug": "unseen-emanuele-ferrari",
+            "logo": "https://lh3.googleusercontent.com/jP-d3eJko4ohmmHzVEfM_7BRO7ewXJzFVwkP22ZLkdT6TDx9SqFOrD4EGCvkaHLY6wwCFxpzabzCCGuPn4mG2BhhqZ7-jP5UPA4QiFo=s120",
+            "banner": "https://lh3.googleusercontent.com/n50Ltngb-TB8loItnA2CS8MaGS6A3SfOBDs3NJvC3jMVAXx4Ul19SFyWkELLLlSzj8zm2DlQrU50IYk6Cekukw0ebGybMWuIuhGsNQs=s300",
+            "description": "Emanuele Ferrari's UNSEEN is a photographic project made of 100 polaroids from his private collection. Small life\u2019s fragments, details, backstage moments, models, all unpublished till now.\n\nEach physical asset was burned as soon as it was transformed into a NFT. \n\nEach NFT is 1/1. \nEach NFT is unseen.\n",
+            "name": "Unseen by Emanuele Ferrari",
+            "shortDescription": null,
+            "isVerified": false,
+            "owner": {
+              "address": "0x132df84e9ea2f4cca42976b4ce1a8e814e5cb809",
+              "config": "VERIFIED",
+              "isCompromised": false,
+              "user": {
+                "publicUsername": "emanueleferrariph",
+                "id": "VXNlclR5cGU6MTgzNjg2NjY="
+              },
+              "displayName": "emanueleferrariph",
+              "imageUrl": "https://lh3.googleusercontent.com/NZLU0ogWe7jex58B1-vW-J1Z8RibdZq18g_qXVKrYsoHTpBJGcGBgYknGPXt41m4Fm-K7xIvxyORUSmeu__59BGiqS7Jz_1DU4XDJRE=s100",
+              "id": "QWNjb3VudFR5cGU6MTkxNDQ0NjUw"
+            },
+            "stats": {
+              "totalSupply": 100.0,
+              "id": "Q29sbGVjdGlvblN0YXRzVHlwZTo3MDM1ODk1"
+            },
+            "defaultChain": { "identifier": "ETHEREUM" },
+            "relayId": "Q29sbGVjdGlvblR5cGU6NzAzNTg5NQ==",
+            "id": "Q29sbGVjdGlvblR5cGU6NzAzNTg5NQ==",
+            "__typename": "CollectionType"
+          },
+          "cursor": "YXJyYXljb25uZWN0aW9uOjM="
+        },
+        {
+          "node": {
+            "slug": "phto-all-access-pass",
+            "logo": "https://lh3.googleusercontent.com/OQhUMufqoDj4H-hkMaSMlAeyc967dEQvBFFocw9CihivmRdbLuq5G3ePgFOrhf7aOqF7Ke2tRlF7ecGpqU1wIXis9R_yfXgsRjW9ZA=s120",
+            "banner": "https://lh3.googleusercontent.com/Z8JAv0sYBB0jZgnNH410okArqx10m1uUDNHMz5ZWqQuRrxbVlBiM6yGF92Qmqz_dp70fD6VtA2iEqpszbl7WJSABwbWdKiiPj8wP=s300",
+            "description": "The \u2018All Access Pass\u2019 is the Genesis NFT of Phto. and a Limited Edition of only 500. This exclusive Collectors Piece grants each holder with All Access to all Phto. exhibits, and more. The main membership benefit for every collector holding a pass is one FREE mint (+Gas Only) per Phto Exhibit. Check us out at www.phto.io for additional info. ",
+            "name": "Phto. All Access Pass",
+            "shortDescription": null,
+            "isVerified": false,
+            "owner": {
+              "address": "0xda4adb0fc335a203792d645ceb138a9510eec7b8",
+              "config": null,
+              "isCompromised": false,
+              "user": {
+                "publicUsername": "Phto_Gallery",
+                "id": "VXNlclR5cGU6MjQ3MjMxNzc="
+              },
+              "displayName": "Phto_Gallery",
+              "imageUrl": "https://lh3.googleusercontent.com/OQhUMufqoDj4H-hkMaSMlAeyc967dEQvBFFocw9CihivmRdbLuq5G3ePgFOrhf7aOqF7Ke2tRlF7ecGpqU1wIXis9R_yfXgsRjW9ZA=s100",
+              "id": "QWNjb3VudFR5cGU6MjUzNTk2NDQ3"
+            },
+            "stats": {
+              "totalSupply": 1.0,
+              "id": "Q29sbGVjdGlvblN0YXRzVHlwZTo3NjI2OTky"
+            },
+            "defaultChain": { "identifier": "ETHEREUM" },
+            "relayId": "Q29sbGVjdGlvblR5cGU6NzYyNjk5Mg==",
+            "id": "Q29sbGVjdGlvblR5cGU6NzYyNjk5Mg==",
+            "__typename": "CollectionType"
+          },
+          "cursor": "YXJyYXljb25uZWN0aW9uOjQ="
+        },
+        {
+          "node": {
+            "slug": "yaasmyn-fula-the-untold-story-of-tupac",
+            "logo": "https://lh3.googleusercontent.com/g4o5J8R7feQWF-9z4kuMobkF0-xrbTnaUAxAQn26a979_wjDE8SsocwxnOX5OYxivbmtYNAnz_Oq-cSjXAQyM4iZdXKpTLsQ36TU=s120",
+            "banner": "https://lh3.googleusercontent.com/Pq6wEPCape4ZnVn8GOwwGPWG-iXH-3QccWludAyWJA6gNzjI2Xp27JCTrjepax2iW-3-hmpLeLoPTLaI8ZMAw6wDHRyREmc6mo0pZ6k=s300",
+            "description": "Spirit of an Outlaw by Yaasmyn Fula, Kadafi\u2019s mother, reveals the truth of Kadafi and Tupac\u2019s lives and exposes the underbelly of resistance that raised them. From their earliest years until the end, she was the family photographer and curator. Many photos were confiscated by state agencies but fortunately, many were preserved. Their legacies, though commodified and distorted, are resurrected in never before seen images now giving context to their spirited lyrics and plans for a better world.\n\nYaasymyn\u2019s NFTs are a collection and photo journal that captures the true essence of their relationship and the Codes passed down to them. There was always a Code of Women to whisper in their ears, teaching them courage, honor, and love. This NFT drop is the story of their love and devotion to each other as told through the eyes of one of those women. The true spirit of Yaki and Tupac is preserved in their music, and with this NFT collection.",
+            "name": "Yaasmyn Fula - The Untold Story of Tupac Amaru Shakur & Yaki Kadafi Fula",
+            "shortDescription": null,
+            "isVerified": false,
+            "owner": {
+              "address": "0x528856a22f76b432a230c6b58361fa2cc8706fdc",
+              "config": null,
+              "isCompromised": false,
+              "user": {
+                "publicUsername": null,
+                "id": "VXNlclR5cGU6MTM0Njg3NjI="
+              },
+              "displayName": null,
+              "imageUrl": "https://storage.googleapis.com/opensea-static/opensea-profile/24.png",
+              "id": "QWNjb3VudFR5cGU6MTU5NTkyNzg5"
+            },
+            "stats": {
+              "totalSupply": 1004.0,
+              "id": "Q29sbGVjdGlvblN0YXRzVHlwZTo0MzM5MDMz"
+            },
+            "defaultChain": { "identifier": "ETHEREUM" },
+            "relayId": "Q29sbGVjdGlvblR5cGU6NDMzOTAzMw==",
+            "id": "Q29sbGVjdGlvblR5cGU6NDMzOTAzMw==",
+            "__typename": "CollectionType"
+          },
+          "cursor": "YXJyYXljb25uZWN0aW9uOjU="
+        },
+        {
+          "node": {
+            "slug": "quantum-curated",
+            "logo": "https://lh3.googleusercontent.com/HhL3P-qUEGPv7diJNrC_UH12BWRwJBbpLzr8VuLFMXQryauJPXT7VkKLy2GwPET8ipoUxkVeaCSpQTs0nRxiC2xBLJZ5LVKR0jXC=s120",
+            "banner": "https://lh3.googleusercontent.com/ZMXtJXScBGQ2cqz_abVV92jdf1X-aQV7wymkUcSgVu91AITIMWJehDQT5geYb-9YK6fZYWVAsE9DiZStOhbL6vu1wneMb7vCgjUsIw=s2500",
+            "description": "The first on chain platform focused solely on photographers and their work, by curating and dropping NFT collections.",
+            "name": "Quantum Curated",
+            "shortDescription": null,
+            "isVerified": true,
+            "owner": {
+              "address": "0x9fef8de6fb60f43079565ece74f235aed225face",
+              "config": "VERIFIED",
+              "isCompromised": false,
+              "user": {
+                "publicUsername": "Quantum-Creator",
+                "id": "VXNlclR5cGU6NTI0NDIyMg=="
+              },
+              "displayName": "Quantum-Creator",
+              "imageUrl": "https://lh3.googleusercontent.com/U58-YzpZZTR9_6UY11fTqspS8CWwXYBLvhtPA4diwsGFIE39KIbSwolBs_sHmaZWSaevPvzFkq44XCPhFAf1L62BsR2AJ2RkOHJf=s100",
+              "id": "QWNjb3VudFR5cGU6ODU1OTUwNjI="
+            },
+            "stats": {
+              "totalSupply": 2080.0,
+              "id": "Q29sbGVjdGlvblN0YXRzVHlwZToyNTI0MTE4"
+            },
+            "defaultChain": { "identifier": "ETHEREUM" },
+            "relayId": "Q29sbGVjdGlvblR5cGU6MjUyNDExOA==",
+            "id": "Q29sbGVjdGlvblR5cGU6MjUyNDExOA==",
+            "__typename": "CollectionType"
+          },
+          "cursor": "YXJyYXljb25uZWN0aW9uOjY="
+        },
+        {
+          "node": {
+            "slug": "keepers-of-the-inn",
+            "logo": "https://lh3.googleusercontent.com/yDNYZ1-5l1VIum89R8ZPPTF-SRWPcKTSejTOLoDQRJ9P-tomwsM229X2MMHGoPW5kUMRaeCYhqzwt1TrN5SJBs8Lvf3LmIP7n1M3j48=s120",
+            "banner": "https://lh3.googleusercontent.com/RErQnx9lSGrqTko_MvOBQT8X1ARXH-PQyzOM8GPwdzR3teR9X_NATIBoUUbHqWtHhRakvE_5rc65YR87FVL_xTYuHxc2a9OkZ3pC0zQ=s300",
+            "description": "A collection of 3,356 photographs by Julie Pacino captured during the rehearsal process of her upcoming feature film I Live Here Now.\r\n\r\n[keepersoftheinn.art](https://www.keepersoftheinn.art/)",
+            "name": "Keepers of the Inn",
+            "shortDescription": null,
+            "isVerified": true,
+            "owner": {
+              "address": "0xed83f0bceef992fa58c8bc8a27269eedb3574922",
+              "config": "VERIFIED",
+              "isCompromised": false,
+              "user": {
+                "publicUsername": "Julie_Pacino",
+                "id": "VXNlclR5cGU6MzE2NjY4"
+              },
+              "displayName": "Julie_Pacino",
+              "imageUrl": "https://lh3.googleusercontent.com/H5hAaDt7SWXvaF1FXCLL_U7sZweHfbZ25ABFJdTVBIRuRdQEfDkSmYW5XdSpjM3E3EgDABqfH1TyEaam7ZlwVlj4ip_LGMRkazePiw=s100",
+              "id": "QWNjb3VudFR5cGU6MjM3ODAxMjI="
+            },
+            "stats": {
+              "totalSupply": 3356.0,
+              "id": "Q29sbGVjdGlvblN0YXRzVHlwZTozNzM2NzM4"
+            },
+            "defaultChain": { "identifier": "ETHEREUM" },
+            "relayId": "Q29sbGVjdGlvblR5cGU6MzczNjczOA==",
+            "id": "Q29sbGVjdGlvblR5cGU6MzczNjczOA==",
+            "__typename": "CollectionType"
+          },
+          "cursor": "YXJyYXljb25uZWN0aW9uOjc="
+        },
+        {
+          "node": {
+            "slug": "dreamstates",
+            "logo": "https://lh3.googleusercontent.com/9YpWIulcSdRtQ_iYuuDxsAHgiQLEhuLJukdIX7T1xq0Racr1ldzgJXwD-NLxJ_V2alef-KEAJf0VaqXBtzdviSi-RHYeAQFgWBJ353c=s120",
+            "banner": "https://lh3.googleusercontent.com/aUDU01grHMxwIa-WGjBFD-vjfI11GdS2VgN4_btVIHPVAuYHfDNmZ1uURNmkW4BcJ4y4SqWHg1IExbOmdgr4svYvcKEhL0iaa6dK=s2500",
+            "description": "A collection of Infrared Images and neonnoir from around the world.  These images require special equipment and it takes much longer for me to process one image - it also requires very precise weather conditions for the best image. Please enjoy these works a much as I do to create them.",
+            "name": "Dreamstates",
+            "shortDescription": null,
+            "isVerified": false,
+            "owner": {
+              "address": "0x70d6eb2b3b9a2a7d6d67c3f24c246bffc05b48ca",
+              "config": null,
+              "isCompromised": false,
+              "user": {
+                "publicUsername": "Noealzii",
+                "id": "VXNlclR5cGU6MTk0MDg3"
+              },
+              "displayName": "Noealzii",
+              "imageUrl": "https://lh3.googleusercontent.com/JbvWs8J7RjXjq_ois27TEU9L_Z5L_24XZ20uaJJdY2NxIr-K1W9pe-GCU3FQBH6oGpfoOdpoNkPc2gMiUvdFdmwUxeMlKCUJO--k=s100",
+              "id": "QWNjb3VudFR5cGU6MjE3MjQ3MjE="
+            },
+            "stats": {
+              "totalSupply": 39.0,
+              "id": "Q29sbGVjdGlvblN0YXRzVHlwZToxMDc4NDM="
+            },
+            "defaultChain": { "identifier": "ETHEREUM" },
+            "relayId": "Q29sbGVjdGlvblR5cGU6MTA3ODQz",
+            "id": "Q29sbGVjdGlvblR5cGU6MTA3ODQz",
+            "__typename": "CollectionType"
+          },
+          "cursor": "YXJyYXljb25uZWN0aW9uOjg="
+        },
+        {
+          "node": {
+            "slug": "raskalov-collection",
+            "logo": "https://lh3.googleusercontent.com/a4-n0qj8uDmDUGktlTGyWdcNLwhGiuayiR6AMwTDzCDfhx9FTKMMbDhRkQ990JsfaBTqn0xR_bAdeGNFmbxw-9rdVaJMGom-rtrknQ=s120",
+            "banner": "https://lh3.googleusercontent.com/ufS4T1QtOMgJmL1bJqGjoj7OxkK4afrVGRbzRFFlZldxYOnxNgx2M_otroIkfLg5JR8OERroy7oUUuzH_e-A0M95sMe_15nDbgrq=s300",
+            "description": "Collection of 1/1 photographs of famous and iconic climbs from the most challenging and unique places worldwide. Made by one of the founders \"On The Roofs\" urban exploration community Vitaliy Raskalov.",
+            "name": "On The Roofs | Raskalov",
+            "shortDescription": null,
+            "isVerified": false,
+            "owner": {
+              "address": "0xb65b7e25b26946d9486f4fede1a28a196c6fc9d6",
+              "config": "VERIFIED",
+              "isCompromised": false,
+              "user": {
+                "publicUsername": "Raskalov",
+                "id": "VXNlclR5cGU6MTcwNDExOA=="
+              },
+              "displayName": "Raskalov",
+              "imageUrl": "https://lh3.googleusercontent.com/owBH31x4Hq1dxYN_45PabBVjxjAhfHCFHEu4sGanRYBTTREZNmLJxQ9cmaGJXYBKue6OjouCCL3hSuqkMP1CoEgqDWqPhHvqxmAd=s100",
+              "id": "QWNjb3VudFR5cGU6Njk3NTU5Njc="
+            },
+            "stats": {
+              "totalSupply": 92.0,
+              "id": "Q29sbGVjdGlvblN0YXRzVHlwZToxMDkzNzY5"
+            },
+            "defaultChain": { "identifier": "ETHEREUM" },
+            "relayId": "Q29sbGVjdGlvblR5cGU6MTA5Mzc2OQ==",
+            "id": "Q29sbGVjdGlvblR5cGU6MTA5Mzc2OQ==",
+            "__typename": "CollectionType"
+          },
+          "cursor": "YXJyYXljb25uZWN0aW9uOjk="
+        },
+        {
+          "node": {
+            "slug": "uwpo",
+            "logo": "https://lh3.googleusercontent.com/ErD4Hw7ejqMlv8SG6e6Sbi6WTYPet0lVNmzhKT6XpptNT9ChrKNfoIY7U8bLO0TRIFdYVBX5gKzpV_ZPQa7c74E7tWM_JsEdY_GVsg=s120",
+            "banner": "https://lh3.googleusercontent.com/b2zYHagYU_v9FSE6n-E22zL7I-J-Z9GEt0Y8XWUUbXXBTiGDYM4nZgPrNUbXf8P9-iCHzFF8d1sL7evsxdLQb-IxU0dnk-dlMhb_=s300",
+            "description": "We are the women of Ukraine. \n\nWe call on the world to unite against the evil that brings death and pain to the world, where freedom and human life were the highest value.\n\nSupport our \ud83d\udc9b\ud83d\udc99 initiative if you dream about the world full of love, devoid of hatred and evil. \n\n\nThese photographic collection made by Ukrainian women to help ukrainian people to resist russian agression and its consequences.\n\nAll funds raised will be transferred to the needs of ukrainian people that stand for peace in the whole world!\n\nSLAVA UKRAINE!",
+            "name": "Ukrainian Women Photographers Organization",
+            "shortDescription": null,
+            "isVerified": false,
+            "owner": {
+              "address": "0xb1d1b19b1450323d08bafa49673cd2b14bf033fc",
+              "config": null,
+              "isCompromised": false,
+              "user": {
+                "publicUsername": "YanaHryhorenko",
+                "id": "VXNlclR5cGU6NzkyNzY1NA=="
+              },
+              "displayName": "YanaHryhorenko",
+              "imageUrl": "https://lh3.googleusercontent.com/ErD4Hw7ejqMlv8SG6e6Sbi6WTYPet0lVNmzhKT6XpptNT9ChrKNfoIY7U8bLO0TRIFdYVBX5gKzpV_ZPQa7c74E7tWM_JsEdY_GVsg=s100",
+              "id": "QWNjb3VudFR5cGU6MTI0NTQyMDUw"
+            },
+            "stats": {
+              "totalSupply": 130.0,
+              "id": "Q29sbGVjdGlvblN0YXRzVHlwZTo4MDE5Nzcw"
+            },
+            "defaultChain": { "identifier": "ETHEREUM" },
+            "relayId": "Q29sbGVjdGlvblR5cGU6ODAxOTc3MA==",
+            "id": "Q29sbGVjdGlvblR5cGU6ODAxOTc3MA==",
+            "__typename": "CollectionType"
+          },
+          "cursor": "YXJyYXljb25uZWN0aW9uOjEw"
+        },
+        {
+          "node": {
+            "slug": "where-my-vans-go",
+            "logo": "https://lh3.googleusercontent.com/6Lns23JCdztJByuFkimKNCfNhMvnAJjs3K4f8eEYhoFsvOK5Nt6ryUuH6RiYhHsEU05TA_YokXtvYStn5i9Gx9CQmNLu22rjG09TZ9o=s120",
+            "banner": "https://lh3.googleusercontent.com/pNfoE4zsUemqxvdFATy2-Dx2nycLrT5mOYq8jWtnHhWsU0d5wDE02nwrOZVZPc_H2ZSFhuQYXMbtMYDtjEphRVyNboJ4ptG6nrmfUP4=s300",
+            "description": "Where My Vans Go is a collection comprised of 119 iconic images created over the span of three years exploring all over the United States.  From coast to coast, between borders and beyond, this series represents the journey that has forged the person and artist that I am today. By following my vans on this vast journey through time, I hope you will feel every step and heartbeat, I hope you will rise above fears with me.  If this journey has taught me anything it is that everything is about our struggle and process, if you never climb, you never see the view.  This is the climb.  In snow and fog, sunshine and rain, from the tops of skyscrapers and bridges and through incarceration, here I learned to do whatever it takes.  These are the shoes that made me. Welcome.",
+            "name": "Where My Vans Go",
+            "shortDescription": null,
+            "isVerified": true,
+            "owner": {
+              "address": "0x9dbe56e65961146525d796bdc008225bd5915a4f",
+              "config": null,
+              "isCompromised": false,
+              "user": {
+                "publicUsername": "Driftershoots",
+                "id": "VXNlclR5cGU6MTEzNDAwNA=="
+              },
+              "displayName": "Driftershoots",
+              "imageUrl": "https://lh3.googleusercontent.com/v7gNfAIOT841X9MyQ4J9lEi1jNdHLJMb0Uk14QWWn2ZU95RzmJL1sqYfYODOZMV40Wa24V-rE5fwvdcoOLd-x09PbiaKk9BltE5yIJw=s100",
+              "id": "QWNjb3VudFR5cGU6MzQ3MjUxNDc="
+            },
+            "stats": {
+              "totalSupply": 176.0,
+              "id": "Q29sbGVjdGlvblN0YXRzVHlwZTo4ODU5NzM="
+            },
+            "defaultChain": { "identifier": "ETHEREUM" },
+            "relayId": "Q29sbGVjdGlvblR5cGU6ODg1OTcz",
+            "id": "Q29sbGVjdGlvblR5cGU6ODg1OTcz",
+            "__typename": "CollectionType"
+          },
+          "cursor": "YXJyYXljb25uZWN0aW9uOjEx"
+        }
+      ],
+      "pageInfo": {
+        "endCursor": "YXJyYXljb25uZWN0aW9uOjEx",
+        "hasNextPage": true
+      }
+    }
+  }
+}

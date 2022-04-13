@@ -1,0 +1,396 @@
+{
+  "data": {
+    "trendingCollections": {
+      "edges": [
+        {
+          "node": {
+            "slug": "89-seconds-atomized-v5",
+            "logo": "https://lh3.googleusercontent.com/_mkWRKlSIRb6zhZVCggXxT-hCmwmUOMWrkpVOIGG3eD8Z6mDr2TAxsa09v-qjDiMNABPtfXHzDzWYhe0eScwn7FQ=s60",
+            "banner": "https://lh3.googleusercontent.com/_mkWRKlSIRb6zhZVCggXxT-hCmwmUOMWrkpVOIGG3eD8Z6mDr2TAxsa09v-qjDiMNABPtfXHzDzWYhe0eScwn7FQ=s60",
+            "description": "89 seconds Atomized shatters the final artist's proof of Eve Sussman's acclaimed video 89 seconds at Alcaz\u00e1r into 2,304 unique blocks, to create a new artwork on the blockchain. An experiment in ownership and collective interaction, the piece can be reassembled and screened at will by the community of collectors.",
+            "name": "89 Seconds Atomized",
+            "shortDescription": null,
+            "isVerified": false,
+            "owner": {
+              "address": "0xc5a3d99e05c39a18d6342b5f27c08c64a486df00",
+              "config": null,
+              "isCompromised": false,
+              "user": {
+                "publicUsername": "SnarkArt",
+                "id": "VXNlclR5cGU6MzkxMw=="
+              },
+              "displayName": "SnarkArt",
+              "imageUrl": "https://storage.googleapis.com/opensea-static/opensea-profile/8.png",
+              "id": "QWNjb3VudFR5cGU6MTc5MDY3"
+            },
+            "stats": {
+              "totalSupply": 2304.0,
+              "id": "Q29sbGVjdGlvblN0YXRzVHlwZTozNjQ1"
+            },
+            "defaultChain": { "identifier": "ETHEREUM" },
+            "relayId": "Q29sbGVjdGlvblR5cGU6MzY0NQ==",
+            "id": "Q29sbGVjdGlvblR5cGU6MzY0NQ==",
+            "__typename": "CollectionType"
+          },
+          "cursor": "YXJyYXljb25uZWN0aW9uOjA="
+        },
+        {
+          "node": {
+            "slug": "archetype-by-kjetil-golid",
+            "logo": "https://lh3.googleusercontent.com/lkRT5zSN8yjYwgv0G0TLoCosJq59Xn29upEo7hDLFENZYsUOFA8cCvnMmBNqr_MH9p7aQz0eKmL84_RZ5hBf1gva55_1W_hu_K6sCg",
+            "banner": "https://lh3.googleusercontent.com/lkRT5zSN8yjYwgv0G0TLoCosJq59Xn29upEo7hDLFENZYsUOFA8cCvnMmBNqr_MH9p7aQz0eKmL84_RZ5hBf1gva55_1W_hu_K6sCg",
+            "description": "Archetype by Kjetil Golid - Art Blocks Curated",
+            "name": "Archetype by Kjetil Golid",
+            "shortDescription": null,
+            "isVerified": true,
+            "owner": {
+              "address": "0x96dc73c8b5969608c77375f085949744b5177660",
+              "config": "VERIFIED",
+              "isCompromised": false,
+              "user": {
+                "publicUsername": "ArtBlocks_Admin",
+                "id": "VXNlclR5cGU6MTA5NDg1"
+              },
+              "displayName": "ArtBlocks_Admin",
+              "imageUrl": "https://lh3.googleusercontent.com/GwnosrkaneKGEkWySxvTSzZ5bEUjWkRuQzLSNfrpgy2-gxYjoR3m5PohLT9Fzy0p1tohajZ1g-LFfF_ZLnS1GqlPNHPUaKUbDhbf=s120",
+              "id": "QWNjb3VudFR5cGU6MTQ4MDc0MTU="
+            },
+            "stats": {
+              "totalSupply": 600.0,
+              "id": "Q29sbGVjdGlvblN0YXRzVHlwZToyMjAxODYx"
+            },
+            "defaultChain": { "identifier": "ETHEREUM" },
+            "relayId": "Q29sbGVjdGlvblR5cGU6MjIwMTg2MQ==",
+            "id": "Q29sbGVjdGlvblR5cGU6MjIwMTg2MQ==",
+            "__typename": "CollectionType"
+          },
+          "cursor": "YXJyYXljb25uZWN0aW9uOjE="
+        },
+        {
+          "node": {
+            "slug": "pepelangelo",
+            "logo": "https://lh3.googleusercontent.com/BGYf2VO1IfUAOrfEPNezkLjge7sg1ElSvqkwSHdrLN40BnmNGWeGSfuNWewHfUYVRbZ11XEF2VpdD1nCtDrDixMvsKQeZ6l5z4ZPow=s120",
+            "banner": "https://lh3.googleusercontent.com/PRO2Rv7hwRJ4EHJlijVbRLyVJOU_tVoDWt-rudgj2nbL_NoGlhaJSrstiW20EYOXnhEO1OW8sbIA_sRzT6uD0HfDWGPBtXC26QMrZhs=s300",
+            "description": "First tokenized real Pepelangelo paintings",
+            "name": "Pepelangelo Oil to NFT",
+            "shortDescription": null,
+            "isVerified": false,
+            "owner": {
+              "address": "0x64951c5e4ed6ab0ed319720fa3a6cc32949cc649",
+              "config": null,
+              "isCompromised": false,
+              "user": {
+                "publicUsername": "Pepelangelo",
+                "id": "VXNlclR5cGU6MTU3NTk4"
+              },
+              "displayName": "Pepelangelo",
+              "imageUrl": "https://lh3.googleusercontent.com/7VT8joWNl93XTrOIEu5J8tKEVBLwSGQB5wmhH2UDuWCcGexyl7EobqFtHQTgIaudbQMMmd90y-PXyVOD5f66-u3i4JKPJVrxcc_9QTE=s100",
+              "id": "QWNjb3VudFR5cGU6MjA2MTQ0MjQ="
+            },
+            "stats": {
+              "totalSupply": 75.0,
+              "id": "Q29sbGVjdGlvblN0YXRzVHlwZTozMDAwOA=="
+            },
+            "defaultChain": { "identifier": "ETHEREUM" },
+            "relayId": "Q29sbGVjdGlvblR5cGU6MzAwMDg=",
+            "id": "Q29sbGVjdGlvblR5cGU6MzAwMDg=",
+            "__typename": "CollectionType"
+          },
+          "cursor": "YXJyYXljb25uZWN0aW9uOjI="
+        },
+        {
+          "node": {
+            "slug": "unigrids-by-zeblocks",
+            "logo": "https://lh3.googleusercontent.com/kYyUYFE3kMlvcEx6tFMNdmY6xNZ4XqjrR7inpnwX5JHFdNBFrF_E5XQRceFqBnDR8nduOwrk2OsmfWrNRjW2y6ZWdkEcKOF7rHX8jA",
+            "banner": "https://lh3.googleusercontent.com/kYyUYFE3kMlvcEx6tFMNdmY6xNZ4XqjrR7inpnwX5JHFdNBFrF_E5XQRceFqBnDR8nduOwrk2OsmfWrNRjW2y6ZWdkEcKOF7rHX8jA",
+            "description": "Unigrids by Zeblocks - Art Blocks Curated",
+            "name": "Unigrids by Zeblocks",
+            "shortDescription": null,
+            "isVerified": true,
+            "owner": {
+              "address": "0x96dc73c8b5969608c77375f085949744b5177660",
+              "config": "VERIFIED",
+              "isCompromised": false,
+              "user": {
+                "publicUsername": "ArtBlocks_Admin",
+                "id": "VXNlclR5cGU6MTA5NDg1"
+              },
+              "displayName": "ArtBlocks_Admin",
+              "imageUrl": "https://lh3.googleusercontent.com/GwnosrkaneKGEkWySxvTSzZ5bEUjWkRuQzLSNfrpgy2-gxYjoR3m5PohLT9Fzy0p1tohajZ1g-LFfF_ZLnS1GqlPNHPUaKUbDhbf=s120",
+              "id": "QWNjb3VudFR5cGU6MTQ4MDc0MTU="
+            },
+            "stats": {
+              "totalSupply": 421.0,
+              "id": "Q29sbGVjdGlvblN0YXRzVHlwZToyMTk5NTg0"
+            },
+            "defaultChain": { "identifier": "ETHEREUM" },
+            "relayId": "Q29sbGVjdGlvblR5cGU6MjE5OTU4NA==",
+            "id": "Q29sbGVjdGlvblR5cGU6MjE5OTU4NA==",
+            "__typename": "CollectionType"
+          },
+          "cursor": "YXJyYXljb25uZWN0aW9uOjM="
+        },
+        {
+          "node": {
+            "slug": "strata-by-vebjorn-isaksen",
+            "logo": "https://lh3.googleusercontent.com/4a94ezA2XCeEX6I8zthPtPiFWy2Mdm3m3mXbTUUuxo7xuYFydpiHzyEAqX3yR2VHS-cvHn4yf0xPTHccAKGtgXSMst9LO3IqbCrHRgY",
+            "banner": "https://lh3.googleusercontent.com/4a94ezA2XCeEX6I8zthPtPiFWy2Mdm3m3mXbTUUuxo7xuYFydpiHzyEAqX3yR2VHS-cvHn4yf0xPTHccAKGtgXSMst9LO3IqbCrHRgY",
+            "description": "Strata by Vebj\u00f8rn Isaksen - Art Blocks Factory",
+            "name": "Strata by Vebj\u00f8rn Isaksen",
+            "shortDescription": null,
+            "isVerified": true,
+            "owner": {
+              "address": "0x96dc73c8b5969608c77375f085949744b5177660",
+              "config": "VERIFIED",
+              "isCompromised": false,
+              "user": {
+                "publicUsername": "ArtBlocks_Admin",
+                "id": "VXNlclR5cGU6MTA5NDg1"
+              },
+              "displayName": "ArtBlocks_Admin",
+              "imageUrl": "https://lh3.googleusercontent.com/GwnosrkaneKGEkWySxvTSzZ5bEUjWkRuQzLSNfrpgy2-gxYjoR3m5PohLT9Fzy0p1tohajZ1g-LFfF_ZLnS1GqlPNHPUaKUbDhbf=s120",
+              "id": "QWNjb3VudFR5cGU6MTQ4MDc0MTU="
+            },
+            "stats": {
+              "totalSupply": 650.0,
+              "id": "Q29sbGVjdGlvblN0YXRzVHlwZTo4MTM4MDUw"
+            },
+            "defaultChain": { "identifier": "ETHEREUM" },
+            "relayId": "Q29sbGVjdGlvblR5cGU6ODEzODA1MA==",
+            "id": "Q29sbGVjdGlvblR5cGU6ODEzODA1MA==",
+            "__typename": "CollectionType"
+          },
+          "cursor": "YXJyYXljb25uZWN0aW9uOjQ="
+        },
+        {
+          "node": {
+            "slug": "gary-cartlidge",
+            "logo": "https://lh3.googleusercontent.com/kc1t_EFyP26y4wVEQ287bz_GacITB8w8FdnRVd8eJ7fjJcUX4kC0vj5O7U1M0QyZ0s0HEdC7VDStKWzQSbdG5NwXVw=s120",
+            "banner": "https://lh3.googleusercontent.com/kc1t_EFyP26y4wVEQ287bz_GacITB8w8FdnRVd8eJ7fjJcUX4kC0vj5O7U1M0QyZ0s0HEdC7VDStKWzQSbdG5NwXVw=s120",
+            "description": "Abstract, expressionism, mix media, oil, vector, conspiracy, truth, love.",
+            "name": "Gary Cartlidge",
+            "shortDescription": null,
+            "isVerified": true,
+            "owner": {
+              "address": "0xa12db9f88f096f527fbe87a752c6ec16d501a25f",
+              "config": null,
+              "isCompromised": false,
+              "user": {
+                "publicUsername": "GaryCartlidge",
+                "id": "VXNlclR5cGU6MTc0NDg="
+              },
+              "displayName": "GaryCartlidge",
+              "imageUrl": "https://lh3.googleusercontent.com/pU8S1CJjo5Yd_fpQ4TMC7cfRkJeSUGWU4Pr6VtMd2oV4l7r-x7sSMadO4ZASqRyljONEnYyrQzhutGXLIISaJ9WDivC8S0ykt9aa=s100",
+              "id": "QWNjb3VudFR5cGU6NjM5NzEz"
+            },
+            "stats": {
+              "totalSupply": 128.0,
+              "id": "Q29sbGVjdGlvblN0YXRzVHlwZTo4NTgw"
+            },
+            "defaultChain": { "identifier": "ETHEREUM" },
+            "relayId": "Q29sbGVjdGlvblR5cGU6ODU4MA==",
+            "id": "Q29sbGVjdGlvblR5cGU6ODU4MA==",
+            "__typename": "CollectionType"
+          },
+          "cursor": "YXJyYXljb25uZWN0aW9uOjU="
+        },
+        {
+          "node": {
+            "slug": "gizmobotz-by-mark-cotton",
+            "logo": "https://lh3.googleusercontent.com/J_knOWBA886M3zaAZb0a7ADgt9pF2isU1Zm1gMhl1nGq3HERfod9A0rEmydJKOWz2TfuTn8wDFFGM7e_UJdtMNvEwuate0jGdS1eiG8",
+            "banner": "https://lh3.googleusercontent.com/J_knOWBA886M3zaAZb0a7ADgt9pF2isU1Zm1gMhl1nGq3HERfod9A0rEmydJKOWz2TfuTn8wDFFGM7e_UJdtMNvEwuate0jGdS1eiG8",
+            "description": "Gizmobotz by Mark Cotton - Art Blocks Factory",
+            "name": "Gizmobotz by Mark Cotton",
+            "shortDescription": null,
+            "isVerified": true,
+            "owner": {
+              "address": "0x96dc73c8b5969608c77375f085949744b5177660",
+              "config": "VERIFIED",
+              "isCompromised": false,
+              "user": {
+                "publicUsername": "ArtBlocks_Admin",
+                "id": "VXNlclR5cGU6MTA5NDg1"
+              },
+              "displayName": "ArtBlocks_Admin",
+              "imageUrl": "https://lh3.googleusercontent.com/GwnosrkaneKGEkWySxvTSzZ5bEUjWkRuQzLSNfrpgy2-gxYjoR3m5PohLT9Fzy0p1tohajZ1g-LFfF_ZLnS1GqlPNHPUaKUbDhbf=s120",
+              "id": "QWNjb3VudFR5cGU6MTQ4MDc0MTU="
+            },
+            "stats": {
+              "totalSupply": 1000.0,
+              "id": "Q29sbGVjdGlvblN0YXRzVHlwZTozNTE5ODI4"
+            },
+            "defaultChain": { "identifier": "ETHEREUM" },
+            "relayId": "Q29sbGVjdGlvblR5cGU6MzUxOTgyOA==",
+            "id": "Q29sbGVjdGlvblR5cGU6MzUxOTgyOA==",
+            "__typename": "CollectionType"
+          },
+          "cursor": "YXJyYXljb25uZWN0aW9uOjY="
+        },
+        {
+          "node": {
+            "slug": "sealenza",
+            "logo": "https://lh3.googleusercontent.com/Zjnf4e0XJdTW7_X7LZbrb3MYrikiQhqnRHMYWGenlaF6KWg3ogsYD0KNLOcolSKrEwBAieGu6Wo5IL9ycHoIMapquh7gprS7svgfAw=s120",
+            "banner": "https://lh3.googleusercontent.com/4I8_DmEnl3CVTCFlNnsiAYh2v7L46wCFgUcQD8hLiAtSjZtnrLrsgKcaZBPLUt_8N0BAFrwoPu8GF8xyb-p-b7o48XxgBNUKfI0m=s300",
+            "description": "Sealenza is an inspired by Fidenza, Wavelength and Surge derivative generative arf collection of Sappy Seals made by hrunz. \nNot affiliated with any of the mentioned projects and can be seen as an independent gen. art collection.\n\nBanners collection: https://opensea.io/collection/sealenza-banners",
+            "name": "Sealenza by hrunz",
+            "shortDescription": null,
+            "isVerified": false,
+            "owner": {
+              "address": "0xd45125bd92fa856f54498bb14b6f4addaad0c9c0",
+              "config": null,
+              "isCompromised": false,
+              "user": {
+                "publicUsername": "hrunz",
+                "id": "VXNlclR5cGU6MTAwNzkzMw=="
+              },
+              "displayName": "hrunz",
+              "imageUrl": "https://lh3.googleusercontent.com/4mZLmMsl_dVV9ACP-krCSTfPLKd-W9JlxlLB-zBKTGBxbTpVdd1h14xWBpmEbfO4KM0OKprjH8bU8WS_T2YB7pr5kV559tH8htecNuE=s100",
+              "id": "QWNjb3VudFR5cGU6MzE5ODYzNjE="
+            },
+            "stats": {
+              "totalSupply": 1500.0,
+              "id": "Q29sbGVjdGlvblN0YXRzVHlwZTo2OTc3MjY1"
+            },
+            "defaultChain": { "identifier": "ETHEREUM" },
+            "relayId": "Q29sbGVjdGlvblR5cGU6Njk3NzI2NQ==",
+            "id": "Q29sbGVjdGlvblR5cGU6Njk3NzI2NQ==",
+            "__typename": "CollectionType"
+          },
+          "cursor": "YXJyYXljb25uZWN0aW9uOjc="
+        },
+        {
+          "node": {
+            "slug": "animkhitaryan",
+            "logo": "https://lh3.googleusercontent.com/yGgezGRBcMBMcp54jdhks50E-etSHqdmtMk9kPLMp00J590jnsOYn847IyGxprTRhN2fOVoHH9xGcTMHH8y07GfdgXVW1ImnnmhykA=s120",
+            "banner": "https://lh3.googleusercontent.com/yGgezGRBcMBMcp54jdhks50E-etSHqdmtMk9kPLMp00J590jnsOYn847IyGxprTRhN2fOVoHH9xGcTMHH8y07GfdgXVW1ImnnmhykA=s300",
+            "description": "Armenian-American human, artist, and nurse inspired by the Universe.",
+            "name": "Ani Mkhitaryan",
+            "shortDescription": null,
+            "isVerified": false,
+            "owner": {
+              "address": "0x9b3011d6db7512f5c379d83f73a3962a950385da",
+              "config": "VERIFIED",
+              "isCompromised": false,
+              "user": {
+                "publicUsername": "animkhitaryan",
+                "id": "VXNlclR5cGU6MjgwODgw"
+              },
+              "displayName": "animkhitaryan",
+              "imageUrl": "https://lh3.googleusercontent.com/XuDfRQtqu8q9sOIW2VkGokR_CEFDxybbmrNG31R8dAEboi4Co5qdn-JUwmtG0S7JYhCnj4wK5rSbi-J6giG8zTXBvE_u8I0ymhRPgA=s100",
+              "id": "QWNjb3VudFR5cGU6MjMzMzc0MDk="
+            },
+            "stats": {
+              "totalSupply": 51.0,
+              "id": "Q29sbGVjdGlvblN0YXRzVHlwZToxNzUxMzAz"
+            },
+            "defaultChain": { "identifier": "ETHEREUM" },
+            "relayId": "Q29sbGVjdGlvblR5cGU6MTc1MTMwMw==",
+            "id": "Q29sbGVjdGlvblR5cGU6MTc1MTMwMw==",
+            "__typename": "CollectionType"
+          },
+          "cursor": "YXJyYXljb25uZWN0aW9uOjg="
+        },
+        {
+          "node": {
+            "slug": "gener8tive-k-compositions",
+            "logo": "https://lh3.googleusercontent.com/8TGNcPD_ETxPnjefHcWY--uGSPNwaQ0CeaZm4gWgTamhSenv0Fqct8QonzMHBy52y-ilj5Sa9HLzTH2bbDLse0h0=s60",
+            "banner": "https://lh3.googleusercontent.com/57Pk8_n6bRfpwoJhOW86xaA4Oyw8jQdDg5FnAHuNboPWUZcKWdoTbzjC4cvaTpkTsjBGvy8on872iR9xzU2TF9w1F9UzfPQ-AFvfSA=s300",
+            "description": "Minimalistic, unique art Compositions generated from on-chain algorithms. The 3rd ever full generative NFT project from April 2019.\n\nOther gener8tive collections: https://opensea.io/collection/gener8tive-tones, https://opensea.io/collection/gener8tive-mutations, https://opensea.io/collection/gener8tive-one-offs",
+            "name": "Gener8tive K-Compositions",
+            "shortDescription": null,
+            "isVerified": true,
+            "owner": {
+              "address": "0xe8d9ad4bfcd008cd7c2cad26c0f13b2bfcf5d588",
+              "config": null,
+              "isCompromised": false,
+              "user": {
+                "publicUsername": "aphexyuri",
+                "id": "VXNlclR5cGU6ODQ4Nw=="
+              },
+              "displayName": "aphexyuri",
+              "imageUrl": "https://lh3.googleusercontent.com/3mYZK4FwM7mY-zjxgRoA4nAbSxBYa02sxgINKBFI7V62ftJULMCO2-JvTYA4_3IGfC2rAhzESkE9Goc2BDzszBT4XDdKKWJhVw5Wgzg=s100",
+              "id": "QWNjb3VudFR5cGU6NjM4MzA="
+            },
+            "stats": {
+              "totalSupply": 250.0,
+              "id": "Q29sbGVjdGlvblN0YXRzVHlwZToyNDU0"
+            },
+            "defaultChain": { "identifier": "ETHEREUM" },
+            "relayId": "Q29sbGVjdGlvblR5cGU6MjQ1NA==",
+            "id": "Q29sbGVjdGlvblR5cGU6MjQ1NA==",
+            "__typename": "CollectionType"
+          },
+          "cursor": "YXJyYXljb25uZWN0aW9uOjk="
+        },
+        {
+          "node": {
+            "slug": "meridian-by-matt-deslauriers",
+            "logo": "https://lh3.googleusercontent.com/o5Tt1FbaINxqvS47-r3weuCEaTKGbc5yZJS0yXtDyBDwVeyYVWr7angBivb3iGXKc_1Q-a-DBwxu_VMynRnPbJHVnkt4u1pbBTDz",
+            "banner": "https://lh3.googleusercontent.com/o5Tt1FbaINxqvS47-r3weuCEaTKGbc5yZJS0yXtDyBDwVeyYVWr7angBivb3iGXKc_1Q-a-DBwxu_VMynRnPbJHVnkt4u1pbBTDz",
+            "description": "Meridian by Matt DesLauriers - Art Blocks Playground",
+            "name": "Meridian by Matt DesLauriers",
+            "shortDescription": null,
+            "isVerified": true,
+            "owner": {
+              "address": "0x96dc73c8b5969608c77375f085949744b5177660",
+              "config": "VERIFIED",
+              "isCompromised": false,
+              "user": {
+                "publicUsername": "ArtBlocks_Admin",
+                "id": "VXNlclR5cGU6MTA5NDg1"
+              },
+              "displayName": "ArtBlocks_Admin",
+              "imageUrl": "https://lh3.googleusercontent.com/GwnosrkaneKGEkWySxvTSzZ5bEUjWkRuQzLSNfrpgy2-gxYjoR3m5PohLT9Fzy0p1tohajZ1g-LFfF_ZLnS1GqlPNHPUaKUbDhbf=s120",
+              "id": "QWNjb3VudFR5cGU6MTQ4MDc0MTU="
+            },
+            "stats": {
+              "totalSupply": 1000.0,
+              "id": "Q29sbGVjdGlvblN0YXRzVHlwZToyMTgyMDA1"
+            },
+            "defaultChain": { "identifier": "ETHEREUM" },
+            "relayId": "Q29sbGVjdGlvblR5cGU6MjE4MjAwNQ==",
+            "id": "Q29sbGVjdGlvblR5cGU6MjE4MjAwNQ==",
+            "__typename": "CollectionType"
+          },
+          "cursor": "YXJyYXljb25uZWN0aW9uOjEw"
+        },
+        {
+          "node": {
+            "slug": "sail-o-bots-by-sturec",
+            "logo": "https://lh3.googleusercontent.com/pNMM6sE5xvRRFqkWUnmXyHmHkM7bZCfV8im2zGSetX6SbdwpHdfYyXz6jchoZ9otzsaKwaKNyaq8OA9Y-cbI6X5E_A2B7dKrFTkx2g",
+            "banner": "https://lh3.googleusercontent.com/pNMM6sE5xvRRFqkWUnmXyHmHkM7bZCfV8im2zGSetX6SbdwpHdfYyXz6jchoZ9otzsaKwaKNyaq8OA9Y-cbI6X5E_A2B7dKrFTkx2g",
+            "description": "sail-o-bots by sturec - Art Blocks Factory",
+            "name": "sail-o-bots by sturec",
+            "shortDescription": null,
+            "isVerified": true,
+            "owner": {
+              "address": "0x96dc73c8b5969608c77375f085949744b5177660",
+              "config": "VERIFIED",
+              "isCompromised": false,
+              "user": {
+                "publicUsername": "ArtBlocks_Admin",
+                "id": "VXNlclR5cGU6MTA5NDg1"
+              },
+              "displayName": "ArtBlocks_Admin",
+              "imageUrl": "https://lh3.googleusercontent.com/GwnosrkaneKGEkWySxvTSzZ5bEUjWkRuQzLSNfrpgy2-gxYjoR3m5PohLT9Fzy0p1tohajZ1g-LFfF_ZLnS1GqlPNHPUaKUbDhbf=s120",
+              "id": "QWNjb3VudFR5cGU6MTQ4MDc0MTU="
+            },
+            "stats": {
+              "totalSupply": 750.0,
+              "id": "Q29sbGVjdGlvblN0YXRzVHlwZTo1NDk0MDMz"
+            },
+            "defaultChain": { "identifier": "ETHEREUM" },
+            "relayId": "Q29sbGVjdGlvblR5cGU6NTQ5NDAzMw==",
+            "id": "Q29sbGVjdGlvblR5cGU6NTQ5NDAzMw==",
+            "__typename": "CollectionType"
+          },
+          "cursor": "YXJyYXljb25uZWN0aW9uOjEx"
+        }
+      ],
+      "pageInfo": {
+        "endCursor": "YXJyYXljb25uZWN0aW9uOjEx",
+        "hasNextPage": true
+      }
+    }
+  }
+}

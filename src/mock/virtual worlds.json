@@ -1,0 +1,373 @@
+{
+  "data": {
+    "trendingCollections": {
+      "edges": [
+        {
+          "node": {
+            "slug": "etherland",
+            "logo": "https://lh3.googleusercontent.com/Kks-yH_QxxLuEkJQEINEo0RvWcOscpt_dY3zrcP94SAbhgQ7JdfUvAAHEhuNG3tfp_0BObcZ76PU6vlVnMfgLw98lgyCFikKmZluov0=s120",
+            "banner": "https://lh3.googleusercontent.com/DuYSQnZ9nQeCIfQuwfkhun-ahH_3D0KgSKnezmb58KDSAA2H4aJjBPtw8Nq0FeYc54m3Xr1YjaZcuTdMNWYBVuAcxHVWpe15SC-xRQ=s300",
+            "description": "Using the IPFS technology, Etherland is connecting physical real estate and world places' data with a digital layer built on the Ethereum Blockchain. This virtual layer, or Etherland's Earth Metaverse, is displaying unique identity tokens for every real estate and place on Earth in the form of Non-Fungible Tokens named \"Land ID\".\n\nEach NFT representing a real place, also grants owners the control over the information linked to their token and stored on the IPFS network. On this Metaverse, users can use cryptocurrencies to buy, register, claim, create, promote, verify and monetize their Land ID tokens. Anyone is free to contribute in building the Etherland's World Metaverse.",
+            "name": "Etherland",
+            "shortDescription": null,
+            "isVerified": true,
+            "owner": {
+              "address": "0x7640abeb029a856d3104df93f13536e20cb00d7c",
+              "config": null,
+              "isCompromised": false,
+              "user": {
+                "publicUsername": "Etherland",
+                "id": "VXNlclR5cGU6MTEyNjk3"
+              },
+              "displayName": "Etherland",
+              "imageUrl": "https://lh3.googleusercontent.com/Kks-yH_QxxLuEkJQEINEo0RvWcOscpt_dY3zrcP94SAbhgQ7JdfUvAAHEhuNG3tfp_0BObcZ76PU6vlVnMfgLw98lgyCFikKmZluov0=s100",
+              "id": "QWNjb3VudFR5cGU6MTUwNzM0NTE="
+            },
+            "stats": {
+              "totalSupply": 326.0,
+              "id": "Q29sbGVjdGlvblN0YXRzVHlwZToxMzgzNQ=="
+            },
+            "defaultChain": { "identifier": "ETHEREUM" },
+            "relayId": "Q29sbGVjdGlvblR5cGU6MTM4MzU=",
+            "id": "Q29sbGVjdGlvblR5cGU6MTM4MzU=",
+            "__typename": "CollectionType"
+          },
+          "cursor": "YXJyYXljb25uZWN0aW9uOjA="
+        },
+        {
+          "node": {
+            "slug": "isotile-genesis-avatars",
+            "logo": "https://lh3.googleusercontent.com/fJTLimPBjHwQZl8stQSSSFi8M-0sYUXBYhskx_XZeF-0iucA1csd5XtiJxdd6HrIVLzq7opV4qYEggGKyONGB8x0ExxOzWX7Mdn-3A=s120",
+            "banner": "https://lh3.googleusercontent.com/F11LGFOpobk1HzHLIaSeXyKajJDpYyM_ctH7XNYRlFUA85mB8A2lbT4rxRE9YmLC1G2UHvk1s2BiiujeMFYN_4RvUVkuG7-bsPQg4w=s300",
+            "description": "A collection of 9,000 isotile Genesis Avatars. First official collection of a metaverse. View them with your VR glasses or drag the mouse over the NFT to see it in different perspectives.",
+            "name": "isotile Genesis Avatars",
+            "shortDescription": null,
+            "isVerified": true,
+            "owner": {
+              "address": "0x0d65d69355944339cda43cf48b4c5f32b78ba416",
+              "config": null,
+              "isCompromised": false,
+              "user": { "publicUsername": null, "id": "VXNlclR5cGU6Njc4Mjcx" },
+              "displayName": null,
+              "imageUrl": "https://storage.googleapis.com/opensea-static/opensea-profile/22.png",
+              "id": "QWNjb3VudFR5cGU6MjY4OTEwNjg="
+            },
+            "stats": {
+              "totalSupply": 7587.0,
+              "id": "Q29sbGVjdGlvblN0YXRzVHlwZToxMDk2Mjc0"
+            },
+            "defaultChain": { "identifier": "ETHEREUM" },
+            "relayId": "Q29sbGVjdGlvblR5cGU6MTA5NjI3NA==",
+            "id": "Q29sbGVjdGlvblR5cGU6MTA5NjI3NA==",
+            "__typename": "CollectionType"
+          },
+          "cursor": "YXJyYXljb25uZWN0aW9uOjE="
+        },
+        {
+          "node": {
+            "slug": "dcl-names",
+            "logo": "https://lh3.googleusercontent.com/5KIxEGmnAiL5psnMCSLPlfSxDxfRSk4sTQRSyhPdgnu70nGb2YsuVxTmO2iKEkOZOfq476Bl1hAu6aJIKjs1myY=s60",
+            "banner": "https://lh3.googleusercontent.com/t2Nf6hhfDRGskrMJxBGtWkKOfYElohP488p09jcC4JdoBbGFSRrPiGQs3YtBBle91OyHQOLQ_lP3Ecy1sbuo24uplCukLC-Q8TkQWg=s300",
+            "description": "Decentraland is an Ethereum blockchain-powered virtual world, developed and owned by its users, who can create, experience, and monetize content and applications. Decentraland Names are tradable ERC721s, integrated fully with the Ethereum Name System. These unique human-readable names allow users to trade tokens between memorable addresses, e.g. \u2018jane.dcl.eth\u2019. In this OpenSea store, you can buy and sell Decentraland Names in MANA, DCL's native currency.",
+            "name": "Decentraland Names",
+            "shortDescription": null,
+            "isVerified": true,
+            "owner": {
+              "address": "0xe74ab71711981a31d3c38edfe702989f30be29b6",
+              "config": null,
+              "isCompromised": false,
+              "user": { "publicUsername": null, "id": "VXNlclR5cGU6NDM3Mjk=" },
+              "displayName": null,
+              "imageUrl": "https://storage.googleapis.com/opensea-static/opensea-profile/21.png",
+              "id": "QWNjb3VudFR5cGU6MjM0MTg0Mw=="
+            },
+            "stats": {
+              "totalSupply": 32811.0,
+              "id": "Q29sbGVjdGlvblN0YXRzVHlwZTo2NjE5"
+            },
+            "defaultChain": { "identifier": "ETHEREUM" },
+            "relayId": "Q29sbGVjdGlvblR5cGU6NjYxOQ==",
+            "id": "Q29sbGVjdGlvblR5cGU6NjYxOQ==",
+            "__typename": "CollectionType"
+          },
+          "cursor": "YXJyYXljb25uZWN0aW9uOjI="
+        },
+        {
+          "node": {
+            "slug": "ovr-land",
+            "logo": "https://lh3.googleusercontent.com/-N0SGWTdAUZFi1pcg0Uf3JLlv-fiPFsu3izTnPjIjSxLuYFDhkpV4kzY3HsbJQmskJdxG1HLJ-W4K5Km0ddWfx_w=s120",
+            "banner": "https://lh3.googleusercontent.com/-N0SGWTdAUZFi1pcg0Uf3JLlv-fiPFsu3izTnPjIjSxLuYFDhkpV4kzY3HsbJQmskJdxG1HLJ-W4K5Km0ddWfx_w=s120",
+            "description": "OVR created a digital layer over the physical world made of 300 sqm hexagons, the OVR Lands. There are over 1.6 trillions of those covering the planet, each one has specific coordinates and unique name. OVRLand is a tokenized Spatial Web Domain. Thanks to GPS and Computer Vision the OVR app will deliver you AR experiences contextualized to your geographic position. The OVR Land owners will have the power to decide which content will be shown on their geographic location.",
+            "name": "OVR Land",
+            "shortDescription": null,
+            "isVerified": false,
+            "owner": {
+              "address": "0x77a9d21bef6a21a045503df0d8d58678392bafa5",
+              "config": null,
+              "isCompromised": false,
+              "user": { "publicUsername": null, "id": "VXNlclR5cGU6MTEzNDE3" },
+              "displayName": null,
+              "imageUrl": "https://storage.googleapis.com/opensea-static/opensea-profile/15.png",
+              "id": "QWNjb3VudFR5cGU6MTQ5MjQ0NTQ="
+            },
+            "stats": {
+              "totalSupply": 3995.0,
+              "id": "Q29sbGVjdGlvblN0YXRzVHlwZToxMzc3Mg=="
+            },
+            "defaultChain": { "identifier": "ETHEREUM" },
+            "relayId": "Q29sbGVjdGlvblR5cGU6MTM3NzI=",
+            "id": "Q29sbGVjdGlvblR5cGU6MTM3NzI=",
+            "__typename": "CollectionType"
+          },
+          "cursor": "YXJyYXljb25uZWN0aW9uOjM="
+        },
+        {
+          "node": {
+            "slug": "influenceth-asteroids",
+            "logo": "https://lh3.googleusercontent.com/5742ExtD_kaqBxjWdwFudDd30s7hGUki5Lod2vFpBeBvKvT00BcZQbZvcxKnqH8jcC2yWJGN267eMdp3jsdccPqOXyV_G--pFfosBw=s120",
+            "banner": "https://lh3.googleusercontent.com/V3eMpPw5Z2JVPSKT19KBuBkZy8kpq4G3yP8-erxRJntr0akJPQLW_yEXY-7bNtPGEx4kbUL5eXMy7HJW9AXJ9pwLpZDH4W2iwBOTee8=s300",
+            "description": "Influence is a space strategy MMO, set in a realistic asteroid belt in the Adalia system, after an ill-fated journey aboard the Arvad, a generational ship fleeing from a dying Earth.",
+            "name": "Influence Asteroids",
+            "shortDescription": null,
+            "isVerified": true,
+            "owner": {
+              "address": "0xef0133437ab8da5c5e8873b61189610e2d8cb4f5",
+              "config": null,
+              "isCompromised": false,
+              "user": {
+                "publicUsername": "Influence",
+                "id": "VXNlclR5cGU6NTU2MDA5"
+              },
+              "displayName": "Influence",
+              "imageUrl": "https://lh3.googleusercontent.com/5742ExtD_kaqBxjWdwFudDd30s7hGUki5Lod2vFpBeBvKvT00BcZQbZvcxKnqH8jcC2yWJGN267eMdp3jsdccPqOXyV_G--pFfosBw=s100",
+              "id": "QWNjb3VudFR5cGU6Mjg4ODIxMDU="
+            },
+            "stats": {
+              "totalSupply": 11128.0,
+              "id": "Q29sbGVjdGlvblN0YXRzVHlwZTozNzI5NDI="
+            },
+            "defaultChain": { "identifier": "ETHEREUM" },
+            "relayId": "Q29sbGVjdGlvblR5cGU6MzcyOTQy",
+            "id": "Q29sbGVjdGlvblR5cGU6MzcyOTQy",
+            "__typename": "CollectionType"
+          },
+          "cursor": "YXJyYXljb25uZWN0aW9uOjQ="
+        },
+        {
+          "node": {
+            "slug": "decentraland-wearables",
+            "logo": "https://lh3.googleusercontent.com/5KIxEGmnAiL5psnMCSLPlfSxDxfRSk4sTQRSyhPdgnu70nGb2YsuVxTmO2iKEkOZOfq476Bl1hAu6aJIKjs1myY=s60",
+            "banner": "https://lh3.googleusercontent.com/2jmnuuF-fHgazzVXwiEQh0OsjGgEjVz4ECYP8GMmP0yommN4Xj1J242MoRWZGwiYCtRx_eb8fUa7aHuo4XsA2ZYcJTx0HwJBacMs=s300",
+            "description": "Decentraland is an Ethereum blockchain-powered virtual world, developed and owned by its users, who can create, experience, and monetize content and applications. Wearables are worn in game by avatars, and collecting and trading these unique NFTs is a great way for users to integrate themselves into the growing community. The digital assets are dropped in limited-edition collections, and will be available to purchase right here in this store.",
+            "name": "Decentraland Wearables",
+            "shortDescription": null,
+            "isVerified": true,
+            "owner": {
+              "address": "0x93a7c46443901c2ea2fc1263a4d076f470695d3a",
+              "config": null,
+              "isCompromised": false,
+              "user": {
+                "publicUsername": "0x93a7c46443901c2ea2fc1263a4d076f470695d3a",
+                "id": "VXNlclR5cGU6MTY0NDE="
+              },
+              "displayName": "0x93a7c46443901c2ea2fc1263a4d076f470695d3a",
+              "imageUrl": "https://storage.googleapis.com/opensea-static/opensea-profile/15.png",
+              "id": "QWNjb3VudFR5cGU6MTY4MjU5NQ=="
+            },
+            "stats": {
+              "totalSupply": 71298.0,
+              "id": "Q29sbGVjdGlvblN0YXRzVHlwZTo1Mzk3"
+            },
+            "defaultChain": { "identifier": "ETHEREUM" },
+            "relayId": "Q29sbGVjdGlvblR5cGU6NTM5Nw==",
+            "id": "Q29sbGVjdGlvblR5cGU6NTM5Nw==",
+            "__typename": "CollectionType"
+          },
+          "cursor": "YXJyYXljb25uZWN0aW9uOjU="
+        },
+        {
+          "node": {
+            "slug": "the-sandbox-assets",
+            "logo": "https://lh3.googleusercontent.com/SXH8tW1siikB80rwCRnjm1a5xM_MwTg9Xl9Db6mioIk9HIlDM09pVoSR7GKJgS6ulSUpgW9BDtMk_ePX_NKgO9A=s60",
+            "banner": "https://storage.googleapis.com/opensea-static/featured-images/sandbox-featured.png",
+            "description": "The Sandbox is a community-driven platform where creators can monetize voxel assets and gaming experiences on the blockchain. The Sandbox metaverse comprises a map made up of 166,464 LANDS.  LAND owners can host contests and events, stake SAND to earn and customize assets, monetize assets and experiences, vote in the metaverse governance, play games that you or others create, and more! Trade the collection and keep your eyes peeled for future drops.",
+            "name": "The Sandbox ASSETS",
+            "shortDescription": null,
+            "isVerified": true,
+            "owner": null,
+            "stats": {
+              "totalSupply": 2256.0,
+              "id": "Q29sbGVjdGlvblN0YXRzVHlwZToyNzAzMTg5"
+            },
+            "defaultChain": { "identifier": "ETHEREUM" },
+            "relayId": "Q29sbGVjdGlvblR5cGU6MjcwMzE4OQ==",
+            "id": "Q29sbGVjdGlvblR5cGU6MjcwMzE4OQ==",
+            "__typename": "CollectionType"
+          },
+          "cursor": "YXJyYXljb25uZWN0aW9uOjY="
+        },
+        {
+          "node": {
+            "slug": "treeverse-plots",
+            "logo": "https://lh3.googleusercontent.com/qwYkDJYhJQsMO-cyIVqjbHLlvevSlGC21RUq6McPXTHeJ1WTXUjCdP7aHTaSSS3hbyLW3QkVUadO2a7DpNVnrkyuTHG71WwwuKiEsg=s120",
+            "banner": "https://lh3.googleusercontent.com/JQ2xagOTuraxqfjWA7VozOS5IOUrLdCNWMs6msrtfDDa3ZyWRptVeaQCKy20G_Z9I9duFL1bRj1VPnDPNDVUd_01Tldt2YRt9OYi6A=s300",
+            "description": "- Treeverse Founders' Land : https://opensea.io/collection/treeverse\r\n- Treeverse NFTrees: https://opensea.io/collection/nftrees\r\n- Timeless Characters: https://opensea.io/collection/timelessnfts\r\n\r\n##Welcome to Treeverse\r\nTreeverse is an open-world, fantasy MMORPG with a MOBA-style combat system. Slay beasts, forge mighty weapons, lure the biggest fish, form guilds, defeat dungeons and explore the deep lore. The living world of Treeverse awaits those bold enough to conquer it.\r\n\r\n#What are Treeverse Founders' Land?\r\n10420, Utility-based NFTs that allow holders to place in the game world and has the following benefits\r\n- Public Homes\r\n- Better Customizability\r\n- Rent Them Out\r\n- Teleport Destination\r\n- Extra Storage Space\r\n\r\n- Follow us on Twitter : [Twitter](https://twitter.com/TheTreeverse)\r\n- Monthly Updates can be found at : [Substack](https://substack.com/profile/65278179-endless-clouds)\r\n- Join our Discord and meet our amazing Community: [Discord](https://discord.gg/treeverse)",
+            "name": "Treeverse Plots",
+            "shortDescription": null,
+            "isVerified": true,
+            "owner": {
+              "address": "0x229c487eaf50369e1ada49893a1ecddd4d513114",
+              "config": "VERIFIED",
+              "isCompromised": false,
+              "user": {
+                "publicUsername": "Treeverse_Wallet",
+                "id": "VXNlclR5cGU6MTEwNjUzNA=="
+              },
+              "displayName": "Treeverse_Wallet",
+              "imageUrl": "https://storage.googleapis.com/opensea-static/opensea-profile/14.png",
+              "id": "QWNjb3VudFR5cGU6NTkwNjE1ODA="
+            },
+            "stats": {
+              "totalSupply": 10420.0,
+              "id": "Q29sbGVjdGlvblN0YXRzVHlwZTo4NDgxOTI="
+            },
+            "defaultChain": { "identifier": "ETHEREUM" },
+            "relayId": "Q29sbGVjdGlvblR5cGU6ODQ4MTky",
+            "id": "Q29sbGVjdGlvblR5cGU6ODQ4MTky",
+            "__typename": "CollectionType"
+          },
+          "cursor": "YXJyYXljb25uZWN0aW9uOjc="
+        },
+        {
+          "node": {
+            "slug": "worldwidewebbland",
+            "logo": "https://lh3.googleusercontent.com/Tc7kJNU7hcpmCCykek6ANVhWervl1zhbNIlM_T3VSR1hsSCrOGG6IiNALSs8v-OgUVJvoKW6tVbJWjnJti_o0ihvUNlxFWfZV9V9=s120",
+            "banner": "https://lh3.googleusercontent.com/LAm4YHev1UxKMLenuEg_3vL_B_MUVbivUGPEEKNhozlIxU-5QyRAtoUskq7JmglZGiI0RS5o0lc_a9gK9frdogrjURWLQEoRNsyVrw=s300",
+            "description": "Worldwide Webb is an interoperable pixel art MMORPG metaverse game giving utility to popular NFT projects. The game uses NFTs for in-game [NFT Avatars](https://opensea.io/collection/cryptoweebs), pets, lands, [NFT Items](https://opensea.io/collection/worldwidewebbitems)\r\n, and quests. Deployed with a build-first mentality by a group of crypto-native game developers, artists, coders, and marketers; rapidly pushing out new technologies and applications.",
+            "name": "Worldwide Webb Land",
+            "shortDescription": null,
+            "isVerified": false,
+            "owner": {
+              "address": "0xb8d682deb3014fb44ea84a3f9f70126cefa4b5e5",
+              "config": "VERIFIED",
+              "isCompromised": false,
+              "user": {
+                "publicUsername": "Worldwide-webb",
+                "id": "VXNlclR5cGU6MTE4MzY3NzQ="
+              },
+              "displayName": "Worldwide-webb",
+              "imageUrl": "https://lh3.googleusercontent.com/Mi94JZM_VVD5fDXN3rV7ctn1cSI52L3z4S3wUSJLG9YA9g4uLYhlnHOivYxGWASY4lwSjYYFMJ9yEI4sRa62x5F8usX70KzCrhrB1A=s100",
+              "id": "QWNjb3VudFR5cGU6MTQ5MzA4MzYx"
+            },
+            "stats": {
+              "totalSupply": 9508.0,
+              "id": "Q29sbGVjdGlvblN0YXRzVHlwZTozMTQyNzYy"
+            },
+            "defaultChain": { "identifier": "ETHEREUM" },
+            "relayId": "Q29sbGVjdGlvblR5cGU6MzE0Mjc2Mg==",
+            "id": "Q29sbGVjdGlvblR5cGU6MzE0Mjc2Mg==",
+            "__typename": "CollectionType"
+          },
+          "cursor": "YXJyYXljb25uZWN0aW9uOjg="
+        },
+        {
+          "node": {
+            "slug": "netvrkland",
+            "logo": "https://lh3.googleusercontent.com/CEwS8Ch7B_yjWfM5kF_P8GvYqj4bVI3L0qlse4_8CyPBhiGkvFlQnBLVY30AHTA1pMXHKHOOcgg7wkiw2SIf3rZkafzJaZcvwUboRZM=s120",
+            "banner": "https://lh3.googleusercontent.com/cDOUgcfixw1lRl3pB_r9Er9eZL3zZxfzKuYkAnhuElAF4_xpxbQQ6XmWhGdVFHEASq_2BxHBYPRnPuAy76KhZwTaHGfrryS-GZFJ7w=s300",
+            "description": "Netvrk is a metaverse built on the blockchain that allows users to monetize their creations via NFTs and Virtual Land.\r\n\r\nAre you a Landlord, Magnate, Tycoon, Monarch, Baron, or Czar? Join our Landowners only Discord: https://discord.gg/land\r\n\r\nhttps://opensea.io/collection/netvrkland\r\n\r\nhttps://opensea.io/collection/netvrkbonuses\r\n\r\nhttps://opensea.io/collection/netvrkavatars\r\n\r\nhttps://opensea.io/collection/netvrktransports",
+            "name": "Netvrk Land",
+            "shortDescription": null,
+            "isVerified": false,
+            "owner": {
+              "address": "0x728b783b07f586d73dfc8660b44d61858df2bf1c",
+              "config": "VERIFIED",
+              "isCompromised": false,
+              "user": {
+                "publicUsername": "Netvrk-Deployer",
+                "id": "VXNlclR5cGU6MjExOTIyMzQ="
+              },
+              "displayName": "Netvrk-Deployer",
+              "imageUrl": "https://lh3.googleusercontent.com/CEwS8Ch7B_yjWfM5kF_P8GvYqj4bVI3L0qlse4_8CyPBhiGkvFlQnBLVY30AHTA1pMXHKHOOcgg7wkiw2SIf3rZkafzJaZcvwUboRZM=s100",
+              "id": "QWNjb3VudFR5cGU6MTczNDk0NTMw"
+            },
+            "stats": {
+              "totalSupply": 9777.0,
+              "id": "Q29sbGVjdGlvblN0YXRzVHlwZTo0NzU0MzMx"
+            },
+            "defaultChain": { "identifier": "ETHEREUM" },
+            "relayId": "Q29sbGVjdGlvblR5cGU6NDc1NDMzMQ==",
+            "id": "Q29sbGVjdGlvblR5cGU6NDc1NDMzMQ==",
+            "__typename": "CollectionType"
+          },
+          "cursor": "YXJyYXljb25uZWN0aW9uOjk="
+        },
+        {
+          "node": {
+            "slug": "nft-worlds",
+            "logo": "https://lh3.googleusercontent.com/DIafQlRW63pQ8UJqmdQBBOHZcubAE9rAkbovVx_WU_-TmIg3hF7z0y60gUGvah85_uYVgBxmhNfWUXwajaUmYZsrCPp8ZdYE0Z-wrt0=s120",
+            "banner": "https://lh3.googleusercontent.com/Z83eH0SKXuR-szAsaFQvoz_mQUshxiEJjrl6nh71-3gOD4U-Z5Crpt2qcwGTf4vltfBWods9VVGDkv436z2_QmKK-Wi7aBrd640l=s300",
+            "description": "**NFT Worlds is the most capable & flexible metaverse platform.**\n\n**[70% of NFT Worlds are staked as of 3/10/22 - True owner count is 4,500+](https://etherscan.io/token/0xBD4455dA5929D5639EE098ABFaa3241e9ae111Af#balances)**\n\nEach NFT World is an explorable, limitless world that can be built into anything you can imagine.\n\nNFT Worlds are Minecraft compatible, massively multiplayer, have extensive developer APIs, are decentralized, and more.\n\n[nftworlds.com](https://nftworlds.com/) \u2022 [Docs](https://docs.nftworlds.com/) \u2022 [Whitepaper](https://bit.ly/3iBmSFi)       \n[Twitter](https://twitter.com/nftworldsnft) \u2022 [Discord](https://discord.com/invite/AEVWVPeeG3)\n\n[View Our Roadmap](https://docs.nftworlds.com/nft-worlds-other/roadmap)",
+            "name": "NFT Worlds",
+            "shortDescription": null,
+            "isVerified": true,
+            "owner": {
+              "address": "0x2a52d32b2fb09492dde1ca2c36e1c69531664461",
+              "config": "VERIFIED",
+              "isCompromised": false,
+              "user": {
+                "publicUsername": "NFTWorldsVault",
+                "id": "VXNlclR5cGU6MzYzNDE3OQ=="
+              },
+              "displayName": "NFTWorldsVault",
+              "imageUrl": "https://lh3.googleusercontent.com/SCTHL6t1OjlvebHOXHTqcW0zr3iUUUbfonwuW6bivugEJ_8tnF95LrEjnn0mB_apRoZOeUx2ICi-GE6I-n3bu7VzR8n10A1tKzk3Qg=s100",
+              "id": "QWNjb3VudFR5cGU6ODgwMjg5MDE="
+            },
+            "stats": {
+              "totalSupply": 10000.0,
+              "id": "Q29sbGVjdGlvblN0YXRzVHlwZToyMDIzNzQ2"
+            },
+            "defaultChain": { "identifier": "ETHEREUM" },
+            "relayId": "Q29sbGVjdGlvblR5cGU6MjAyMzc0Ng==",
+            "id": "Q29sbGVjdGlvblR5cGU6MjAyMzc0Ng==",
+            "__typename": "CollectionType"
+          },
+          "cursor": "YXJyYXljb25uZWN0aW9uOjEw"
+        },
+        {
+          "node": {
+            "slug": "town-star",
+            "logo": "https://lh3.googleusercontent.com/wp7V1K4Ezhi8yHU6LFpff-GMsjend65nRiwNz5pGAjCwk7ybznEpfUvXiIxQoOWBmeN00AGjVTRhLUqY4fee1fus=s120",
+            "banner": "https://lh3.googleusercontent.com/wp7V1K4Ezhi8yHU6LFpff-GMsjend65nRiwNz5pGAjCwk7ybznEpfUvXiIxQoOWBmeN00AGjVTRhLUqY4fee1fus=s120",
+            "description": "From one of the founders of Zynga and some of the creative minds behind FarmVille and Words With Friends comes Town Star. Blockchain is the next evolution of gaming and has the $148B industry buzzing with excitement. It\u2019s gaming re-imagined to benefit creators and players, alike.",
+            "name": "Town Star",
+            "shortDescription": null,
+            "isVerified": true,
+            "owner": {
+              "address": "0x0d24de9dccd263b310b7809283786c58d1f6a667",
+              "config": null,
+              "isCompromised": false,
+              "user": null,
+              "displayName": null,
+              "imageUrl": "https://storage.googleapis.com/opensea-static/opensea-profile/17.png",
+              "id": "QWNjb3VudFR5cGU6NzM2MDk5NQ=="
+            },
+            "stats": {
+              "totalSupply": 475.0,
+              "id": "Q29sbGVjdGlvblN0YXRzVHlwZToxMDU2Mw=="
+            },
+            "defaultChain": { "identifier": "ETHEREUM" },
+            "relayId": "Q29sbGVjdGlvblR5cGU6MTA1NjM=",
+            "id": "Q29sbGVjdGlvblR5cGU6MTA1NjM=",
+            "__typename": "CollectionType"
+          },
+          "cursor": "YXJyYXljb25uZWN0aW9uOjEx"
+        }
+      ],
+      "pageInfo": {
+        "endCursor": "YXJyYXljb25uZWN0aW9uOjEx",
+        "hasNextPage": true
+      }
+    }
+  }
+}

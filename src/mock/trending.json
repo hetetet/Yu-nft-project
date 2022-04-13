@@ -1,0 +1,363 @@
+{
+  "data": {
+    "trendingCollections": {
+      "edges": [
+        {
+          "node": {
+            "slug": "89-seconds-atomized-v5",
+            "logo": "https://lh3.googleusercontent.com/_mkWRKlSIRb6zhZVCggXxT-hCmwmUOMWrkpVOIGG3eD8Z6mDr2TAxsa09v-qjDiMNABPtfXHzDzWYhe0eScwn7FQ=s60",
+            "banner": "https://lh3.googleusercontent.com/_mkWRKlSIRb6zhZVCggXxT-hCmwmUOMWrkpVOIGG3eD8Z6mDr2TAxsa09v-qjDiMNABPtfXHzDzWYhe0eScwn7FQ=s60",
+            "description": "89 seconds Atomized shatters the final artist's proof of Eve Sussman's acclaimed video 89 seconds at Alcaz\u00e1r into 2,304 unique blocks, to create a new artwork on the blockchain. An experiment in ownership and collective interaction, the piece can be reassembled and screened at will by the community of collectors.",
+            "name": "89 Seconds Atomized",
+            "shortDescription": null,
+            "isVerified": false,
+            "owner": {
+              "address": "0xc5a3d99e05c39a18d6342b5f27c08c64a486df00",
+              "config": null,
+              "isCompromised": false,
+              "user": {
+                "publicUsername": "SnarkArt",
+                "id": "VXNlclR5cGU6MzkxMw=="
+              },
+              "displayName": "SnarkArt",
+              "imageUrl": "https://storage.googleapis.com/opensea-static/opensea-profile/8.png",
+              "id": "QWNjb3VudFR5cGU6MTc5MDY3"
+            },
+            "stats": {
+              "totalSupply": 2304.0,
+              "id": "Q29sbGVjdGlvblN0YXRzVHlwZTozNjQ1"
+            },
+            "defaultChain": { "identifier": "ETHEREUM" },
+            "relayId": "Q29sbGVjdGlvblR5cGU6MzY0NQ==",
+            "id": "Q29sbGVjdGlvblR5cGU6MzY0NQ==",
+            "__typename": "CollectionType"
+          },
+          "cursor": "YXJyYXljb25uZWN0aW9uOjA="
+        },
+        {
+          "node": {
+            "slug": "monftersclub",
+            "logo": "https://lh3.googleusercontent.com/LUMJK3aqMXN6taHe04arCY5ZACTFRRmbPRg7e3FBumTzvjift0TeoWa4K5LEoEgvPuKCrgRvpwU6czfACbojwX9S_Y25oUXmyH0ceA=s120",
+            "banner": "https://lh3.googleusercontent.com/Ek3c83rPHpEwtlDCKYsq44xDQTfY_xa2r0-Xg-ywZJT8XnTQHtp0cnuWYooRLr6FlJ1esAhORdh3fPz-M7PzbKaDndUNIoO12tqdCw=s300",
+            "description": "Monfters, a group of monsters with a unique philosophy in the world of NFT. Their purpose is to find the real shining treasures in the world of NFT and bring them to more people.Monfters Club NFTs are the genesis NFTs of MonfterVerse. Limited edition of 8,000 editions, each with a different combination of cosmetic elements.",
+            "name": "Monfters Club",
+            "shortDescription": null,
+            "isVerified": false,
+            "owner": null,
+            "stats": {
+              "totalSupply": 8000.0,
+              "id": "Q29sbGVjdGlvblN0YXRzVHlwZTozNzI0ODg3"
+            },
+            "defaultChain": { "identifier": "ETHEREUM" },
+            "relayId": "Q29sbGVjdGlvblR5cGU6MzcyNDg4Nw==",
+            "id": "Q29sbGVjdGlvblR5cGU6MzcyNDg4Nw==",
+            "__typename": "CollectionType"
+          },
+          "cursor": "YXJyYXljb25uZWN0aW9uOjE="
+        },
+        {
+          "node": {
+            "slug": "cryptoadz-by-gremplin",
+            "logo": "https://lh3.googleusercontent.com/iofetZEyiEIGcNyJKpbOafb_efJyeo7QOYnTog8qcQJhqoBU-Vu9l3lXidZhXOAdu6dj4fzWW6BZDU5vLseC-K03rMMu-_j2LvwcbHo=s120",
+            "banner": "https://lh3.googleusercontent.com/HobqLd9onF24ZGcyYoCjFIKwMUY6IfPT0Rtw6Xdn2lUx4Mfl00KpBSE7OhAvPoDf-_5o7AJWr4j_Qkw0gvuCUGK1JpQT10Rz4B3ourA=s300",
+            "description": "CrypToadz are a collection 6969 small amphibious creatures trying to escape the tyrannical rule of the Evil King Gremplin. Created by Gremplin, with a small bit of help from his friends.\n\nThis project is in the public domain. Feel free to use the toadz in any way you want.",
+            "name": "CrypToadz by GREMPLIN",
+            "shortDescription": null,
+            "isVerified": true,
+            "owner": {
+              "address": "0x1b2ef9d5db72ea1103fc24eedd2226477409383a",
+              "config": null,
+              "isCompromised": false,
+              "user": {
+                "publicUsername": null,
+                "id": "VXNlclR5cGU6MTA5MDIzNQ=="
+              },
+              "displayName": null,
+              "imageUrl": "https://storage.googleapis.com/opensea-static/opensea-profile/14.png",
+              "id": "QWNjb3VudFR5cGU6NTg0MTMyMjc="
+            },
+            "stats": {
+              "totalSupply": 7014.0,
+              "id": "Q29sbGVjdGlvblN0YXRzVHlwZToxNDYyMTYx"
+            },
+            "defaultChain": { "identifier": "ETHEREUM" },
+            "relayId": "Q29sbGVjdGlvblR5cGU6MTQ2MjE2MQ==",
+            "id": "Q29sbGVjdGlvblR5cGU6MTQ2MjE2MQ==",
+            "__typename": "CollectionType"
+          },
+          "cursor": "YXJyYXljb25uZWN0aW9uOjI="
+        },
+        {
+          "node": {
+            "slug": "cryptopunks",
+            "logo": "https://lh3.googleusercontent.com/BdxvLseXcfl57BiuQcQYdJ64v-aI8din7WPk0Pgo3qQFhAUH-B6i-dCqqc_mCkRIzULmwzwecnohLhrcH8A9mpWIZqA7ygc52Sr81hE=s120",
+            "banner": "https://storage.opensea.io/0xb47e3cd837ddf8e4c57f05d70ab865de6e193bbb-featured-1556589448.png",
+            "description": "CryptoPunks launched as a fixed set of 10,000 items in mid-2017 and became one of the inspirations for the ERC-721 standard. They have been featured in places like The New York Times, Christie\u2019s of London, Art|Basel Miami, and The PBS NewsHour.",
+            "name": "CryptoPunks",
+            "shortDescription": null,
+            "isVerified": true,
+            "owner": null,
+            "stats": {
+              "totalSupply": 9999.0,
+              "id": "Q29sbGVjdGlvblN0YXRzVHlwZToyNTYz"
+            },
+            "defaultChain": { "identifier": "ETHEREUM" },
+            "relayId": "Q29sbGVjdGlvblR5cGU6MjU2Mw==",
+            "id": "Q29sbGVjdGlvblR5cGU6MjU2Mw==",
+            "__typename": "CollectionType"
+          },
+          "cursor": "YXJyYXljb25uZWN0aW9uOjM="
+        },
+        {
+          "node": {
+            "slug": "meebits",
+            "logo": "https://lh3.googleusercontent.com/d784iHHbqQFVH1XYD6HoT4u3y_Fsu_9FZUltWjnOzoYv7qqB5dLUqpGyHBd8Gq3h4mykK5Enj8pxqOUorgD2PfIWcVj9ugvu8l0=s120",
+            "banner": "https://lh3.googleusercontent.com/qwnNTSRrf9CVq4LGawMcg7i2KZhD9I5LHA4uSNnB43-UAniBBgpNMSIz013HCKtrB9KFjrJUIRwpGbTzzNA4srJV39t3LnW3vaugmB8=s2500",
+            "description": "The Meebits are 20,000 unique 3D voxel characters, created by a custom generative algorithm, then registered on the Ethereum blockchain.",
+            "name": "Meebits",
+            "shortDescription": null,
+            "isVerified": true,
+            "owner": null,
+            "stats": {
+              "totalSupply": 20000.0,
+              "id": "Q29sbGVjdGlvblN0YXRzVHlwZTo1MzY1MzU="
+            },
+            "defaultChain": { "identifier": "ETHEREUM" },
+            "relayId": "Q29sbGVjdGlvblR5cGU6NTM2NTM1",
+            "id": "Q29sbGVjdGlvblR5cGU6NTM2NTM1",
+            "__typename": "CollectionType"
+          },
+          "cursor": "YXJyYXljb25uZWN0aW9uOjQ="
+        },
+        {
+          "node": {
+            "slug": "superplastic-supergucci",
+            "logo": "https://lh3.googleusercontent.com/H2q_NpyBs7vCtL-7FWgTH1FCiYnSqC7WwybQDg95bukk3eLBFkr6udy1CBNqwrgwbBYcqshdbuxL0Slz2_IlXNkHMJJCOHEZnj0ONg=s120",
+            "banner": "https://lh3.googleusercontent.com/Oqln9OCmjutmF0L1GKuQRjubFZ1JC4-yAu616UjsuAzRcMGzZqBF6FRJXIE061XeOpC3nA7Aoy9o4oiEpwvmRGbt4WuYDzqDcZw1Tw=s2500",
+            "description": "A groundbreaking collaboration between Gucci and Superplastic, SUPERGUCCI is a three-part series of ultra-limited NFTs co-created by Gucci's Creative Director Alessandro Michele and synthetic artists Janky & Guggimon. Each NFT incorporates House codes found in the Gucci Aria collection, and comes with an exclusive 8-inch tall white ceramic SUPERGUCCI SuperJanky sculpture, hand-crafted by ceramicists in Italy. Limited to 500 made!",
+            "name": "SUPERPLASTIC: SUPERGUCCI",
+            "shortDescription": null,
+            "isVerified": true,
+            "owner": {
+              "address": "0x06caeb8090e2e7553bdfcb46e48f040fc5131afb",
+              "config": "VERIFIED",
+              "isCompromised": false,
+              "user": {
+                "publicUsername": "JankyAndGuggimon",
+                "id": "VXNlclR5cGU6OTk4Nzc4"
+              },
+              "displayName": "JankyAndGuggimon",
+              "imageUrl": "https://lh3.googleusercontent.com/vVZnYgfNBKyxc3goVpDbLjhAv3AXOKdAdtdxTwtIdBQoAdfOJRmhlm4qJVGf4Q2bpPi5pWeC3B0LvpiZ8uIdP3K5YYCiSIyMnXe0=s100",
+              "id": "QWNjb3VudFR5cGU6NTQzNzQyNjU="
+            },
+            "stats": {
+              "totalSupply": 500.0,
+              "id": "Q29sbGVjdGlvblN0YXRzVHlwZTo2NTk5MzI0"
+            },
+            "defaultChain": { "identifier": "ETHEREUM" },
+            "relayId": "Q29sbGVjdGlvblR5cGU6NjU5OTMyNA==",
+            "id": "Q29sbGVjdGlvblR5cGU6NjU5OTMyNA==",
+            "__typename": "CollectionType"
+          },
+          "cursor": "YXJyYXljb25uZWN0aW9uOjU="
+        },
+        {
+          "node": {
+            "slug": "drawshop",
+            "logo": "https://lh3.googleusercontent.com/ZTk3z-AbXhHiUYi2krQgohfRkgsHeNz-F5_sk4U16_dgC3yxOdYpIx7xtrbY7hUKLolgz0tH5v0ezcQOAkHBKo5hfef1ZMJHR2CtjQk=s120",
+            "banner": "https://lh3.googleusercontent.com/s-prK9CLkKh9yAiRnWq9f60yEGjOGFjszTrzGTJg6ea-Ju_XPdZicvWJ4s3sUgZbb9zIhPPWZVu-25t8AGqvtz1jjrL62_GGa1kUmw=s300",
+            "description": "DAO Game with NFT, P2E and DeFi.\nUsing NFT and Pixel Arts, you can decorate your shop and formulate your own strategy. Through PvP you can compete with other player's strategy and NFT and in the process, collect JOY Tokens! You can look at other player's Drawshop in the World Map and enjoy all kinds of events. You will be able to fully enjoy the quintessence of a 2D metaverse!",
+            "name": "Drawshop Kingdom Reverse",
+            "shortDescription": null,
+            "isVerified": false,
+            "owner": {
+              "address": "0x060f57485885fb6767536bf2a1ee2589dee8d2d6",
+              "config": null,
+              "isCompromised": false,
+              "user": {
+                "publicUsername": "DKReverse",
+                "id": "VXNlclR5cGU6MjE4ODA0MDg="
+              },
+              "displayName": "DKReverse",
+              "imageUrl": "https://lh3.googleusercontent.com/ZTk3z-AbXhHiUYi2krQgohfRkgsHeNz-F5_sk4U16_dgC3yxOdYpIx7xtrbY7hUKLolgz0tH5v0ezcQOAkHBKo5hfef1ZMJHR2CtjQk=s100",
+              "id": "QWNjb3VudFR5cGU6MjEwMDQ4ODU2"
+            },
+            "stats": {
+              "totalSupply": 14212.0,
+              "id": "Q29sbGVjdGlvblN0YXRzVHlwZTo2MjgzMzAw"
+            },
+            "defaultChain": { "identifier": "KLAYTN" },
+            "relayId": "Q29sbGVjdGlvblR5cGU6NjI4MzMwMA==",
+            "id": "Q29sbGVjdGlvblR5cGU6NjI4MzMwMA==",
+            "__typename": "CollectionType"
+          },
+          "cursor": "YXJyYXljb25uZWN0aW9uOjY="
+        },
+        {
+          "node": {
+            "slug": "art-blocks-factory",
+            "logo": "https://lh3.googleusercontent.com/GwnosrkaneKGEkWySxvTSzZ5bEUjWkRuQzLSNfrpgy2-gxYjoR3m5PohLT9Fzy0p1tohajZ1g-LFfF_ZLnS1GqlPNHPUaKUbDhbf=s120",
+            "banner": "https://lh3.googleusercontent.com/sr7Y19-bJwsQsxX6n8Pj5tIaNKdUEotNlfhBsYw8McKpIsYARglTORaNlGhDZ2PrH-tO1vU6tFbpamiWwIImbidhVSh4aoIh4d310Og=s300",
+            "description": "Art Blocks Factory allows artists who do not wish to wait for approval by the Curation Board a place to launch their generative art. While requirements are somewhat relaxed compared to Curated drops, the releases in Factory will reflect the innovation, creativity, and artistic beauty associated with the Art Blocks community.",
+            "name": "Art Blocks Factory",
+            "shortDescription": null,
+            "isVerified": true,
+            "owner": {
+              "address": "0x96dc73c8b5969608c77375f085949744b5177660",
+              "config": "VERIFIED",
+              "isCompromised": false,
+              "user": {
+                "publicUsername": "ArtBlocks_Admin",
+                "id": "VXNlclR5cGU6MTA5NDg1"
+              },
+              "displayName": "ArtBlocks_Admin",
+              "imageUrl": "https://lh3.googleusercontent.com/GwnosrkaneKGEkWySxvTSzZ5bEUjWkRuQzLSNfrpgy2-gxYjoR3m5PohLT9Fzy0p1tohajZ1g-LFfF_ZLnS1GqlPNHPUaKUbDhbf=s120",
+              "id": "QWNjb3VudFR5cGU6MTQ4MDc0MTU="
+            },
+            "stats": {
+              "totalSupply": 87918.0,
+              "id": "Q29sbGVjdGlvblN0YXRzVHlwZTo0MTQ5Ng=="
+            },
+            "defaultChain": { "identifier": "ETHEREUM" },
+            "relayId": "Q29sbGVjdGlvblR5cGU6NDE0OTY=",
+            "id": "Q29sbGVjdGlvblR5cGU6NDE0OTY=",
+            "__typename": "CollectionType"
+          },
+          "cursor": "YXJyYXljb25uZWN0aW9uOjc="
+        },
+        {
+          "node": {
+            "slug": "super-ordinary-villains-genesis",
+            "logo": "https://lh3.googleusercontent.com/acJL58sufDJzVcJ7Dok0YGyAzx35GoGJZ_sAQHaylOhHB0K71sTlflixSqCWphVCiSQ46Djwe5nboSv3S_0SZrIRJQTxt-RcwjZ4Rg=s120",
+            "banner": "https://lh3.googleusercontent.com/6LibLMUWvv9lNnynOFwChgFwem2NRHyq4QuGTmy25nySgNNBa-rSyRcc6obiE9xywXI6llup8cSeZr31wqnglie1INN_x_vryw-cMmI=s2500",
+            "description": "8888 piece generative NFT collection made up of super villains. But these villains aren't out of reach. They live next door, they fly about your planes, they're a part of your very ordinary world. So as you fight traffic, they also fight traffic, but with ability to light your car on fire if they get too angry.",
+            "name": "Super Ordinary Villains - SOV",
+            "shortDescription": null,
+            "isVerified": false,
+            "owner": {
+              "address": "0x1ff365e468bc43253c58e09cb0cae651c475b3bc",
+              "config": "VERIFIED",
+              "isCompromised": false,
+              "user": {
+                "publicUsername": "SuperOrdinaryVillains",
+                "id": "VXNlclR5cGU6MjU4MDc4Njc="
+              },
+              "displayName": "SuperOrdinaryVillains",
+              "imageUrl": "https://lh3.googleusercontent.com/pcm-ogesFrsXwc93T0pxFs5UrgA3UY_gxH0g7nT5ffdXDJreCPmqfrkkmfwS_89kQjp0KI2Q2r8vHF2zmreEZwWPVi-gdVsSLGhkEw=s100",
+              "id": "QWNjb3VudFR5cGU6MjU5OTUwNjYy"
+            },
+            "stats": {
+              "totalSupply": 8888.0,
+              "id": "Q29sbGVjdGlvblN0YXRzVHlwZTo4MjUwMDkw"
+            },
+            "defaultChain": { "identifier": "ETHEREUM" },
+            "relayId": "Q29sbGVjdGlvblR5cGU6ODI1MDA5MA==",
+            "id": "Q29sbGVjdGlvblR5cGU6ODI1MDA5MA==",
+            "__typename": "CollectionType"
+          },
+          "cursor": "YXJyYXljb25uZWN0aW9uOjg="
+        },
+        {
+          "node": {
+            "slug": "420-game",
+            "logo": "https://lh3.googleusercontent.com/oLh0YxnRwrQLb0G58iVuPOshNhLEe5Djx99pnbR8dqgHTR-2BZKuPXVL3nPH93_BJxDZ2EcOOHVcb3xN7UnMF9yJlgnzuGJVhxF4MQ=s120",
+            "banner": "https://lh3.googleusercontent.com/oLh0YxnRwrQLb0G58iVuPOshNhLEe5Djx99pnbR8dqgHTR-2BZKuPXVL3nPH93_BJxDZ2EcOOHVcb3xN7UnMF9yJlgnzuGJVhxF4MQ=s300",
+            "description": "https://discord.gg/looklabs\n\n420.game is a P2E weed game powered by the in-game token $HIGH & its innovative economy.\n\nGreen Pass holders receive one Gen0 weed bud, one Goat PFP, and one piece of land for free. They also get the possibility of minting up to three additional buds. Minters of the green pass will receive a free Decentraland Goat Jacket.\n\nThe main objective of Season One is to produce the Gen1 strains with the highest possible THC percentage, to stake it, and accumulate $HIGH.\n\nThe game starts by staking GEN0 buds and generating enough $HIGH so that breeding can begin.",
+            "name": "Look Labs 420 Game",
+            "shortDescription": null,
+            "isVerified": false,
+            "owner": {
+              "address": "0xb90af58c2474b2c52b9da7b8fa4761c67b561e65",
+              "config": "VERIFIED",
+              "isCompromised": false,
+              "user": {
+                "publicUsername": "GreenGenie",
+                "id": "VXNlclR5cGU6MjQ2NTY0MzM="
+              },
+              "displayName": "GreenGenie",
+              "imageUrl": "https://storage.googleapis.com/opensea-static/opensea-profile/20.png",
+              "id": "QWNjb3VudFR5cGU6MjUzMTY0NDc5"
+            },
+            "stats": {
+              "totalSupply": 2.0,
+              "id": "Q29sbGVjdGlvblN0YXRzVHlwZTo3Mjg2NzAz"
+            },
+            "defaultChain": { "identifier": "ETHEREUM" },
+            "relayId": "Q29sbGVjdGlvblR5cGU6NzI4NjcwMw==",
+            "id": "Q29sbGVjdGlvblR5cGU6NzI4NjcwMw==",
+            "__typename": "CollectionType"
+          },
+          "cursor": "YXJyYXljb25uZWN0aW9uOjk="
+        },
+        {
+          "node": {
+            "slug": "pixel-vault-mintpass",
+            "logo": "https://lh3.googleusercontent.com/3Y2i7gCGgr6JY6-qPQ3aeFTGbgZfznTprxHaCJd0xVjEQ0n-NjBISvS8pnPGfh8BAmkx67zeOu9P0XNOj8I5TOEUrPbvtTNT46rM=s120",
+            "banner": "https://lh3.googleusercontent.com/lVZd-31yqqXfE4NWrxY40USR5hjGWcf9dvnt8FNfP8qOVkhH_BB-WykFAFUYlnE8VixSWAx3ySCSkE2cVtsiJT9lATZRcleFMagq=s300",
+            "description": "Created by Pixel Vault as a key to fair and equitable NFT drops, MintPass rewards project supporters by allowing them to reserve their mints pre-drop.",
+            "name": "Pixel Vault MintPass",
+            "shortDescription": null,
+            "isVerified": true,
+            "owner": {
+              "address": "0xfd64b63d4a54e6b1a0aa88e6623046c54f960d00",
+              "config": "VERIFIED",
+              "isCompromised": false,
+              "user": {
+                "publicUsername": "PixelVaultDeployer",
+                "id": "VXNlclR5cGU6MTEwMTgyNw=="
+              },
+              "displayName": "PixelVaultDeployer",
+              "imageUrl": "https://lh3.googleusercontent.com/PuE-4w0p4QA22nWzy_L7tj2rTl5uec3JcK0-iI69kDGFFbgbDkIdSCzqgBNsozatTctf-qxFZL33nYT9WiFJhhDcxN57_ZLoeCf0=s100",
+              "id": "QWNjb3VudFR5cGU6NTg5Nzc0NzA="
+            },
+            "stats": {
+              "totalSupply": 2.0,
+              "id": "Q29sbGVjdGlvblN0YXRzVHlwZTo4MzI1MjU1"
+            },
+            "defaultChain": { "identifier": "ETHEREUM" },
+            "relayId": "Q29sbGVjdGlvblR5cGU6ODMyNTI1NQ==",
+            "id": "Q29sbGVjdGlvblR5cGU6ODMyNTI1NQ==",
+            "__typename": "CollectionType"
+          },
+          "cursor": "YXJyYXljb25uZWN0aW9uOjEw"
+        },
+        {
+          "node": {
+            "slug": "the-squishiverse",
+            "logo": "https://lh3.googleusercontent.com/d7dS9_HCsKcOej8qlW6cmO8isfgRs3wpJGBznyka5UiEIqPhb5Ut9LbUcOTgIyhsqKvsJrNLF2t30lFUkTXDio-VFwqKbRpp_D11=s120",
+            "banner": "https://lh3.googleusercontent.com/1oBJZ0i4xH5v3CAieMhbFawyzYq6SsAKG6H60ztBd3x6YIPUPXVtGKLXh12rj8IMtm8aRQyq5a8ieY-gLHchuVSrgTGaBiIj3EHM=s300",
+            "description": "ATTENTION: Unique holder count is inaccurate due to staking for $SLIME. Please refer to our website to see how many Squishie's are staked.\n\nSquishiverse, a collection of incredibly cute slime, blob-like NFTs on the Ethereum blockchain. They are an homage to the many slime references you'll see, typically in popular Asian culture.\n\nHolding these Squishies will bring you never-ending returns of art into your wallet, the opportunity to support and help artists flourish, and an opportunity into a metaverse integration.",
+            "name": "The Squishiverse NFT",
+            "shortDescription": null,
+            "isVerified": false,
+            "owner": {
+              "address": "0xb95fd2042d75ded4fca1223d6ca552e59f92306b",
+              "config": null,
+              "isCompromised": false,
+              "user": {
+                "publicUsername": "SquishiverseDeployer",
+                "id": "VXNlclR5cGU6MjQzODg4MTI="
+              },
+              "displayName": "SquishiverseDeployer",
+              "imageUrl": "https://storage.googleapis.com/opensea-static/opensea-profile/6.png",
+              "id": "QWNjb3VudFR5cGU6MjUxNjQ1MjIw"
+            },
+            "stats": {
+              "totalSupply": 8888.0,
+              "id": "Q29sbGVjdGlvblN0YXRzVHlwZTo3MTU4Mjg5"
+            },
+            "defaultChain": { "identifier": "ETHEREUM" },
+            "relayId": "Q29sbGVjdGlvblR5cGU6NzE1ODI4OQ==",
+            "id": "Q29sbGVjdGlvblR5cGU6NzE1ODI4OQ==",
+            "__typename": "CollectionType"
+          },
+          "cursor": "YXJyYXljb25uZWN0aW9uOjEx"
+        }
+      ],
+      "pageInfo": {
+        "endCursor": "YXJyYXljb25uZWN0aW9uOjEx",
+        "hasNextPage": true
+      }
+    }
+  }
+}
